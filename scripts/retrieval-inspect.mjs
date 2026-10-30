@@ -1,0 +1,12 @@
+import { loadLocalCorpus } from "./local-retrieval-corpus.mjs";
+import { loadTypeScript } from "./load-typescript.mjs";
+const args = process.argv.slice(2), collectionIndex = args.indexOf("--collection");
+const collectionId = collectionIndex < 0 ? undefined : args.splice(collectionIndex, 2)[1];
+const [mode, question, selectedStructureId = null] = args;
+if (!["--synthetic", "--approved", "--candidate"].includes(mode)) throw new Error("Select --synthetic, --approved or --candidate explicitly; no network requests");
+const { LocalRetrievalProvider } = loadTypeScript("lib/tutor/retrieval.ts");
+const { evaluateSupport } = loadTypeScript("lib/tutor/retrieval-evaluation.ts");
+const { resolveAnatomicalTerms } = loadTypeScript("lib/tutor/terminology.ts");
+const corpus = await loadLocalCorpus(mode, false, collectionId);
+const passages = await new LocalRetrievalProvider(corpus).retrieve({ question, selectedStructureId }, AbortSignal.timeout(5000));
+console.log(JSON.stringify({ mode: mode === "--synthetic" ? "SYNTHETIC TEST ONLY / NO NETWORK" : mode === "--candidate" ? "SCIENTIFICALLY APPROVED CANDIDATE / NOT ACTIVATED / NO NETWORK" : "ACTIVE APPROVED LOCAL DOCUMENT INSPECTION / NO NETWORK", anatomicalTerms: resolveAnatomicalTerms(question), documents: new Set(corpus.map(d => d.source.teachingDocumentId ?? d.source.id)).size, passageUnits: corpus.length, passages, support: evaluateSupport(passages, selectedStructureId ? [selectedStructureId] : []) }, null, 2));

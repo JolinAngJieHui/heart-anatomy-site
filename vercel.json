@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs",
+  "buildCommand": "npm run build -- --webpack",
+  "installCommand": "npm ci",
+  "functions": {
+    "app/api/chat/route.ts": { "maxDuration": 180 },
+    "app/api/tutor/route.ts": { "maxDuration": 180 },
+    "app/api/learning/review/route.ts": { "maxDuration": 180 },
+    "app/api/learning/quiz/route.ts": { "maxDuration": 180 }
+  }
+}

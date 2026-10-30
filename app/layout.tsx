@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Heart Anatomy Lab",
-  description: "Interactive 3D explorer for learning the chambers and great vessels of the heart.",
+  description: "Interactive coronary artery and vein explorer with numbered 3D markers and three learning levels.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

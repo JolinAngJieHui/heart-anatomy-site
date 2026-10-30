@@ -1,0 +1,632 @@
+{
+  "collectionId": "minimal-2026-10-14",
+  "collectionVersion": "2c5e7010588da07139e4182423a4fbddef0d42c95d3336ebf633694485cc7a2e",
+  "method": "existing deterministic paragraph/concept retrieval; no neural embeddings",
+  "documents": [
+    {
+      "sourceId": "R1",
+      "hash": "902f00fd9cfb502b59e3117d483088ffe1abb508c30a62fede478013b619fb05",
+      "documentVersion": "extract-902f00fd9cfb502b59e3",
+      "passages": [
+        {
+          "id": "R1:extract-902f00fd9cfb502b59e3:1ae698565222195e0294",
+          "section": "3. Anatomy of the Coronary Arteries | sec3-jcm-13-03920/p[1]"
+        },
+        {
+          "id": "R1:extract-902f00fd9cfb502b59e3:9efceb047880af35b5f0",
+          "section": "3. Anatomy of the Coronary Arteries | sec3-jcm-13-03920/p[2]"
+        },
+        {
+          "id": "R1:extract-902f00fd9cfb502b59e3:3633a43e0429e32d0703",
+          "section": "3. Anatomy of the Coronary Arteries | sec3-jcm-13-03920/p[4]"
+        },
+        {
+          "id": "R1:extract-902f00fd9cfb502b59e3:23d2f2aa53f5d44a17ed",
+          "section": "3. Anatomy of the Coronary Arteries | sec3-jcm-13-03920/p[5]"
+        },
+        {
+          "id": "R1:extract-902f00fd9cfb502b59e3:1ec499b4aae205258445",
+          "section": "3. Anatomy of the Coronary Arteries | sec3-jcm-13-03920/p[6]"
+        },
+        {
+          "id": "R1:extract-902f00fd9cfb502b59e3:7ff31e124b2bbfe24d90",
+          "section": "3. Anatomy of the Coronary Arteries | sec3-jcm-13-03920/p[7]"
+        },
+        {
+          "id": "R1:extract-902f00fd9cfb502b59e3:80358bfc484023a2ed7e",
+          "section": "3. Anatomy of the Coronary Arteries | sec3-jcm-13-03920/p[8]"
+        },
+        {
+          "id": "R1:extract-902f00fd9cfb502b59e3:1a71e634e81e4cc2f765",
+          "section": "3. Anatomy of the Coronary Arteries | sec3-jcm-13-03920/p[9]"
+        },
+        {
+          "id": "R1:extract-902f00fd9cfb502b59e3:f05b9085ad087ad79540",
+          "section": "3. Anatomy of the Coronary Arteries | sec3-jcm-13-03920/p[10]"
+        }
+      ]
+    },
+    {
+      "sourceId": "R2",
+      "hash": "b67e48256dec001a2fd07c30ac6ff2e33b37a171787a468c35e69579cfb623b0",
+      "documentVersion": "extract-b67e48256dec001a2fd0",
+      "passages": [
+        {
+          "id": "R2:extract-b67e48256dec001a2fd0:fa544688ad54f5483ae2",
+          "section": "1. Introduction | S1/p[1]"
+        },
+        {
+          "id": "R2:extract-b67e48256dec001a2fd0:e8f4028d120c533532c9",
+          "section": "2. Right ventricular anatomy, function and arterial blood supply | S2/p[1]"
+        },
+        {
+          "id": "R2:extract-b67e48256dec001a2fd0:99ae4d40160de37bb99c",
+          "section": "2. Right ventricular anatomy, function and arterial blood supply | S2/p[2]"
+        },
+        {
+          "id": "R2:extract-b67e48256dec001a2fd0:cca9570ef0ec8485f6f3",
+          "section": "3. Pathophysiology of right ventricular myocardial infarction | S3/p[1]"
+        },
+        {
+          "id": "R2:extract-b67e48256dec001a2fd0:192155edb31e74a69da8",
+          "section": "4.1 Clinical presentation and symptoms | S4-SS1/p[1]"
+        },
+        {
+          "id": "R2:extract-b67e48256dec001a2fd0:43f57b905b1f70043153",
+          "section": "4.1 Clinical presentation and symptoms | S4-SS1/p[2]"
+        },
+        {
+          "id": "R2:extract-b67e48256dec001a2fd0:de126abb508ad662f898",
+          "section": "4.3 Chest radiograph | S4-SS3/p[1]"
+        },
+        {
+          "id": "R2:extract-b67e48256dec001a2fd0:2f82317923f7b8770f80",
+          "section": "4.6 Cardiac magnetic resonance imaging | S4-SS6/p[1]"
+        }
+      ]
+    },
+    {
+      "sourceId": "R3",
+      "hash": "b8a9d77176b4446820d3920e1637c2d67420a24dbe47d8ea1c3a8c45e9ac64c8",
+      "documentVersion": "extract-b8a9d77176b4446820d3",
+      "passages": [
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:2b6bb6a753f5ece0b268",
+          "section": "1. Introduction of Left Main Coronary Disease | S1/p[1]"
+        },
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:b3669cea084bffb4136e",
+          "section": "2. Clinical Presentation and Symptoms | S2/p[1]"
+        },
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:d29aea74347920567623",
+          "section": "2. Clinical Presentation and Symptoms | S2/p[2]"
+        },
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:97b2385982aa570e96a2",
+          "section": "3. Diagnosis of Left Main Disease | S3/p[1]"
+        },
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:4523b0d7d0f0cb11ae17",
+          "section": "3. Diagnosis of Left Main Disease > 3.1 Electrocardiogram | S3.SS1/p[2]"
+        },
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:ba13a048bd02d9c09848",
+          "section": "3. Diagnosis of Left Main Disease > 3.2 Echocardiogram | S3.SS2/p[1]"
+        },
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:1e392fda4076ffd893ff",
+          "section": "3. Diagnosis of Left Main Disease > 3.2 Echocardiogram | S3.SS2/p[2]"
+        },
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:f409432dfdecbcf7c403",
+          "section": "3. Diagnosis of Left Main Disease > 3.3 Coronary Computed Tomography Angiography | S3.SS3/p[3]"
+        },
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:8b029b57ddfa10192c55",
+          "section": "4. LMCAD Pathophysiology and Genetic/Phenotypic Considerations | S4/p[1]"
+        },
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:96bdfa0eaf89e0d7762e",
+          "section": "4. LMCAD Pathophysiology and Genetic/Phenotypic Considerations | S4/p[2]"
+        },
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:2c9f7d407bfb479e35c6",
+          "section": "4. LMCAD Pathophysiology and Genetic/Phenotypic Considerations | S4/p[4]"
+        },
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:357db5a17b1efdf648a7",
+          "section": "4. LMCAD Pathophysiology and Genetic/Phenotypic Considerations | S4/p[5]"
+        },
+        {
+          "id": "R3:extract-b8a9d77176b4446820d3:238c2463fb2c12bb22e8",
+          "section": "4. LMCAD Pathophysiology and Genetic/Phenotypic Considerations | S4/p[6]"
+        }
+      ]
+    },
+    {
+      "sourceId": "R4",
+      "hash": "bbf8691887802536939e39d8994b190a797ea1902337b4f18bfc5c455db9eaa3",
+      "documentVersion": "extract-bbf8691887802536939e",
+      "passages": [
+        {
+          "id": "R4:extract-bbf8691887802536939e:04ed46cfb0f4a95aafc2",
+          "section": "1. Introduction | sec1-jcm-13-04600/p[2]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:170d4d2bde2c15ea8717",
+          "section": "1. Introduction | sec1-jcm-13-04600/p[3]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:82e38e8eab3a21186685",
+          "section": "1. Introduction | sec1-jcm-13-04600/p[4]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:77da47fec054935b2d36",
+          "section": "1. Introduction | sec1-jcm-13-04600/p[5]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:6eb78c9689e3b07ccd0a",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests | sec2dot1-jcm-13-04600/p[1]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:316c7b4366b0bbee280b",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests | sec2dot1-jcm-13-04600/p[2]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:ada1d2f8f77d59a1a500",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.1. Cardiac Magnetic Resonance (CMR) | sec2dot1dot1-jcm-13-04600/p[1]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:2beca0766c49cab29774",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.1. Cardiac Magnetic Resonance (CMR) | sec2dot1dot1-jcm-13-04600/p[2]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:23e5afe8d7f177f652ff",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.1. Cardiac Magnetic Resonance (CMR) | sec2dot1dot1-jcm-13-04600/p[3]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:0d8141359552d2779e3f",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.1. Cardiac Magnetic Resonance (CMR) | sec2dot1dot1-jcm-13-04600/p[4]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:6cc62b9c011ae8cb8c2a",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.1. Cardiac Magnetic Resonance (CMR) | sec2dot1dot1-jcm-13-04600/p[5]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:a2aa501734499e90d77e",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.1. Cardiac Magnetic Resonance (CMR) | sec2dot1dot1-jcm-13-04600/p[6]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:5473d7d25e5491f1eb79",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.2. Nuclear Medicine: Single-Photon-Emission Computed Tomography (SPECT) and Positron Emission Tomography (PET) | sec2dot1dot2-jcm-13-04600/p[1]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:64f6c65726447bdbefbb",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.2. Nuclear Medicine: Single-Photon-Emission Computed Tomography (SPECT) and Positron Emission Tomography (PET) | sec2dot1dot2-jcm-13-04600/p[3]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:f7fbaf57120b4da08a04",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.2. Nuclear Medicine: Single-Photon-Emission Computed Tomography (SPECT) and Positron Emission Tomography (PET) | sec2dot1dot2-jcm-13-04600/p[4]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:b78fbb66c3676f70bc69",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.3. The Role of Stress Echocardiography (SE) | sec2dot1dot3-jcm-13-04600/p[1]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:61a0b6f7c38b0556b272",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.3. The Role of Stress Echocardiography (SE) | sec2dot1dot3-jcm-13-04600/p[2]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:14863761bfe520770013",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.3. The Role of Stress Echocardiography (SE) | sec2dot1dot3-jcm-13-04600/p[3]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:d77ee4f7f488544172d4",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.3. The Role of Stress Echocardiography (SE) | sec2dot1dot3-jcm-13-04600/p[4]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:04b86834d730f7daa632",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.2. Risk Stratification in CAD Patients | sec2dot2-jcm-13-04600/p[1]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:56be2cc6d2d0f5f78c1a",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.2. Risk Stratification in CAD Patients | sec2dot2-jcm-13-04600/p[2]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:cb1e03ce55461c0c5912",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.2. Risk Stratification in CAD Patients | sec2dot2-jcm-13-04600/p[3]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:d43a41996df01536dcf3",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.2. Risk Stratification in CAD Patients | sec2dot2-jcm-13-04600/p[4]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:c8f6bec2b11e9596b7cd",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.2. Risk Stratification in CAD Patients | sec2dot2-jcm-13-04600/p[5]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:28f4e3f1738033ee2a64",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.2. Risk Stratification in CAD Patients | sec2dot2-jcm-13-04600/p[6]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:1be2e9405c901d092273",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.3. Time for CCTA | sec2dot3-jcm-13-04600/p[2]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:b17125ff6985ee741395",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.3. Time for CCTA | sec2dot3-jcm-13-04600/p[3]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:7fb02d37fb1e3d6aa0e1",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.3. Time for CCTA | sec2dot3-jcm-13-04600/p[4]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:4818696824c9b50af21c",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.3. Time for CCTA | sec2dot3-jcm-13-04600/p[5]"
+        },
+        {
+          "id": "R4:extract-bbf8691887802536939e:9c89dbef891a8ba9dd6e",
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.4. Coronary Artery Calcium (CAC) Scoring | sec2dot4-jcm-13-04600/p[1]"
+        }
+      ]
+    },
+    {
+      "sourceId": "R5",
+      "hash": "2bbf792e50ba8cc5b0035b478f8eb9cf160cc52d3e2adcf9a9d192de48a91e28",
+      "documentVersion": "extract-2bbf792e50ba8cc5b003",
+      "passages": [
+        {
+          "id": "R5:extract-2bbf792e50ba8cc5b003:6a3ceb9b6f861737378d",
+          "section": "Introduction | Sec1/p[1]"
+        },
+        {
+          "id": "R5:extract-2bbf792e50ba8cc5b003:0722d7224f7c022c6901",
+          "section": "Discussion | Sec10/p[1]"
+        },
+        {
+          "id": "R5:extract-2bbf792e50ba8cc5b003:84439044fe25f4438c80",
+          "section": "Discussion | Sec10/p[2]"
+        },
+        {
+          "id": "R5:extract-2bbf792e50ba8cc5b003:6e1ebdbddc8363a3d411",
+          "section": "Discussion | Sec10/p[4]"
+        },
+        {
+          "id": "R5:extract-2bbf792e50ba8cc5b003:1f432ed89837f9e69afb",
+          "section": "Discussion | Sec10/p[5]"
+        },
+        {
+          "id": "R5:extract-2bbf792e50ba8cc5b003:ff9a9414dd49b1d2ade0",
+          "section": "Limitations | Sec11/p[1]"
+        }
+      ]
+    },
+    {
+      "sourceId": "R6",
+      "hash": "4f034b046ac6d610bca8c62c77922b4664f321160c09b3dd755357ceb4e019e6",
+      "documentVersion": "extract-4f034b046ac6d610bca8",
+      "passages": [
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:f4ac2a510302e29ab093",
+          "section": "1. Introduction | S1/p[1]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:985ef885d7bf791fb249",
+          "section": "1. Introduction | S1/p[2]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:2ffcaad1f973efb946b3",
+          "section": "1. Introduction | S1/p[3]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:b5108adccf20fd17f480",
+          "section": "1. Introduction | S1/p[4]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:71a56d5fef65bee91917",
+          "section": "1. Introduction | S1/p[5]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:b48aba2067a5fe669f5d",
+          "section": "1. Introduction | S1/p[6]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:045f27f1b20d99d36c1d",
+          "section": "1. Introduction | S1/p[7]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:377b69b7ce23f53eb24a",
+          "section": "1. Introduction | S1/p[8]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:0489c7b3a16f17a22279",
+          "section": "1. Introduction | S1/p[9]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:e181db9e7246b5516c4a",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.1 Anatomical Considerations: Cx Determines the Dominance of the Coronary Arteries | S2.SS1.SSS1/p[1]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:e4b165670e5fb65cf1d4",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.1 Anatomical Considerations: Cx Determines the Dominance of the Coronary Arteries | S2.SS1.SSS1/p[2]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:23c86963405a8b09a813",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.7 Acute Coronary Syndrome (ACS) and Cx Occlusion | S2.SS1.SSS7/p[1]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:0dbc53690a5cff2d6180",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.7 Acute Coronary Syndrome (ACS) and Cx Occlusion | S2.SS1.SSS7/p[2]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:1eb148a4c24e044833f3",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.8 Culprit Lesions in Acute and Chronic Coronary Syndrome: Cx or RCA? | S2.SS1.SSS8/p[1]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:bc27274d932eb7ff1535",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.8 Culprit Lesions in Acute and Chronic Coronary Syndrome: Cx or RCA? | S2.SS1.SSS8/p[2]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:1b2af39be28575a4eba4",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.8 Culprit Lesions in Acute and Chronic Coronary Syndrome: Cx or RCA? | S2.SS1.SSS8/p[3]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:40c1d4b0b605725a82dc",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx | S2.SS4/p[1]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:8b4f798514138c1d0e2e",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx | S2.SS4/p[2]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:6e2e8d3bf891f9ee70ab",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx | S2.SS4/p[3]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:425a50225bf3bfd7c18e",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx | S2.SS4/p[4]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:dda8e444dee02b1e00db",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx | S2.SS4/p[5]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:5d0d61fa12d44e11264c",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx | S2.SS4/p[6]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:83d9ad0ae655e0563685",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx | S2.SS4/p[7]"
+        },
+        {
+          "id": "R6:extract-4f034b046ac6d610bca8:3a75517dffc41dd0f583",
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx | S2.SS4/p[8]"
+        }
+      ]
+    },
+    {
+      "sourceId": "R7",
+      "hash": "2d95f735ac411f392a3185b0819eb2fb4e9c2d51249609b5ae0bcd38209f0090",
+      "documentVersion": "extract-2d95f735ac411f392a31",
+      "passages": [
+        {
+          "id": "R7:extract-2d95f735ac411f392a31:1f8fe9ea558969aff4ed",
+          "section": "Background | Sec1-section/p[1]"
+        },
+        {
+          "id": "R7:extract-2d95f735ac411f392a31:3f7a7ca84af91bafc025",
+          "section": "Discussion | Sec3-section/p[4]/sentence[2]"
+        }
+      ]
+    },
+    {
+      "sourceId": "R8",
+      "hash": "e64da376909eab54280ec7d8798e20068d059ae6e219696e3e03329db2d1783f",
+      "documentVersion": "extract-e64da376909eab54280e",
+      "passages": [
+        {
+          "id": "R8:extract-e64da376909eab54280e:90d136c382c5e72f3151",
+          "section": "Main text > Aortic anatomy—aortic root and ascending aorta | Sec6/p[1]"
+        },
+        {
+          "id": "R8:extract-e64da376909eab54280e:9862264b38c7d96e77b8",
+          "section": "Main text > Aortic anatomy—aortic root and ascending aorta | Sec6/p[2]"
+        },
+        {
+          "id": "R8:extract-e64da376909eab54280e:951e8d8d5d6f6ad69e7b",
+          "section": "Main text > Lesions of the proximal aorta > Ascending aortic and sinuses of Valsalva aneurysm | Sec8/p[2]"
+        },
+        {
+          "id": "R8:extract-e64da376909eab54280e:3f0fd428bb85ba8cddbd",
+          "section": "Main text > Lesions of the proximal aorta > Aortic dissection (AD) | Sec10/p[1]"
+        },
+        {
+          "id": "R8:extract-e64da376909eab54280e:c933d8b3e645a203d239",
+          "section": "Main text > Lesions of the proximal aorta > Aortic dissection (AD) | Sec10/p[2]"
+        }
+      ]
+    },
+    {
+      "sourceId": "R9",
+      "hash": "15a6c9a025f2de8aac2b719f35cdf56ecb92297d902916cd4fb8c587d25a6665",
+      "documentVersion": "extract-15a6c9a025f2de8aac2b",
+      "passages": [
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:305d2dd392909e39c3af",
+          "section": "1. Introduction | sec1-jcdd-12-00146/p[1]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:fbbc66808099adb5b420",
+          "section": "1. Introduction | sec1-jcdd-12-00146/p[2]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:c87b057cd1e7f1374d16",
+          "section": "1. Introduction | sec1-jcdd-12-00146/p[3]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:33eaf2da48964b3cfd45",
+          "section": "4. Discussion | sec4-jcdd-12-00146/p[1]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:3244a0142ec1023b31d2",
+          "section": "4. Discussion | sec4-jcdd-12-00146/p[2]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:172f840c845b25715780",
+          "section": "4. Discussion | sec4-jcdd-12-00146/p[3]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:75d022e87e6f7d0bf538",
+          "section": "4. Discussion | sec4-jcdd-12-00146/p[4]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:7e2fc0dae2b9faaa7690",
+          "section": "4. Discussion | sec4-jcdd-12-00146/p[6]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:7263ff513ba94a2cefea",
+          "section": "4. Discussion | sec4-jcdd-12-00146/p[7]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:d3e430385d86bece0ab8",
+          "section": "4. Discussion | sec4-jcdd-12-00146/p[8]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:045fb09e5c42676d49ef",
+          "section": "4. Discussion | sec4-jcdd-12-00146/p[9]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:52509c8e5f3b81b9b020",
+          "section": "4. Discussion | sec4-jcdd-12-00146/p[10]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:1fdc8e8278cf85036f5d",
+          "section": "4. Discussion | sec4-jcdd-12-00146/p[12]"
+        },
+        {
+          "id": "R9:extract-15a6c9a025f2de8aac2b:e67f124f1c1f6e1dfa16",
+          "section": "4. Discussion | sec4-jcdd-12-00146/p[15]"
+        }
+      ]
+    },
+    {
+      "sourceId": "R10",
+      "hash": "42510bff97e1e205fc215f60d82da7761dfdf3fbaae648628ad25b1d0a294e62",
+      "documentVersion": "extract-42510bff97e1e205fc21",
+      "passages": [
+        {
+          "id": "R10:extract-42510bff97e1e205fc21:c7065022dab879e5ad25",
+          "section": "Anatomy and physiology | Sec2/p[1]"
+        },
+        {
+          "id": "R10:extract-42510bff97e1e205fc21:2bfccfc9c1150f01d926",
+          "section": "Anatomy and physiology | Sec2/p[2]"
+        },
+        {
+          "id": "R10:extract-42510bff97e1e205fc21:7d9597e6d808ef1a5d53",
+          "section": "Anatomy and physiology | Sec2/p[3]"
+        },
+        {
+          "id": "R10:extract-42510bff97e1e205fc21:9e1ccf275d86a20c7cfb",
+          "section": "Etiologies | Sec3/p[1]"
+        },
+        {
+          "id": "R10:extract-42510bff97e1e205fc21:5b306778fa5d941f471f",
+          "section": "Clinical evaluation | Sec4/p[1]"
+        },
+        {
+          "id": "R10:extract-42510bff97e1e205fc21:f47d11ac6345f1f7ce52",
+          "section": "Clinical evaluation | Sec4/p[2]"
+        },
+        {
+          "id": "R10:extract-42510bff97e1e205fc21:ca776a3f1ee8cdd6db90",
+          "section": "Imaging | Sec5/p[1]"
+        },
+        {
+          "id": "R10:extract-42510bff97e1e205fc21:23d5332d6b0ce459c156",
+          "section": "Imaging | Sec5/p[3]"
+        },
+        {
+          "id": "R10:extract-42510bff97e1e205fc21:d859243b6b0ef086d193",
+          "section": "Imaging | Sec5/p[4]"
+        },
+        {
+          "id": "R10:extract-42510bff97e1e205fc21:7015ffa9ea4bcae3fc3f",
+          "section": "Histology | Sec6/p[1]"
+        }
+      ]
+    },
+    {
+      "sourceId": "R11",
+      "hash": "67b46f7bf412fad59eb819eebff94999aaa91188b305fc37c7d419692c6cf0ea",
+      "documentVersion": "extract-67b46f7bf412fad59eb8",
+      "passages": [
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:c61cb7b22947ceb8367c",
+          "section": "Pathophysiology of coronary sinus thrombosis (CST) > The anatomy and function of the coronary sinus (CS) | Sec2/p[1]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:be8bf88521ce45601b92",
+          "section": "Pathophysiology of coronary sinus thrombosis (CST) > The anatomy and function of the coronary sinus (CS) | Sec2/p[2]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:8d0a04b69f8b33c8b61a",
+          "section": "Pathophysiology of coronary sinus thrombosis (CST) > Clinical significance of the CS | Sec3/p[1]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:1ecaf9ae65164da97583",
+          "section": "CST | Sec5/p[1]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:09265a21e77c5f46eb70",
+          "section": "CST > CST formation mechanisms | Sec6/p[1]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:45327e80e11c8120fae3",
+          "section": "CST > CST formation mechanisms | Sec6/p[2]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:4457a52c7864ae80abaf",
+          "section": "CST > CST formation mechanisms | Sec6/p[3]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:ac3d9b1f643ede5cf543",
+          "section": "Clinical presentations of CST | Sec8/p[1]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:f017683bed405496ec7e",
+          "section": "Clinical presentations of CST | Sec8/p[2]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:ef34ed9941cfda33dbcb",
+          "section": "Clinical presentations of CST | Sec8/p[3]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:83eeafca62aa63c1b550",
+          "section": "Clinical diagnosis of CST | Sec9/p[1]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:1222bef888900a4a3e0b",
+          "section": "Clinical diagnosis of CST | Sec9/p[3]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:89ea4c43612fc09c1a45",
+          "section": "Clinical diagnosis of CST | Sec9/p[4]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:8db89c48422b84a934e2",
+          "section": "Clinical diagnosis of CST | Sec9/p[5]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:031b963ba6246c5d0164",
+          "section": "Clinical diagnosis of CST | Sec9/p[6]"
+        },
+        {
+          "id": "R11:extract-67b46f7bf412fad59eb8:4cb01da0aa4f53f816db",
+          "section": "Clinical diagnosis of CST | Sec9/p[7]"
+        }
+      ]
+    }
+  ]
+}

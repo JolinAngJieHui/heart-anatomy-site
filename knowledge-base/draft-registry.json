@@ -1,0 +1,986 @@
+[
+  {
+    "id": "website-right-coronary-proximal",
+    "title": "Right Coronary Artery (Proximal): existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "right-coronary-proximal"
+    ],
+    "location": "lib/education.ts#right-coronary-proximal",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "arteries",
+      "angiography",
+      "inferior"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-right-coronary-middle",
+    "title": "Right Coronary Artery (Middle): existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "right-coronary-middle"
+    ],
+    "location": "lib/education.ts#right-coronary-middle",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "angiography",
+      "arteries",
+      "dominance"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-right-coronary-distal",
+    "title": "Right Coronary Artery (Distal): existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "right-coronary-distal"
+    ],
+    "location": "lib/education.ts#right-coronary-distal",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "arteries",
+      "inferior",
+      "dominance"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-posterior-descending-artery",
+    "title": "Posterior Descending Artery: existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "posterior-descending-artery"
+    ],
+    "location": "lib/education.ts#posterior-descending-artery",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "dominance",
+      "angiography",
+      "inferior"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-left-coronary-artery",
+    "title": "Left Coronary Artery: existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "left-coronary-artery"
+    ],
+    "location": "lib/education.ts#left-coronary-artery",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "arteries",
+      "surgery",
+      "revascularization"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-left-anterior-descending-proximal",
+    "title": "Left Anterior Descending (Proximal): existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "left-anterior-descending-proximal"
+    ],
+    "location": "lib/education.ts#left-anterior-descending-proximal",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "lad",
+      "revascularization",
+      "surgery"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-left-anterior-descending-mid",
+    "title": "Left Anterior Descending (Mid): existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "left-anterior-descending-mid"
+    ],
+    "location": "lib/education.ts#left-anterior-descending-mid",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "lad",
+      "angiography",
+      "revascularization"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-left-anterior-descending-apical",
+    "title": "Left Anterior Descending (Apical): existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "left-anterior-descending-apical"
+    ],
+    "location": "lib/education.ts#left-anterior-descending-apical",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "lad",
+      "surgery",
+      "revascularization"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-left-diagonal-d1",
+    "title": "Left Diagonal D1: existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "left-diagonal-d1"
+    ],
+    "location": "lib/education.ts#left-diagonal-d1",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "lad",
+      "arteries",
+      "revascularization"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-left-diagonal-d2",
+    "title": "Left Diagonal D2: existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "left-diagonal-d2"
+    ],
+    "location": "lib/education.ts#left-diagonal-d2",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "lad",
+      "angiography",
+      "revascularization"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-left-circumflex-artery",
+    "title": "Left Circumflex Artery: existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "left-circumflex-artery"
+    ],
+    "location": "lib/education.ts#left-circumflex-artery",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "circumflex",
+      "dominance",
+      "posterior"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-right-marginal-artery",
+    "title": "Right Marginal Artery: existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "right-marginal-artery"
+    ],
+    "location": "lib/education.ts#right-marginal-artery",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "arteries",
+      "angiography",
+      "inferior"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-right-conus-artery",
+    "title": "Right Conus Artery: existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "right-conus-artery"
+    ],
+    "location": "lib/education.ts#right-conus-artery",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "conus",
+      "arteries",
+      "angiography"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-left-marginal-artery",
+    "title": "Left Marginal Artery: existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "left-marginal-artery"
+    ],
+    "location": "lib/education.ts#left-marginal-artery",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "circumflex",
+      "surgery",
+      "revascularization"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-ascending-aorta",
+    "title": "Ascending Aorta: existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "ascending-aorta"
+    ],
+    "location": "lib/education.ts#ascending-aorta",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "flow",
+      "aorta"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-superior-vena-cava",
+    "title": "Superior Vena Cava: existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "superior-vena-cava"
+    ],
+    "location": "lib/education.ts#superior-vena-cava",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "svc",
+      "sinus"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "website-coronary-sinus",
+    "title": "Coronary Sinus: existing website explanations",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Basic, Intermediate, Advanced and blood-flow route",
+    "structureIds": [
+      "coronary-sinus"
+    ],
+    "location": "lib/education.ts#coronary-sinus",
+    "status": "draft",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": false,
+    "documentPath": null,
+    "referenceIds": [
+      "sinus",
+      "svc"
+    ],
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-arteries",
+    "title": "StatPearls: Heart Arteries",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "left-coronary-artery",
+      "left-diagonal-d1",
+      "right-marginal-artery",
+      "right-conus-artery"
+    ],
+    "location": "https://www.ncbi.nlm.nih.gov/books/NBK470522/",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-lad",
+    "title": "StatPearls: Left Anterior Descending Artery",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2"
+    ],
+    "location": "https://www.ncbi.nlm.nih.gov/books/NBK482375/",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-angiography",
+    "title": "StatPearls: Coronary Arteriography",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "posterior-descending-artery",
+      "left-anterior-descending-mid",
+      "left-diagonal-d2",
+      "right-marginal-artery",
+      "right-conus-artery"
+    ],
+    "location": "https://www.ncbi.nlm.nih.gov/books/NBK538158/",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-dominance",
+    "title": "JAHA: Clinical Significance of Coronary Arterial Dominance",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "left-circumflex-artery"
+    ],
+    "location": "https://pubmed.ncbi.nlm.nih.gov/38639360/",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-inferior",
+    "title": "StatPearls: Inferior Myocardial Infarction",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "right-marginal-artery"
+    ],
+    "location": "https://www.ncbi.nlm.nih.gov/books/NBK470572/",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-revascularization",
+    "title": "ACC/AHA/SCAI: Revascularization Guideline Perspectives",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-marginal-artery"
+    ],
+    "location": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2021/12/08/21/19/2021-guideline-for-revascularization-gl-revasc",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-circumflex",
+    "title": "Cleveland Clinic: Circumflex Artery",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "left-circumflex-artery",
+      "left-marginal-artery"
+    ],
+    "location": "https://my.clevelandclinic.org/health/body/23926-circumflex-artery",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-surgery",
+    "title": "Review: Coronary Anatomy Relevant to Cardiac Surgery",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-apical",
+      "left-marginal-artery"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060931/",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-conus",
+    "title": "Clinical Anatomy: The Conal Artery",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "right-conus-artery"
+    ],
+    "location": "https://pubmed.ncbi.nlm.nih.gov/25255889/",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-posterior",
+    "title": "Clinical Case: Posterior MI and ECG Recognition",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "left-circumflex-artery"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7949675/",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-aorta",
+    "title": "StatPearls: Aortic Dissection",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "ascending-aorta"
+    ],
+    "location": "https://www.ncbi.nlm.nih.gov/books/NBK441963/",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-flow",
+    "title": "Cleveland Clinic: Blood Flow Through the Heart",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "ascending-aorta"
+    ],
+    "location": "https://my.clevelandclinic.org/health/body/17060-how-does-the-blood-flow-through-your-heart",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-svc",
+    "title": "StatPearls: Superior Vena Cava",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "superior-vena-cava",
+      "coronary-sinus"
+    ],
+    "location": "https://www.ncbi.nlm.nih.gov/books/NBK545255/",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  },
+  {
+    "id": "external-sinus",
+    "title": "StatPearls: Coronary Sinus",
+    "institution": null,
+    "yearOrEdition": null,
+    "section": "Not yet verified",
+    "structureIds": [
+      "superior-vena-cava",
+      "coronary-sinus"
+    ],
+    "location": "https://www.ncbi.nlm.nih.gov/books/NBK557566/",
+    "status": "pending_review",
+    "approvalDate": null,
+    "approvedBy": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "documentPath": null,
+    "approvedSha256": null,
+    "publicationYear": null,
+    "edition": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ]
+  }
+]

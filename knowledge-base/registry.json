@@ -1,0 +1,1475 @@
+[
+  {
+    "id": "R1",
+    "title": "Coronary Artery Anomalies: A Computed Tomography Angiography Pictorial Review",
+    "institution": "Journal of Clinical Medicine",
+    "publicationYear": 2024,
+    "edition": null,
+    "yearOrEdition": "13(13):3920",
+    "section": "Selected original article body paragraphs; exact headings and locators retained",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://doi.org/10.3390/jcm13133920",
+    "documentPath": "approved/minimal-2026-10-14/R1-902f00fd9cfb502b59e3.md",
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "approved",
+    "approvedBy": "Ang Jie Hui",
+    "approvalDate": "2026-10-14",
+    "documentVersion": "extract-902f00fd9cfb502b59e3",
+    "approvedVersion": "extract-902f00fd9cfb502b59e3",
+    "approvedSha256": "902f00fd9cfb502b59e3117d483088ffe1abb508c30a62fede478013b619fb05",
+    "licenseConfirmed": true,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": true,
+      "reviewedBy": "Automated article-specific licence verification",
+      "reviewedOn": "2026-10-14",
+      "evidence": "Article-specific CC BY 4.0 verified at https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11242126/fullTextXML; licence https://creativecommons.org/licenses/by/4.0/. Text-only scoped extraction, attribution and exclusions checked under project-owner upload authorisation. Scientific approval remains pending."
+    },
+    "extraction": {
+      "collectionId": "minimal-2026-10-14",
+      "sourceLabel": "R1",
+      "doi": "10.3390/jcm13133920",
+      "authors": [
+        "Radu Octavian Baz",
+        "Deria Refi",
+        "Cristian Scheau",
+        "Ilinca Savulescu-Fiedler",
+        "Radu Andrei Baz",
+        "Cosmin Niscoveanu"
+      ],
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenceText": "Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
+      "licenceCheckedOn": "2026-10-14",
+      "acquisitionUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11242126/fullTextXML",
+      "copyrightNotice": "© 2024 by the authors.",
+      "changesNotice": "Text excerpted and formatting normalised; images, captions, tables and supplements excluded. Generated explanations are AI paraphrases, not author endorsement.",
+      "rawSha256": "df193684c56aac2d611a0f53b8a271b3e3c2637ac9be92f7479754a7a8735148",
+      "sha256": "902f00fd9cfb502b59e3117d483088ffe1abb508c30a62fede478013b619fb05",
+      "articleType": "review-article",
+      "starterSections": [
+        "Section 3: Anatomy of the Coronary Arteries — selected normal-anatomy paragraphs"
+      ],
+      "cautions": [
+        "Do not ingest figure images, captions, or anomaly sections by default.",
+        "Exclude the left-main-length statement of 2–4 mm pending scientific review; R3 is the dedicated left-main source.",
+        "Do not treat apical LAD as an automatic synonym for a standardized distal segment.",
+        "D1/D2-specific clinical diagnosis is not established by this anatomy review."
+      ],
+      "locators": [
+        {
+          "section": "3. Anatomy of the Coronary Arteries",
+          "locator": "sec3-jcm-13-03920/p[1]",
+          "sha256": "1ae698565222195e0294f77f6381c931ada135628b359b6fc8012948f6a034de"
+        },
+        {
+          "section": "3. Anatomy of the Coronary Arteries",
+          "locator": "sec3-jcm-13-03920/p[2]",
+          "sha256": "9efceb047880af35b5f04981140ceaaad1fd5e2b977409f8136e9bcb6ea4b84e"
+        },
+        {
+          "section": "3. Anatomy of the Coronary Arteries",
+          "locator": "sec3-jcm-13-03920/p[4]",
+          "sha256": "3633a43e0429e32d07030962c1734286f2dfa692119f0272147462f66d7ea82d"
+        },
+        {
+          "section": "3. Anatomy of the Coronary Arteries",
+          "locator": "sec3-jcm-13-03920/p[5]",
+          "sha256": "23d2f2aa53f5d44a17ed4f61c19d48e4886cb4d16dfe064124754b8a009981b3"
+        },
+        {
+          "section": "3. Anatomy of the Coronary Arteries",
+          "locator": "sec3-jcm-13-03920/p[6]",
+          "sha256": "1ec499b4aae205258445ef3d2ea3d6d66f55e3ed5c241f61c153aa97e56a874a"
+        },
+        {
+          "section": "3. Anatomy of the Coronary Arteries",
+          "locator": "sec3-jcm-13-03920/p[7]",
+          "sha256": "7ff31e124b2bbfe24d90dbe9c9901fe7c4a1708d4c5e085489a8b7eed554e7de"
+        },
+        {
+          "section": "3. Anatomy of the Coronary Arteries",
+          "locator": "sec3-jcm-13-03920/p[8]",
+          "sha256": "80358bfc484023a2ed7e4533936e80216e092627d394e5cb58c28f4e134e44f2"
+        },
+        {
+          "section": "3. Anatomy of the Coronary Arteries",
+          "locator": "sec3-jcm-13-03920/p[9]",
+          "sha256": "1a71e634e81e4cc2f7658a72b1072cfb890ecd8b7cfeee92eae36f4ff31271a2"
+        },
+        {
+          "section": "3. Anatomy of the Coronary Arteries",
+          "locator": "sec3-jcm-13-03920/p[10]",
+          "sha256": "f05b9085ad087ad79540375e05508dbd7f108beb58713a91ad12b89c507325eb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "R2",
+    "title": "Right ventricular myocardial infarction: pathophysiology, clinical implications and management",
+    "institution": "Reviews in Cardiovascular Medicine",
+    "publicationYear": 2021,
+    "edition": null,
+    "yearOrEdition": "22(4):1229–1240",
+    "section": "Selected original article body paragraphs; exact headings and locators retained",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "right-marginal-artery",
+      "right-conus-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://doi.org/10.31083/j.rcm2204131",
+    "documentPath": "approved/minimal-2026-10-14/R2-b67e48256dec001a2fd0.md",
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "approved",
+    "approvedBy": "Ang Jie Hui",
+    "approvalDate": "2026-10-14",
+    "documentVersion": "extract-b67e48256dec001a2fd0",
+    "approvedVersion": "extract-b67e48256dec001a2fd0",
+    "approvedSha256": "b67e48256dec001a2fd07c30ac6ff2e33b37a171787a468c35e69579cfb623b0",
+    "licenseConfirmed": true,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": true,
+      "reviewedBy": "Automated article-specific licence verification",
+      "reviewedOn": "2026-10-14",
+      "evidence": "Article-specific CC BY 4.0 verified at https://www.imrpress.com/journal/RCM/22/4/10.31083/j.rcm2204131; licence https://creativecommons.org/licenses/by/4.0/. Text-only scoped extraction, attribution and exclusions checked under project-owner upload authorisation. Scientific approval remains pending."
+    },
+    "extraction": {
+      "collectionId": "minimal-2026-10-14",
+      "sourceLabel": "R2",
+      "doi": "10.31083/j.rcm2204131",
+      "authors": [
+        "Giuseppe Femia",
+        "John K French",
+        "Craig Juergens",
+        "Dominic Leung",
+        "Sidney Lo"
+      ],
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenceText": "This is an open access article under the CC BY 4.0 license  ( https://creativecommons.org/licenses/by/4.0/ ).",
+      "licenceCheckedOn": "2026-10-14",
+      "acquisitionUrl": "https://www.imrpress.com/journal/RCM/22/4/10.31083/j.rcm2204131",
+      "copyrightNotice": null,
+      "changesNotice": "Text excerpted and formatting normalised; images, captions, tables and supplements excluded. Generated explanations are AI paraphrases, not author endorsement.",
+      "rawSha256": "54c0d3d4701ddf7d28161c9a9a508a7271dfc2e28037736324933bd76925a1c7",
+      "sha256": "b67e48256dec001a2fd07c30ac6ff2e33b37a171787a468c35e69579cfb623b0",
+      "articleType": "review-article",
+      "starterSections": [
+        "1. Introduction",
+        "2. Right ventricular anatomy, function and arterial blood supply",
+        "3. Pathophysiology of right ventricular myocardial infarction",
+        "4. Diagnosis — clinical presentation and non-invasive diagnostic explanations"
+      ],
+      "cautions": [
+        "Right-ventricular infarction is not the inevitable consequence of every RCA/PDA lesion.",
+        "PDA diagnostic coverage is shared inferior-infarction/RCA context, not an isolated-PDA algorithm.",
+        "Do not use treatment regimens, invasive-procedure instructions or unreviewed numerical diagnostic cutoffs in the starter tutor."
+      ],
+      "locators": [
+        {
+          "section": "1. Introduction",
+          "locator": "S1/p[1]",
+          "sha256": "fa544688ad54f5483ae2750a343190ba7859ed73e94ebb4013d07d73ef7a353f"
+        },
+        {
+          "section": "2. Right ventricular anatomy, function and arterial blood supply",
+          "locator": "S2/p[1]",
+          "sha256": "e8f4028d120c533532c926f5404a429d4a06d365a0dcc62027e492db3071e6ae"
+        },
+        {
+          "section": "2. Right ventricular anatomy, function and arterial blood supply",
+          "locator": "S2/p[2]",
+          "sha256": "99ae4d40160de37bb99c04f2b17a9c133f27a14a79ce77792ddb01f5fb28211f"
+        },
+        {
+          "section": "3. Pathophysiology of right ventricular myocardial infarction",
+          "locator": "S3/p[1]",
+          "sha256": "cca9570ef0ec8485f6f3712ef4298328e984dc78e199ff0432e9115483d4721d"
+        },
+        {
+          "section": "4.1 Clinical presentation and symptoms",
+          "locator": "S4-SS1/p[1]",
+          "sha256": "192155edb31e74a69da830de597bd5dc1872f41b73dfbf28f31e47b1a2332b21"
+        },
+        {
+          "section": "4.1 Clinical presentation and symptoms",
+          "locator": "S4-SS1/p[2]",
+          "sha256": "43f57b905b1f7004315300e7c2caf4443a457af39586e8c90bf62cb2d352eedc"
+        },
+        {
+          "section": "4.3 Chest radiograph",
+          "locator": "S4-SS3/p[1]",
+          "sha256": "de126abb508ad662f898fba2b457d01fc4cb19da6ea2259b7597f493ea1fdfeb"
+        },
+        {
+          "section": "4.6 Cardiac magnetic resonance imaging",
+          "locator": "S4-SS6/p[1]",
+          "sha256": "2f82317923f7b8770f808480b4572a67d72f41f34784ccdc4557b2b9e76f28a2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "R3",
+    "title": "Left Main Coronary Artery Disease: A Contemporary Review of Diagnosis and Management",
+    "institution": "Reviews in Cardiovascular Medicine",
+    "publicationYear": 2024,
+    "edition": null,
+    "yearOrEdition": "25(2):66",
+    "section": "Selected original article body paragraphs; exact headings and locators retained",
+    "structureIds": [
+      "left-coronary-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://doi.org/10.31083/j.rcm2502066",
+    "documentPath": "approved/minimal-2026-10-14/R3-b8a9d77176b4446820d3.md",
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "approved",
+    "approvedBy": "Ang Jie Hui",
+    "approvalDate": "2026-10-14",
+    "documentVersion": "extract-b8a9d77176b4446820d3",
+    "approvedVersion": "extract-b8a9d77176b4446820d3",
+    "approvedSha256": "b8a9d77176b4446820d3920e1637c2d67420a24dbe47d8ea1c3a8c45e9ac64c8",
+    "licenseConfirmed": true,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": true,
+      "reviewedBy": "Automated article-specific licence verification",
+      "reviewedOn": "2026-10-14",
+      "evidence": "Article-specific CC BY 4.0 verified at https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11263144/fullTextXML; licence https://creativecommons.org/licenses/by/4.0/. Text-only scoped extraction, attribution and exclusions checked under project-owner upload authorisation. Scientific approval remains pending."
+    },
+    "extraction": {
+      "collectionId": "minimal-2026-10-14",
+      "sourceLabel": "R3",
+      "doi": "10.31083/j.rcm2502066",
+      "authors": [
+        "Muzamil Khawaja",
+        "Michael Britt",
+        "Muhammad Asad Khan",
+        "Uzair Munaf",
+        "Hassaan Arshad",
+        "Rehma Siddiqui",
+        "Hafeez Ul Hassan Virk",
+        "Mahboob Alam",
+        "Chayakrit Krittanawong"
+      ],
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenceText": "This is an open access article under the CC BY 4.0 license.",
+      "licenceCheckedOn": "2026-10-14",
+      "acquisitionUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11263144/fullTextXML",
+      "copyrightNotice": "Copyright: © 2024 The Author(s). Published by IMR Press.",
+      "changesNotice": "Text excerpted and formatting normalised; images, captions, tables and supplements excluded. Generated explanations are AI paraphrases, not author endorsement.",
+      "rawSha256": "696c5dcdf73adf349850f6db3eb5430f1ab0a58b4eaf8e89513ee32eb6c5507f",
+      "sha256": "b8a9d77176b4446820d3920e1637c2d67420a24dbe47d8ea1c3a8c45e9ac64c8",
+      "articleType": "review-article",
+      "starterSections": [
+        "Introduction and clinical presentation",
+        "3. Diagnosis of Left Main Disease",
+        "Anatomy-related passages in 4. LMCAD Pathophysiology and Genetic/Phenotypic Considerations"
+      ],
+      "cautions": [
+        "Map the website label Left Coronary Artery to the left-main trunk, not the entire left coronary arterial tree.",
+        "Exclude intervention-selection rules and drug regimens from the basic anatomy tutor."
+      ],
+      "locators": [
+        {
+          "section": "1. Introduction of Left Main Coronary Disease",
+          "locator": "S1/p[1]",
+          "sha256": "2b6bb6a753f5ece0b268ab2fdb11453f4e499f433e13036cc242aee3c330c2d0"
+        },
+        {
+          "section": "2. Clinical Presentation and Symptoms",
+          "locator": "S2/p[1]",
+          "sha256": "b3669cea084bffb4136ed3778b9246571ace54648d0e92e2a8d6edbde66be5a4"
+        },
+        {
+          "section": "2. Clinical Presentation and Symptoms",
+          "locator": "S2/p[2]",
+          "sha256": "57223812aa7f1a423be88ecdabc73e205f4382ce004d98646cac08b51511ab6b"
+        },
+        {
+          "section": "3. Diagnosis of Left Main Disease",
+          "locator": "S3/p[1]",
+          "sha256": "97b2385982aa570e96a222aafc9e8559c64791fc8e81941889e1fadd2a36d27e"
+        },
+        {
+          "section": "3. Diagnosis of Left Main Disease > 3.1 Electrocardiogram",
+          "locator": "S3.SS1/p[2]",
+          "sha256": "4523b0d7d0f0cb11ae17e776aa5371e0f0f74200a9f9c1263d698db7565225bf"
+        },
+        {
+          "section": "3. Diagnosis of Left Main Disease > 3.2 Echocardiogram",
+          "locator": "S3.SS2/p[1]",
+          "sha256": "4448efc4c3f38b18c90b101625f458d8244758986d376d95195898e649ec8fdb"
+        },
+        {
+          "section": "3. Diagnosis of Left Main Disease > 3.2 Echocardiogram",
+          "locator": "S3.SS2/p[2]",
+          "sha256": "1e392fda4076ffd893ff0af576140e4116497d999448ef6e643c2d6bb302be66"
+        },
+        {
+          "section": "3. Diagnosis of Left Main Disease > 3.3 Coronary Computed Tomography Angiography",
+          "locator": "S3.SS3/p[3]",
+          "sha256": "f409432dfdecbcf7c403ced2aa23c561c4bcbf466c7d5701dc0d7e4494c82d04"
+        },
+        {
+          "section": "4. LMCAD Pathophysiology and Genetic/Phenotypic Considerations",
+          "locator": "S4/p[1]",
+          "sha256": "fc290f5cd35e691ba18fadb848c2062e3d0ef5efc63e5f780120bf0d323f5615"
+        },
+        {
+          "section": "4. LMCAD Pathophysiology and Genetic/Phenotypic Considerations",
+          "locator": "S4/p[2]",
+          "sha256": "96bdfa0eaf89e0d7762ee11cf8d4e8d556ffbe5e47eeed84d4a0ae4c65382ac2"
+        },
+        {
+          "section": "4. LMCAD Pathophysiology and Genetic/Phenotypic Considerations",
+          "locator": "S4/p[4]",
+          "sha256": "2c9f7d407bfb479e35c6a62ad0e32f3ef0e3835ee96cb462f64bc1939acd065c"
+        },
+        {
+          "section": "4. LMCAD Pathophysiology and Genetic/Phenotypic Considerations",
+          "locator": "S4/p[5]",
+          "sha256": "357db5a17b1efdf648a76901b54edefde4e7d5e459ec080f791265e11c7409c9"
+        },
+        {
+          "section": "4. LMCAD Pathophysiology and Genetic/Phenotypic Considerations",
+          "locator": "S4/p[6]",
+          "sha256": "238c2463fb2c12bb22e8aae113fb817a2aecf6471bc863c2ec33bf59f5e7c25f"
+        }
+      ]
+    }
+  },
+  {
+    "id": "R4",
+    "title": "Clinical Updates in Coronary Artery Disease: A Comprehensive Review",
+    "institution": "Journal of Clinical Medicine",
+    "publicationYear": 2024,
+    "edition": null,
+    "yearOrEdition": "13(16):4600",
+    "section": "Selected original article body paragraphs; exact headings and locators retained",
+    "structureIds": [
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://doi.org/10.3390/jcm13164600",
+    "documentPath": "approved/minimal-2026-10-14/R4-bbf8691887802536939e.md",
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "approved",
+    "approvedBy": "Ang Jie Hui",
+    "approvalDate": "2026-10-14",
+    "documentVersion": "extract-bbf8691887802536939e",
+    "approvedVersion": "extract-bbf8691887802536939e",
+    "approvedSha256": "bbf8691887802536939e39d8994b190a797ea1902337b4f18bfc5c455db9eaa3",
+    "licenseConfirmed": true,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": true,
+      "reviewedBy": "Automated article-specific licence verification",
+      "reviewedOn": "2026-10-14",
+      "evidence": "Article-specific CC BY 4.0 verified at https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11354290/fullTextXML; licence https://creativecommons.org/licenses/by/4.0/. Text-only scoped extraction, attribution and exclusions checked under project-owner upload authorisation. Scientific approval remains pending."
+    },
+    "extraction": {
+      "collectionId": "minimal-2026-10-14",
+      "sourceLabel": "R4",
+      "doi": "10.3390/jcm13164600",
+      "authors": [
+        "Andrea Bottardi",
+        "Guy F. A. Prado",
+        "Mattia Lunardi",
+        "Simone Fezzi",
+        "Gabriele Pesarini",
+        "Domenico Tavella",
+        "Roberto Scarsini",
+        "Flavio Ribichini"
+      ],
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenceText": "https://creativecommons.org/licenses/by/4.0/Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
+      "licenceCheckedOn": "2026-10-14",
+      "acquisitionUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11354290/fullTextXML",
+      "copyrightNotice": "© 2024 by the authors.",
+      "changesNotice": "Text excerpted and formatting normalised; images, captions, tables and supplements excluded. Generated explanations are AI paraphrases, not author endorsement.",
+      "rawSha256": "99af5de2a51c0f7a01dbf6edc70868e6a20df37196de1d83774e0c8f2bd996c5",
+      "sha256": "bbf8691887802536939e39d8994b190a797ea1902337b4f18bfc5c455db9eaa3",
+      "articleType": "review-article",
+      "starterSections": [
+        "1. Introduction",
+        "2. Updates in CAD Diagnosis: The Role of CCTA, especially 2.1. Traditional CAD Diagnostic Tests"
+      ],
+      "cautions": [
+        "This is not an LAD-segment-specific diagnostic reference.",
+        "Do not infer a unique ECG pattern or prognosis for proximal, mid or apical LAD from general CAD content.",
+        "Exclude treatment and device sections from the starter extraction."
+      ],
+      "locators": [
+        {
+          "section": "1. Introduction",
+          "locator": "sec1-jcm-13-04600/p[2]",
+          "sha256": "6aa52758cd2eb115d934f214957ac1aa9f44070fe57087742772f4c7518cd16c"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "sec1-jcm-13-04600/p[3]",
+          "sha256": "170d4d2bde2c15ea87172e417461edb7efb52efb0051a0df55d5516cd7fb83d6"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "sec1-jcm-13-04600/p[4]",
+          "sha256": "82e38e8eab3a21186685814aa3122c596b0c8502e08f12d0e7d9898e99e8737b"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "sec1-jcm-13-04600/p[5]",
+          "sha256": "77da47fec054935b2d3672d136ff9a5fc994412c843350e9e704a12ef25b146f"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests",
+          "locator": "sec2dot1-jcm-13-04600/p[1]",
+          "sha256": "6eb78c9689e3b07ccd0a35057f3262d088067a43646d7f1a37117bb2287ef094"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests",
+          "locator": "sec2dot1-jcm-13-04600/p[2]",
+          "sha256": "316c7b4366b0bbee280befb6e250c152c5987e9da78c7a5d1772b7f465cddb60"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.1. Cardiac Magnetic Resonance (CMR)",
+          "locator": "sec2dot1dot1-jcm-13-04600/p[1]",
+          "sha256": "ada1d2f8f77d59a1a5005738fb05cdf10f207e3ac1c93532c3026b7967f11ce3"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.1. Cardiac Magnetic Resonance (CMR)",
+          "locator": "sec2dot1dot1-jcm-13-04600/p[2]",
+          "sha256": "2beca0766c49cab297748e016276b0b8adb07833791810aed5658ddeeccf92af"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.1. Cardiac Magnetic Resonance (CMR)",
+          "locator": "sec2dot1dot1-jcm-13-04600/p[3]",
+          "sha256": "23e5afe8d7f177f652ff8d707a76efb911f7c9947fd55bfe5faf85c5cc5fd244"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.1. Cardiac Magnetic Resonance (CMR)",
+          "locator": "sec2dot1dot1-jcm-13-04600/p[4]",
+          "sha256": "0d8141359552d2779e3fc3b91436e932dc0f559b30efd79a55247350321d89e8"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.1. Cardiac Magnetic Resonance (CMR)",
+          "locator": "sec2dot1dot1-jcm-13-04600/p[5]",
+          "sha256": "bd010f637a3387d74ec8ee6015b14c70e1e2fafdcceeb18549739a0e2fdb01af"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.1. Cardiac Magnetic Resonance (CMR)",
+          "locator": "sec2dot1dot1-jcm-13-04600/p[6]",
+          "sha256": "a2aa501734499e90d77eb51a3fc4ca6bd7fa5b743d36dfee3b0f223cd00ba70a"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.2. Nuclear Medicine: Single-Photon-Emission Computed Tomography (SPECT) and Positron Emission Tomography (PET)",
+          "locator": "sec2dot1dot2-jcm-13-04600/p[1]",
+          "sha256": "5473d7d25e5491f1eb79cd90321c4c5d82af84d7fbb3705a7951ca812a91436f"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.2. Nuclear Medicine: Single-Photon-Emission Computed Tomography (SPECT) and Positron Emission Tomography (PET)",
+          "locator": "sec2dot1dot2-jcm-13-04600/p[3]",
+          "sha256": "64f6c65726447bdbefbba1b28f4237f6b929a7397a6f8056988332a2fe31bf51"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.2. Nuclear Medicine: Single-Photon-Emission Computed Tomography (SPECT) and Positron Emission Tomography (PET)",
+          "locator": "sec2dot1dot2-jcm-13-04600/p[4]",
+          "sha256": "f7fbaf57120b4da08a04f8df561328d1395910eeee932768e812de2dfa614aee"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.3. The Role of Stress Echocardiography (SE)",
+          "locator": "sec2dot1dot3-jcm-13-04600/p[1]",
+          "sha256": "b78fbb66c3676f70bc695a7556cd52301817da60fa3aad06b73724c23c854489"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.3. The Role of Stress Echocardiography (SE)",
+          "locator": "sec2dot1dot3-jcm-13-04600/p[2]",
+          "sha256": "61a0b6f7c38b0556b27255b458a01a3f2b7290b64bc84d6340fe0e02ca05a3ba"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.3. The Role of Stress Echocardiography (SE)",
+          "locator": "sec2dot1dot3-jcm-13-04600/p[3]",
+          "sha256": "14863761bfe52077001334f136a9b2af53c66d1716b11396d6b831ea855fd889"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.1. Traditional CAD Diagnostic Tests > 2.1.3. The Role of Stress Echocardiography (SE)",
+          "locator": "sec2dot1dot3-jcm-13-04600/p[4]",
+          "sha256": "d77ee4f7f488544172d4d1c82c56258aa19cc56d3e007c6b00cba4da87ddda0d"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.2. Risk Stratification in CAD Patients",
+          "locator": "sec2dot2-jcm-13-04600/p[1]",
+          "sha256": "04b86834d730f7daa632476944f61ab5889faec54d434170b1355a79ed270ad5"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.2. Risk Stratification in CAD Patients",
+          "locator": "sec2dot2-jcm-13-04600/p[2]",
+          "sha256": "56be2cc6d2d0f5f78c1aa4ff8f52e6b9b8c3597f0643e51477dcae6a24669dff"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.2. Risk Stratification in CAD Patients",
+          "locator": "sec2dot2-jcm-13-04600/p[3]",
+          "sha256": "cb1e03ce55461c0c5912d3d28dd78919c86dbfb17f6af09cde5b1c659a41ef74"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.2. Risk Stratification in CAD Patients",
+          "locator": "sec2dot2-jcm-13-04600/p[4]",
+          "sha256": "d43a41996df01536dcf343a17738c0488ca0556d7a1263dc0888bf50415f2648"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.2. Risk Stratification in CAD Patients",
+          "locator": "sec2dot2-jcm-13-04600/p[5]",
+          "sha256": "c8f6bec2b11e9596b7cdf24be4e16a3603e3979f33db3f538ae126ddaf998334"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.2. Risk Stratification in CAD Patients",
+          "locator": "sec2dot2-jcm-13-04600/p[6]",
+          "sha256": "cbc13e1d754be966ec0324b0c3fb811933104ce61c05a4b73cfbb56eb2c8099b"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.3. Time for CCTA",
+          "locator": "sec2dot3-jcm-13-04600/p[2]",
+          "sha256": "1be2e9405c901d0922739d6d2e0024b27dc7ef8f34ac51efa6f2546bf46ce807"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.3. Time for CCTA",
+          "locator": "sec2dot3-jcm-13-04600/p[3]",
+          "sha256": "b17125ff6985ee741395efacdee09e1b6706327702133a9b631b97d8b776919d"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.3. Time for CCTA",
+          "locator": "sec2dot3-jcm-13-04600/p[4]",
+          "sha256": "7fb02d37fb1e3d6aa0e1cf2fca44c2c3b9bc20a438c4d02fcb3c643247a407ec"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.3. Time for CCTA",
+          "locator": "sec2dot3-jcm-13-04600/p[5]",
+          "sha256": "4818696824c9b50af21c18de0a0436455e851f0adc765c8c19d747e35228507f"
+        },
+        {
+          "section": "2. Updates in CAD Diagnosis: The Role of Coronary Computed Tomography Angiography (CCTA) > 2.4. Coronary Artery Calcium (CAC) Scoring",
+          "locator": "sec2dot4-jcm-13-04600/p[1]",
+          "sha256": "9c89dbef891a8ba9dd6efb0cc6d479a2521614e7094cd1cb05c4bb7e0a1022c6"
+        }
+      ]
+    }
+  },
+  {
+    "id": "R5",
+    "title": "The diagonal branches and outcomes in patients with anterior ST-elevation myocardial infarction",
+    "institution": "BMC Cardiovascular Disorders",
+    "publicationYear": 2020,
+    "edition": null,
+    "yearOrEdition": "20:108",
+    "section": "Selected original article body paragraphs; exact headings and locators retained",
+    "structureIds": [
+      "left-diagonal-d1",
+      "left-diagonal-d2"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://doi.org/10.1186/s12872-020-01386-4",
+    "documentPath": "approved/minimal-2026-10-14/R5-2bbf792e50ba8cc5b003.md",
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "approved",
+    "approvedBy": "Ang Jie Hui",
+    "approvalDate": "2026-10-14",
+    "documentVersion": "extract-2bbf792e50ba8cc5b003",
+    "approvedVersion": "extract-2bbf792e50ba8cc5b003",
+    "approvedSha256": "2bbf792e50ba8cc5b0035b478f8eb9cf160cc52d3e2adcf9a9d192de48a91e28",
+    "licenseConfirmed": true,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": true,
+      "reviewedBy": "Automated article-specific licence verification",
+      "reviewedOn": "2026-10-14",
+      "evidence": "Article-specific CC BY 4.0 verified at https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7057519/fullTextXML; licence https://creativecommons.org/licenses/by/4.0/. Text-only scoped extraction, attribution and exclusions checked under project-owner upload authorisation. Scientific approval remains pending."
+    },
+    "extraction": {
+      "collectionId": "minimal-2026-10-14",
+      "sourceLabel": "R5",
+      "doi": "10.1186/s12872-020-01386-4",
+      "authors": [
+        "Shuning Zhang",
+        "Xin Deng",
+        "Wenlong Yang",
+        "Liping Xia",
+        "Kang Yao",
+        "Hao Lu",
+        "Lei Ge",
+        "Li Shen",
+        "Aijun Sun",
+        "Yunzeng Zou",
+        "Juying Qian",
+        "Junbo Ge"
+      ],
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenceText": "Open AccessThis article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.",
+      "licenceCheckedOn": "2026-10-14",
+      "acquisitionUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7057519/fullTextXML",
+      "copyrightNotice": "© The Author(s) 2020",
+      "changesNotice": "Text excerpted and formatting normalised; images, captions, tables and supplements excluded. Generated explanations are AI paraphrases, not author endorsement.",
+      "rawSha256": "5c445b5516df7307d01f81d86a727195e66f6dd7a0c6be303da06b0ff8e7b67d",
+      "sha256": "2bbf792e50ba8cc5b0035b478f8eb9cf160cc52d3e2adcf9a9d192de48a91e28",
+      "articleType": "research-article",
+      "starterSections": [
+        "Background",
+        "Discussion — anatomical variability, diagonal-flow loss and clinical interpretation",
+        "Limitations"
+      ],
+      "cautions": [
+        "The cohort concerns anterior STEMI and main-diagonal flow, commonly the first diagonal; it is not a dedicated isolated-D2 study.",
+        "Do not transfer cohort outcome rates to every D1 or D2 occlusion, or make causal claims from these associations.",
+        "Do not import study eligibility criteria as universal diagnostic criteria."
+      ],
+      "locators": [
+        {
+          "section": "Introduction",
+          "locator": "Sec1/p[1]",
+          "sha256": "6a3ceb9b6f861737378d6a71f49479ecedf2fe1e2a1250c5c5bf5a9a8929774e"
+        },
+        {
+          "section": "Discussion",
+          "locator": "Sec10/p[1]",
+          "sha256": "0722d7224f7c022c6901f21476c1035681731ba90865da0a7cbf0d252dc23e86"
+        },
+        {
+          "section": "Discussion",
+          "locator": "Sec10/p[2]",
+          "sha256": "84439044fe25f4438c802dbbf7feb00054821fdf10e89b1b78de1c1ae936eddd"
+        },
+        {
+          "section": "Discussion",
+          "locator": "Sec10/p[4]",
+          "sha256": "6e1ebdbddc8363a3d411dfbf6bb9029472080475290a6f7d9cca3226c52357fa"
+        },
+        {
+          "section": "Discussion",
+          "locator": "Sec10/p[5]",
+          "sha256": "1f432ed89837f9e69afb3679629d4731086758a29b20c8fe9da9ef6de3ae6b0f"
+        },
+        {
+          "section": "Limitations",
+          "locator": "Sec11/p[1]",
+          "sha256": "ff9a9414dd49b1d2ade0fdb8c29b0389b6895a9b50ce97ade1e10809e31d24bf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "R6",
+    "title": "Navigation of the Clinical Implications, Interventional Challenges, and Complexities of the Circumflex Coronary Artery: A Comprehensive Review",
+    "institution": "Reviews in Cardiovascular Medicine",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "27(2):47426",
+    "section": "Selected original article body paragraphs; exact headings and locators retained",
+    "structureIds": [
+      "left-circumflex-artery",
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://doi.org/10.31083/RCM47426",
+    "documentPath": "approved/minimal-2026-10-14/R6-4f034b046ac6d610bca8.md",
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "approved",
+    "approvedBy": "Ang Jie Hui",
+    "approvalDate": "2026-10-14",
+    "documentVersion": "extract-4f034b046ac6d610bca8",
+    "approvedVersion": "extract-4f034b046ac6d610bca8",
+    "approvedSha256": "4f034b046ac6d610bca8c62c77922b4664f321160c09b3dd755357ceb4e019e6",
+    "licenseConfirmed": true,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": true,
+      "reviewedBy": "Automated article-specific licence verification",
+      "reviewedOn": "2026-10-14",
+      "evidence": "Article-specific CC BY 4.0 verified at https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12959989/fullTextXML; licence https://creativecommons.org/licenses/by/4.0/. Text-only scoped extraction, attribution and exclusions checked under project-owner upload authorisation. Scientific approval remains pending."
+    },
+    "extraction": {
+      "collectionId": "minimal-2026-10-14",
+      "sourceLabel": "R6",
+      "doi": "10.31083/RCM47426",
+      "authors": [
+        "Abdelrahman Elhakim",
+        "Ahmad Hassaan",
+        "Ibrahim Yassen",
+        "Mohamed Mosaad",
+        "Mohamed Elhakim",
+        "Osama Bisht",
+        "Mahmoud Baraka",
+        "Mohammed Saad"
+      ],
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenceText": "https://creativecommons.org/licenses/by/4.0/This is an open access article under the CC BY 4.0 license.",
+      "licenceCheckedOn": "2026-10-14",
+      "acquisitionUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12959989/fullTextXML",
+      "copyrightNotice": "Copyright: © 2026 The Author(s). Published by IMR Press.",
+      "changesNotice": "Text excerpted and formatting normalised; images, captions, tables and supplements excluded. Generated explanations are AI paraphrases, not author endorsement.",
+      "rawSha256": "91ede5938bc8b0b37952f3ed42550b9556ed855642b39252b07f1a798461367b",
+      "sha256": "4f034b046ac6d610bca8c62c77922b4664f321160c09b3dd755357ceb4e019e6",
+      "articleType": "review-article",
+      "starterSections": [
+        "1. Introduction",
+        "2.1.1. Anatomical Considerations: Cx Determines the Dominance of the Coronary Arteries",
+        "2.1.7. Acute Coronary Syndrome (ACS) and Cx Occlusion",
+        "2.1.8. Culprit Lesions in Acute and Chronic Coronary Syndrome: Cx or RCA?",
+        "2.4. Imaging and Cx"
+      ],
+      "cautions": [
+        "For the generic left marginal marker, this provides obtuse-marginal-family and LCx clinical context, not OM1/OM2-specific diagnostic rules.",
+        "Exclude detailed interventional techniques and device sections."
+      ],
+      "locators": [
+        {
+          "section": "1. Introduction",
+          "locator": "S1/p[1]",
+          "sha256": "f4ac2a510302e29ab0932c136793e82422a44e4fef3f67f0855fdf2c093349ee"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "S1/p[2]",
+          "sha256": "985ef885d7bf791fb24975534900a243b6817df0915d15658f0200ba37d12a9b"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "S1/p[3]",
+          "sha256": "2ffcaad1f973efb946b3b3feed6174126cdaa4035179806969e32814904172e2"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "S1/p[4]",
+          "sha256": "b5108adccf20fd17f480e848875b8f03d49194412fe0b4f2b58727a41d924e35"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "S1/p[5]",
+          "sha256": "71a56d5fef65bee919174d949d8f8bbdd0a77f9c49d3a60afc7424fdf6beb626"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "S1/p[6]",
+          "sha256": "b48aba2067a5fe669f5d04e9cf36508f38a2b905d3158512a314017e8512de76"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "S1/p[7]",
+          "sha256": "045f27f1b20d99d36c1d4a497463bb3aa2fa5935c639fd9a0e1b791c39654c0c"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "S1/p[8]",
+          "sha256": "377b69b7ce23f53eb24acbf34edd91257e89f36093b01a375d369813bfd7e5f3"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "S1/p[9]",
+          "sha256": "0489c7b3a16f17a222794b4caa7765a22663d5c839eeaa734f18093cceef2938"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.1 Anatomical Considerations: Cx Determines the Dominance of the Coronary Arteries",
+          "locator": "S2.SS1.SSS1/p[1]",
+          "sha256": "e181db9e7246b5516c4a377ab27b8fd49edd0a7926faf375f5429571d7db44f3"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.1 Anatomical Considerations: Cx Determines the Dominance of the Coronary Arteries",
+          "locator": "S2.SS1.SSS1/p[2]",
+          "sha256": "e4b165670e5fb65cf1d4625d3f2f1cbeec5147456d8d4503f678d7845f9b0e1c"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.7 Acute Coronary Syndrome (ACS) and Cx Occlusion",
+          "locator": "S2.SS1.SSS7/p[1]",
+          "sha256": "23c86963405a8b09a81333268561800098d7ad0d8600fa25be9eeb84a6055ad4"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.7 Acute Coronary Syndrome (ACS) and Cx Occlusion",
+          "locator": "S2.SS1.SSS7/p[2]",
+          "sha256": "0dbc53690a5cff2d6180dd62ac627f99707f36f036cd84bae34e8b5cf14a3916"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.8 Culprit Lesions in Acute and Chronic Coronary Syndrome: Cx or RCA?",
+          "locator": "S2.SS1.SSS8/p[1]",
+          "sha256": "1eb148a4c24e044833f3c56e14b3a6ad8f2c6b172bb256f22b8e9e1552c07275"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.8 Culprit Lesions in Acute and Chronic Coronary Syndrome: Cx or RCA?",
+          "locator": "S2.SS1.SSS8/p[2]",
+          "sha256": "bc27274d932eb7ff1535d7e0ebdcd839331298dc6376572403c2515e9dcca080"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.1 Coronary Artery Disease and the Circumflex > 2.1.8 Culprit Lesions in Acute and Chronic Coronary Syndrome: Cx or RCA?",
+          "locator": "S2.SS1.SSS8/p[3]",
+          "sha256": "1b2af39be28575a4eba425813ae54b34fb66e933aa7f60c0219eca4605071bc1"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx",
+          "locator": "S2.SS4/p[1]",
+          "sha256": "40c1d4b0b605725a82dc36630c0052006339b9c0d7c9f08936b32a9611d417a5"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx",
+          "locator": "S2.SS4/p[2]",
+          "sha256": "8b4f798514138c1d0e2e557d6ec1a70eab74e8729920de2d8cc1b5fa49474f54"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx",
+          "locator": "S2.SS4/p[3]",
+          "sha256": "6e2e8d3bf891f9ee70abd5e52742c63cbe6fd7b082ed87df4217015d8d7041c6"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx",
+          "locator": "S2.SS4/p[4]",
+          "sha256": "425a50225bf3bfd7c18e0b3c22c53a5a60e7787582725c6d725ec18a0d8520f9"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx",
+          "locator": "S2.SS4/p[5]",
+          "sha256": "dda8e444dee02b1e00dbbdf88168e47c7f8374e9c6ffa2d55e3265fa8e15934e"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx",
+          "locator": "S2.SS4/p[6]",
+          "sha256": "5d0d61fa12d44e11264cc15fddccada0e5d75c51db0a708be849747b5993992c"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx",
+          "locator": "S2.SS4/p[7]",
+          "sha256": "83d9ad0ae655e056368557a820a7c4c5167a278bdfd1db8c93aabfa4298d1be9"
+        },
+        {
+          "section": "2. Clinical Implications, Interventional Challenges, and Complications of the Circumflex Coronary Artery > 2.4 Imaging and Cx",
+          "locator": "S2.SS4/p[8]",
+          "sha256": "3a75517dffc41dd0f583c36ab3f0365233aec40799de4c324578189fa831ec54"
+        }
+      ]
+    }
+  },
+  {
+    "id": "R7",
+    "title": "Successful coronary angioplasty of a spontaneous occlusion of the conus artery causing a ST-segment elevation myocardial infarction and electrical storm",
+    "institution": "Bulletin of the National Research Centre",
+    "publicationYear": 2024,
+    "edition": null,
+    "yearOrEdition": "48:91",
+    "section": "Selected original article body paragraphs; exact headings and locators retained",
+    "structureIds": [
+      "right-conus-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://doi.org/10.1186/s42269-024-01247-6",
+    "documentPath": "approved/minimal-2026-10-14/R7-2d95f735ac411f392a31.md",
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "approved",
+    "approvedBy": "Ang Jie Hui",
+    "approvalDate": "2026-10-14",
+    "documentVersion": "extract-2d95f735ac411f392a31",
+    "approvedVersion": "extract-2d95f735ac411f392a31",
+    "approvedSha256": "2d95f735ac411f392a3185b0819eb2fb4e9c2d51249609b5ae0bcd38209f0090",
+    "licenseConfirmed": true,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": true,
+      "reviewedBy": "Automated article-specific licence verification",
+      "reviewedOn": "2026-10-14",
+      "evidence": "Article-specific CC BY 4.0 verified at https://link.springer.com/article/10.1186/s42269-024-01247-6; licence https://creativecommons.org/licenses/by/4.0/. Text-only scoped extraction, attribution and exclusions checked under project-owner upload authorisation. Scientific approval remains pending."
+    },
+    "extraction": {
+      "collectionId": "minimal-2026-10-14",
+      "sourceLabel": "R7",
+      "doi": "10.1186/s42269-024-01247-6",
+      "authors": [
+        "Hatoum, Ibrahim"
+      ],
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenceText": "Open Access   This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "licenceCheckedOn": "2026-10-14",
+      "acquisitionUrl": "https://link.springer.com/article/10.1186/s42269-024-01247-6",
+      "copyrightNotice": null,
+      "changesNotice": "Text excerpted and formatting normalised; images, captions, tables and supplements excluded. Generated explanations are AI paraphrases, not author endorsement.",
+      "rawSha256": "08733e173407f0a17ef6ce1f9bc0531525839a6efdbf05b097f0bd0f1c9d49ea",
+      "sha256": "2d95f735ac411f392a3185b0819eb2fb4e9c2d51249609b5ae0bcd38209f0090",
+      "articleType": "case-report",
+      "starterSections": [
+        "Background",
+        "Selected non-identifying diagnostic narrative and discussion"
+      ],
+      "cautions": [
+        "Label all case-derived claims as case-based, not universal.",
+        "Exclude absolute prognosis claims (including the conclusion implying inevitable death without an intervention), procedural instructions and treatment recommendations.",
+        "Do not upload patient images, ECG images, identifiers, or separately credited material."
+      ],
+      "locators": [
+        {
+          "section": "Background",
+          "locator": "Sec1-section/p[1]",
+          "sha256": "1f8fe9ea558969aff4ed786d321d9d04ec3611a44601955e32360addfff01de6"
+        },
+        {
+          "section": "Discussion",
+          "locator": "Sec3-section/p[4]/sentence[2]",
+          "sha256": "3f7a7ca84af91bafc025d42e9c9ccd8525e41835a461a0494328170c592ff9b0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "R8",
+    "title": "Imaging of the aortic root on high-pitch non-gated and ECG-gated CT: awareness is the key!",
+    "institution": "Insights into Imaging",
+    "publicationYear": 2020,
+    "edition": null,
+    "yearOrEdition": "11:51",
+    "section": "Selected original article body paragraphs; exact headings and locators retained",
+    "structureIds": [
+      "ascending-aorta"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://doi.org/10.1186/s13244-020-00855-w",
+    "documentPath": "approved/minimal-2026-10-14/R8-e64da376909eab54280e.md",
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "approved",
+    "approvedBy": "Ang Jie Hui",
+    "approvalDate": "2026-10-14",
+    "documentVersion": "extract-e64da376909eab54280e",
+    "approvedVersion": "extract-e64da376909eab54280e",
+    "approvedSha256": "e64da376909eab54280ec7d8798e20068d059ae6e219696e3e03329db2d1783f",
+    "licenseConfirmed": true,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": true,
+      "reviewedBy": "Automated article-specific licence verification",
+      "reviewedOn": "2026-10-14",
+      "evidence": "Article-specific CC BY 4.0 verified at https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7083991/fullTextXML; licence https://creativecommons.org/licenses/by/4.0/. Text-only scoped extraction, attribution and exclusions checked under project-owner upload authorisation. Scientific approval remains pending."
+    },
+    "extraction": {
+      "collectionId": "minimal-2026-10-14",
+      "sourceLabel": "R8",
+      "doi": "10.1186/s13244-020-00855-w",
+      "authors": [
+        "Prashant Nagpal",
+        "Mukta D Agrawal",
+        "Sachin S Saboo",
+        "Sandeep Hedgire",
+        "Sarv Priya",
+        "Michael L Steigner"
+      ],
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenceText": "Open AccessThis article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
+      "licenceCheckedOn": "2026-10-14",
+      "acquisitionUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7083991/fullTextXML",
+      "copyrightNotice": "© The Author(s) 2020",
+      "changesNotice": "Text excerpted and formatting normalised; images, captions, tables and supplements excluded. Generated explanations are AI paraphrases, not author endorsement.",
+      "rawSha256": "d0c2da3db46f92c9561f4482a7235f10506d9259ac0078a1ed8ae9bd58cc340a",
+      "sha256": "e64da376909eab54280ec7d8798e20068d059ae6e219696e3e03329db2d1783f",
+      "articleType": "review-article",
+      "starterSections": [
+        "Aortic anatomy—aortic root and ascending aorta",
+        "Lesions of the proximal aorta — selected aneurysm and dissection explanations"
+      ],
+      "cautions": [
+        "Aneurysm and dissection are not synonymous with luminal blockage.",
+        "Aortic valve stenosis is not the same as obstruction of the ascending aorta.",
+        "Exclude CT acquisition protocols, images and post-operative procedural detail."
+      ],
+      "locators": [
+        {
+          "section": "Main text > Aortic anatomy—aortic root and ascending aorta",
+          "locator": "Sec6/p[1]",
+          "sha256": "90d136c382c5e72f3151680080ef1120a90a505b65ef83c7f080dfa0c3d9ea20"
+        },
+        {
+          "section": "Main text > Aortic anatomy—aortic root and ascending aorta",
+          "locator": "Sec6/p[2]",
+          "sha256": "bbdc5c39297b839002ae4e05c2e655afd3eed2be7aa377999b1bbc950c3384d3"
+        },
+        {
+          "section": "Main text > Lesions of the proximal aorta > Ascending aortic and sinuses of Valsalva aneurysm",
+          "locator": "Sec8/p[2]",
+          "sha256": "0c7e9d8f01ce40f214d5808fcbc9d09f841c938ff9824526525bc2b2c4de1746"
+        },
+        {
+          "section": "Main text > Lesions of the proximal aorta > Aortic dissection (AD)",
+          "locator": "Sec10/p[1]",
+          "sha256": "3f0fd428bb85ba8cddbd9f1165b4625445f217192060d1c136a52ecda5562441"
+        },
+        {
+          "section": "Main text > Lesions of the proximal aorta > Aortic dissection (AD)",
+          "locator": "Sec10/p[2]",
+          "sha256": "c933d8b3e645a203d239eca7e1e54b2b61f9ecf448a0d60b9b0620bcd75628e4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "R9",
+    "title": "Optimal Management of Spontaneous Aortic Thrombus Floating in the Ascending Aorta, from a Single Case Experience to a Literature Review",
+    "institution": "Journal of Cardiovascular Development and Disease",
+    "publicationYear": 2025,
+    "edition": null,
+    "yearOrEdition": "12(4):146",
+    "section": "Selected original article body paragraphs; exact headings and locators retained",
+    "structureIds": [
+      "ascending-aorta"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://doi.org/10.3390/jcdd12040146",
+    "documentPath": "approved/minimal-2026-10-14/R9-15a6c9a025f2de8aac2b.md",
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "approved",
+    "approvedBy": "Ang Jie Hui",
+    "approvalDate": "2026-10-14",
+    "documentVersion": "extract-15a6c9a025f2de8aac2b",
+    "approvedVersion": "extract-15a6c9a025f2de8aac2b",
+    "approvedSha256": "15a6c9a025f2de8aac2b719f35cdf56ecb92297d902916cd4fb8c587d25a6665",
+    "licenseConfirmed": true,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": true,
+      "reviewedBy": "Automated article-specific licence verification",
+      "reviewedOn": "2026-10-14",
+      "evidence": "Article-specific CC BY 4.0 verified at https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12027960/fullTextXML; licence https://creativecommons.org/licenses/by/4.0/. Text-only scoped extraction, attribution and exclusions checked under project-owner upload authorisation. Scientific approval remains pending."
+    },
+    "extraction": {
+      "collectionId": "minimal-2026-10-14",
+      "sourceLabel": "R9",
+      "doi": "10.3390/jcdd12040146",
+      "authors": [
+        "Jacopo Gardellini",
+        "Daniele Linardi",
+        "Venanzio Di Nicola",
+        "Gino Puntel",
+        "Giovanni Puppini",
+        "Luca Barozzi",
+        "Giovanni Battista Luciani"
+      ],
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenceText": "Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
+      "licenceCheckedOn": "2026-10-14",
+      "acquisitionUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12027960/fullTextXML",
+      "copyrightNotice": "© 2025 by the authors.",
+      "changesNotice": "Text excerpted and formatting normalised; images, captions, tables and supplements excluded. Generated explanations are AI paraphrases, not author endorsement.",
+      "rawSha256": "4d3d643fbd68770173f605ed853907c0f71c82796c8af3a8068a3e41937c46c9",
+      "sha256": "15a6c9a025f2de8aac2b719f35cdf56ecb92297d902916cd4fb8c587d25a6665",
+      "articleType": "review-article",
+      "starterSections": [
+        "Introduction",
+        "Discussion — embolic consequences and diagnostic imaging"
+      ],
+      "cautions": [
+        "A floating thrombus can cause downstream embolism without completely blocking the ascending aorta.",
+        "Evidence is substantially case-based; do not turn management discussion into universal treatment rules.",
+        "Exclude patient images, procedural details and drug regimens."
+      ],
+      "locators": [
+        {
+          "section": "1. Introduction",
+          "locator": "sec1-jcdd-12-00146/p[1]",
+          "sha256": "88ab3be7c83309f4da5c5052c138329bbe0eb4297f058821809845c55bdf2db5"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "sec1-jcdd-12-00146/p[2]",
+          "sha256": "fbbc66808099adb5b42060d2678e9a37461834fcf9af76a43d4a056c64259ec1"
+        },
+        {
+          "section": "1. Introduction",
+          "locator": "sec1-jcdd-12-00146/p[3]",
+          "sha256": "c87b057cd1e7f1374d16f46b37e07214c181c3f3bf3ee238b6c4c8858f2cda52"
+        },
+        {
+          "section": "4. Discussion",
+          "locator": "sec4-jcdd-12-00146/p[1]",
+          "sha256": "33eaf2da48964b3cfd455b7bc6a47fd7ef5204c64ffc68d76fa9c86ab7f4c2ba"
+        },
+        {
+          "section": "4. Discussion",
+          "locator": "sec4-jcdd-12-00146/p[2]",
+          "sha256": "3244a0142ec1023b31d27691c1050f5ddd945e63d5a179113f89d9e8e96f1766"
+        },
+        {
+          "section": "4. Discussion",
+          "locator": "sec4-jcdd-12-00146/p[3]",
+          "sha256": "172f840c845b25715780249605f291047f5af6b7fce4dce7bf2c4efe654bdc89"
+        },
+        {
+          "section": "4. Discussion",
+          "locator": "sec4-jcdd-12-00146/p[4]",
+          "sha256": "75d022e87e6f7d0bf53866e82422ee399ba4b21df48daeacc8e8b9cdb832af3d"
+        },
+        {
+          "section": "4. Discussion",
+          "locator": "sec4-jcdd-12-00146/p[6]",
+          "sha256": "7e2fc0dae2b9faaa7690c638067a3f13b9ff15d77a0ca9923610da9498e35e3a"
+        },
+        {
+          "section": "4. Discussion",
+          "locator": "sec4-jcdd-12-00146/p[7]",
+          "sha256": "7263ff513ba94a2cefeaeaa05ae86f47beb73f1dab33ec51969880dab335d3da"
+        },
+        {
+          "section": "4. Discussion",
+          "locator": "sec4-jcdd-12-00146/p[8]",
+          "sha256": "d3e430385d86bece0ab82a9508261410610a3137510b34c564282d08983721cc"
+        },
+        {
+          "section": "4. Discussion",
+          "locator": "sec4-jcdd-12-00146/p[9]",
+          "sha256": "045fb09e5c42676d49ef29c43e4bf089789bc36b3b5d6be537e0b29e810cba22"
+        },
+        {
+          "section": "4. Discussion",
+          "locator": "sec4-jcdd-12-00146/p[10]",
+          "sha256": "52509c8e5f3b81b9b0200fdac3bbec3de26256567b19698f8359a5744ea61b10"
+        },
+        {
+          "section": "4. Discussion",
+          "locator": "sec4-jcdd-12-00146/p[12]",
+          "sha256": "1fdc8e8278cf85036f5d1992549136ded61501d3023e4f7e2fa890385dfc7c4a"
+        },
+        {
+          "section": "4. Discussion",
+          "locator": "sec4-jcdd-12-00146/p[15]",
+          "sha256": "e67f124f1c1f6e1dfa16adbbb2e5cdcdbb26e00e77a05eaee141559f47266be5"
+        }
+      ]
+    }
+  },
+  {
+    "id": "R10",
+    "title": "Review of evolving etiologies, implications and treatment strategies for the superior vena cava syndrome",
+    "institution": "SpringerPlus",
+    "publicationYear": 2016,
+    "edition": null,
+    "yearOrEdition": "5:229",
+    "section": "Selected original article body paragraphs; exact headings and locators retained",
+    "structureIds": [
+      "superior-vena-cava"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://doi.org/10.1186/s40064-016-1900-7",
+    "documentPath": "approved/minimal-2026-10-14/R10-42510bff97e1e205fc21.md",
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "approved",
+    "approvedBy": "Ang Jie Hui",
+    "approvalDate": "2026-10-14",
+    "documentVersion": "extract-42510bff97e1e205fc21",
+    "approvedVersion": "extract-42510bff97e1e205fc21",
+    "approvedSha256": "42510bff97e1e205fc215f60d82da7761dfdf3fbaae648628ad25b1d0a294e62",
+    "licenseConfirmed": true,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": true,
+      "reviewedBy": "Automated article-specific licence verification",
+      "reviewedOn": "2026-10-14",
+      "evidence": "Article-specific CC BY 4.0 verified at https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4771672/fullTextXML; licence https://creativecommons.org/licenses/by/4.0/. Text-only scoped extraction, attribution and exclusions checked under project-owner upload authorisation. Scientific approval remains pending."
+    },
+    "extraction": {
+      "collectionId": "minimal-2026-10-14",
+      "sourceLabel": "R10",
+      "doi": "10.1186/s40064-016-1900-7",
+      "authors": [
+        "Christopher Straka",
+        "James Ying",
+        "Feng-Ming Kong",
+        "Christopher D Willey",
+        "Joseph Kaminski",
+        "D W Nathan Kim"
+      ],
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenceText": "Open AccessThis article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.",
+      "licenceCheckedOn": "2026-10-14",
+      "acquisitionUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4771672/fullTextXML",
+      "copyrightNotice": "© Straka et al. 2016",
+      "changesNotice": "Text excerpted and formatting normalised; images, captions, tables and supplements excluded. Generated explanations are AI paraphrases, not author endorsement.",
+      "rawSha256": "53f364f8488573d049cf4b39b0ccd9b969cad8e7e630e68f68c742d409d64632",
+      "sha256": "42510bff97e1e205fc215f60d82da7761dfdf3fbaae648628ad25b1d0a294e62",
+      "articleType": "review-article",
+      "starterSections": [
+        "Anatomy and physiology",
+        "Etiologies",
+        "Clinical presentation",
+        "Imaging",
+        "Histology"
+      ],
+      "cautions": [
+        "This older review is selected for basic anatomy and obstruction/imaging concepts, not current treatment recommendations.",
+        "Keep malignant compression and intravascular thrombosis distinct."
+      ],
+      "locators": [
+        {
+          "section": "Anatomy and physiology",
+          "locator": "Sec2/p[1]",
+          "sha256": "c7065022dab879e5ad25d24662185aacedaded179781c3490d5fd49d28e25d96"
+        },
+        {
+          "section": "Anatomy and physiology",
+          "locator": "Sec2/p[2]",
+          "sha256": "2bfccfc9c1150f01d926f69191d2e1f488d2f3879b5f8f794b45bdb4d5d0f315"
+        },
+        {
+          "section": "Anatomy and physiology",
+          "locator": "Sec2/p[3]",
+          "sha256": "7d9597e6d808ef1a5d530b2882d531bce2d663ad27f9ce090ebdb0660c7a7ff2"
+        },
+        {
+          "section": "Etiologies",
+          "locator": "Sec3/p[1]",
+          "sha256": "9e1ccf275d86a20c7cfb240d529842f18e71ccf807511261c2db1c5a1059b0e9"
+        },
+        {
+          "section": "Clinical evaluation",
+          "locator": "Sec4/p[1]",
+          "sha256": "26c72e4871424a7f3b7162e8e1abfbf1c32ef3686711ce7dd6c1ce0dbf71f71a"
+        },
+        {
+          "section": "Clinical evaluation",
+          "locator": "Sec4/p[2]",
+          "sha256": "f47d11ac6345f1f7ce525651eda794487e7eee94b89b11e8725e7263990c3518"
+        },
+        {
+          "section": "Imaging",
+          "locator": "Sec5/p[1]",
+          "sha256": "ca776a3f1ee8cdd6db902b32215fb237e453cb66c78d5146627131dd1921466b"
+        },
+        {
+          "section": "Imaging",
+          "locator": "Sec5/p[3]",
+          "sha256": "23d5332d6b0ce459c156f93727b0e401ecd0e32ce600ac5eed59cf02655704fc"
+        },
+        {
+          "section": "Imaging",
+          "locator": "Sec5/p[4]",
+          "sha256": "d859243b6b0ef086d19363073ee2300a4394e9d869d2a09de91a4bf7c05cc80b"
+        },
+        {
+          "section": "Histology",
+          "locator": "Sec6/p[1]",
+          "sha256": "7015ffa9ea4bcae3fc3fa7e69eae787c02e5ff02f3b29c88f2e3dddac9b729c6"
+        }
+      ]
+    }
+  },
+  {
+    "id": "R11",
+    "title": "Coronary sinus thrombosis: insights from a comprehensive literature review",
+    "institution": "Thrombosis Journal",
+    "publicationYear": 2025,
+    "edition": null,
+    "yearOrEdition": "23:24",
+    "section": "Selected original article body paragraphs; exact headings and locators retained",
+    "structureIds": [
+      "coronary-sinus"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://doi.org/10.1186/s12959-025-00707-x",
+    "documentPath": "approved/minimal-2026-10-14/R11-67b46f7bf412fad59eb8.md",
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "approved",
+    "approvedBy": "Ang Jie Hui",
+    "approvalDate": "2026-10-14",
+    "documentVersion": "extract-67b46f7bf412fad59eb8",
+    "approvedVersion": "extract-67b46f7bf412fad59eb8",
+    "approvedSha256": "67b46f7bf412fad59eb819eebff94999aaa91188b305fc37c7d419692c6cf0ea",
+    "licenseConfirmed": true,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": true,
+      "reviewedBy": "Automated article-specific licence verification",
+      "reviewedOn": "2026-10-14",
+      "evidence": "Article-specific CC BY 4.0 verified at https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11907922/fullTextXML; licence https://creativecommons.org/licenses/by/4.0/. Text-only scoped extraction, attribution and exclusions checked under project-owner upload authorisation. Scientific approval remains pending."
+    },
+    "extraction": {
+      "collectionId": "minimal-2026-10-14",
+      "sourceLabel": "R11",
+      "doi": "10.1186/s12959-025-00707-x",
+      "authors": [
+        "Chenlong Yi"
+      ],
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenceText": "https://creativecommons.org/licenses/by/4.0/Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
+      "licenceCheckedOn": "2026-10-14",
+      "acquisitionUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11907922/fullTextXML",
+      "copyrightNotice": "© The Author(s) 2025",
+      "changesNotice": "Text excerpted and formatting normalised; images, captions, tables and supplements excluded. Generated explanations are AI paraphrases, not author endorsement.",
+      "rawSha256": "ed6d99f016e86cde462aa8d26b89a48931eaec9992ffef15ff0b123e6c28824f",
+      "sha256": "67b46f7bf412fad59eb819eebff94999aaa91188b305fc37c7d419692c6cf0ea",
+      "articleType": "review-article",
+      "starterSections": [
+        "Anatomy/function discussion",
+        "Pathophysiology of coronary sinus thrombosis",
+        "Clinical presentation and diagnosis discussion"
+      ],
+      "cautions": [
+        "Distinguish venous outflow obstruction from coronary arterial inflow obstruction.",
+        "Do not present a definitive diagnosis from a nonspecific ECG finding.",
+        "Exclude treatment regimens and unreviewed numerical claims."
+      ],
+      "locators": [
+        {
+          "section": "Pathophysiology of coronary sinus thrombosis (CST) > The anatomy and function of the coronary sinus (CS)",
+          "locator": "Sec2/p[1]",
+          "sha256": "c61cb7b22947ceb8367cbb5db2daef7d1cbe9022136eaba5b33923563c40fb83"
+        },
+        {
+          "section": "Pathophysiology of coronary sinus thrombosis (CST) > The anatomy and function of the coronary sinus (CS)",
+          "locator": "Sec2/p[2]",
+          "sha256": "be8bf88521ce45601b9294ce06e40dc9748dd06950a0fcf6a5a90db0560c715b"
+        },
+        {
+          "section": "Pathophysiology of coronary sinus thrombosis (CST) > Clinical significance of the CS",
+          "locator": "Sec3/p[1]",
+          "sha256": "8d0a04b69f8b33c8b61a0475d3117b6dcaeedfc45b798377a0c6586584240b71"
+        },
+        {
+          "section": "CST",
+          "locator": "Sec5/p[1]",
+          "sha256": "1ecaf9ae65164da97583bfd197ff2b57ad6a7dc127a2e0e4a1822e014c08805e"
+        },
+        {
+          "section": "CST > CST formation mechanisms",
+          "locator": "Sec6/p[1]",
+          "sha256": "09265a21e77c5f46eb709f42ab8e0e5b820781bf978450ae3f97ae144897f1f0"
+        },
+        {
+          "section": "CST > CST formation mechanisms",
+          "locator": "Sec6/p[2]",
+          "sha256": "45327e80e11c8120fae398c36cd3b3f63edee38f1ee3346bdf122ec4895ac04c"
+        },
+        {
+          "section": "CST > CST formation mechanisms",
+          "locator": "Sec6/p[3]",
+          "sha256": "4457a52c7864ae80abaf06aa69264ac4f8548b6aaaf78919296816b3c92a51cf"
+        },
+        {
+          "section": "Clinical presentations of CST",
+          "locator": "Sec8/p[1]",
+          "sha256": "ac3d9b1f643ede5cf543b387324ef9c1d9774710ba2fdbad62c77d734c569c3f"
+        },
+        {
+          "section": "Clinical presentations of CST",
+          "locator": "Sec8/p[2]",
+          "sha256": "f017683bed405496ec7ec77f9519d771f826fb1f60d3ca0c98c1d68176f7f5c9"
+        },
+        {
+          "section": "Clinical presentations of CST",
+          "locator": "Sec8/p[3]",
+          "sha256": "ef34ed9941cfda33dbcb836b35c31ad95ea68c0cb3ed4ea43f2e955cb5cc6280"
+        },
+        {
+          "section": "Clinical diagnosis of CST",
+          "locator": "Sec9/p[1]",
+          "sha256": "83eeafca62aa63c1b55011391ef5e920f96645092806d1843cabddabdebffb15"
+        },
+        {
+          "section": "Clinical diagnosis of CST",
+          "locator": "Sec9/p[3]",
+          "sha256": "1222bef888900a4a3e0b49d5f7c41f38d381cf267ada407927a3e40f9f8fcd54"
+        },
+        {
+          "section": "Clinical diagnosis of CST",
+          "locator": "Sec9/p[4]",
+          "sha256": "89ea4c43612fc09c1a45765697a5ef1027ede6250249adf758f95959c582862c"
+        },
+        {
+          "section": "Clinical diagnosis of CST",
+          "locator": "Sec9/p[5]",
+          "sha256": "8db89c48422b84a934e2cda9e01b0765efe439d7e3238d317fdc2a884224633a"
+        },
+        {
+          "section": "Clinical diagnosis of CST",
+          "locator": "Sec9/p[6]",
+          "sha256": "031b963ba6246c5d0164cbd8a95a7906ded08026acb076ab3e32f9bc3bf6e4f5"
+        },
+        {
+          "section": "Clinical diagnosis of CST",
+          "locator": "Sec9/p[7]",
+          "sha256": "4cb01da0aa4f53f816dba3bc43ca736f61436f42aebe0a4d888ea52913a33719"
+        }
+      ]
+    }
+  }
+]

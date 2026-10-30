@@ -1,0 +1,23 @@
+{
+  "id": "replace-with-source-id",
+  "title": "Replace with verified reference title",
+  "institution": null,
+  "publicationYear": null,
+  "edition": null,
+  "yearOrEdition": null,
+  "section": "Replace with exact chapter, section or page range",
+  "structureIds": ["right-coronary-proximal"],
+  "topics": ["coronary-anatomy"],
+  "location": "Replace with public citation URL",
+  "documentPath": "draft/replace-with-source-id-v1.md",
+  "sourceType": "textbook",
+  "materialKind": "reference",
+  "status": "draft",
+  "approvedBy": null,
+  "approvalDate": null,
+  "documentVersion": "1",
+  "approvedVersion": null,
+  "approvedSha256": null,
+  "licenseConfirmed": false,
+  "publicCitation": false
+}

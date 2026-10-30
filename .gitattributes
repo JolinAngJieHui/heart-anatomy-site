@@ -1,0 +1,8 @@
+# Reference approval and collection hashes cover the exact file bytes.
+# Preserve them on Windows and Linux instead of converting line endings.
+knowledge-base/** -text
+docs/rag/anatomy_RAG_minimal_reference_register.json -text
+
+# The labelled scan and decoder are binary assets.
+*.glb binary
+*.wasm binary

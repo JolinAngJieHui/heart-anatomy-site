@@ -1,0 +1,56 @@
+# Upload only the application. All excluded local files remain untouched.
+/*
+!/app
+!/components
+!/lib
+!/public
+!/knowledge-base
+!/docs
+!/tests
+!/package.json
+!/package-lock.json
+!/next.config.ts
+!/tsconfig.json
+!/postcss.config.mjs
+!/eslint.config.mjs
+!/next-env.d.ts
+!/vercel.json
+!/.vercelignore
+
+# This small reference register is imported by the anatomical information cards.
+/docs/*
+!/docs/rag
+/docs/rag/*
+!/docs/rag/anatomy_RAG_minimal_reference_register.json
+
+# Existing service import needed for build; live mode never uses this fixture.
+/tests/*
+!/tests/fixtures
+/tests/fixtures/*
+!/tests/fixtures/knowledge-base
+/tests/fixtures/knowledge-base/*
+!/tests/fixtures/knowledge-base/synthetic.json
+
+# Active labelled heart, original quality. Manifest and decoder assets remain.
+/public/models/*.glb
+!/public/models/heart-024522f87aa6dbb0.glb
+/public/models/*.inventory.json
+
+# Existing imported metadata stays available; acquisition/archive files do not.
+/knowledge-base/archive/
+/knowledge-base/pending_review/
+/knowledge-base/candidates/
+/knowledge-base/raw/
+/knowledge-base/coverage-report.json
+/knowledge-base/draft-registry.json
+/knowledge-base/README.md
+/knowledge-base/reference-template.json
+/knowledge-base/collections/*
+!/knowledge-base/collections/minimal-2026-10-14
+/knowledge-base/approved/*
+!/knowledge-base/approved/minimal-2026-10-14
+
+# Keys are transferred separately through authenticated server settings.
+.env*
+*.pem
+*.key

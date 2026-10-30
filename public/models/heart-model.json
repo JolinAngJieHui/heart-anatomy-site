@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "url": "/models/heart-024522f87aa6dbb0.glb",
+  "rotationDegrees": [
+    0,
+    0,
+    0
+  ],
+  "structures": {
+    "right-coronary-proximal": {
+      "meshes": [],
+      "anchor": {
+        "node": "_marker-right-coronary-proximal",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "right-coronary-middle": {
+      "meshes": [],
+      "anchor": {
+        "node": "_marker-right-coronary-middle",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "right-coronary-distal": {
+      "meshes": [],
+      "anchor": {
+        "node": "marker-right-coronary-distal",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "posterior-descending-artery": {
+      "meshes": [
+        "posterior-descending-artery001"
+      ],
+      "anchor": {
+        "node": "marker-posterior-descending-artery",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "left-coronary-artery": {
+      "meshes": [],
+      "anchor": {
+        "node": "marker-left-coronary-artery",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "left-anterior-descending-proximal": {
+      "meshes": [],
+      "anchor": {
+        "node": "marker-left-anterior-descending-proximal",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "left-anterior-descending-mid": {
+      "meshes": [],
+      "anchor": {
+        "node": "marker-left-anterior-descending-mid",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "left-anterior-descending-apical": {
+      "meshes": [],
+      "anchor": {
+        "node": "marker-left-anterior-descending-apical",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "left-diagonal-d1": {
+      "meshes": [
+        "left-diagonal-d1"
+      ],
+      "anchor": {
+        "node": "Heart_scan006",
+        "position": [
+          0.00731606879960987,
+          0.048291521426749806,
+          -0.028885554945302084
+        ]
+      }
+    },
+    "left-diagonal-d2": {
+      "meshes": [
+        "left-diagonal-d2"
+      ],
+      "anchor": {
+        "node": "marker-left-diagonal-d2",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "left-circumflex-artery": {
+      "meshes": [
+        "left-circumflex-artery"
+      ],
+      "anchor": {
+        "node": "_marker-left-circumflex-artery",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "right-marginal-artery": {
+      "meshes": [
+        "right-marginal-artery"
+      ],
+      "anchor": {
+        "node": "marker-right-marginal-artery",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "right-conus-artery": {
+      "meshes": [
+        "right-conus-artery"
+      ],
+      "anchor": {
+        "node": "marker-right-conus-artery",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "left-marginal-artery": {
+      "meshes": [
+        "left-marginal-artery"
+      ],
+      "anchor": {
+        "node": "_marker-left-marginal-artery",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "ascending-aorta": {
+      "meshes": [
+        "ascending-aorta"
+      ],
+      "anchor": {
+        "node": "marker-ascending-aorta",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "superior-vena-cava": {
+      "meshes": [
+        "superior-vena-cava"
+      ],
+      "anchor": {
+        "node": "marker-superior-vena-cava",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "coronary-sinus": {
+      "meshes": [
+        "coronary-sinus"
+      ],
+      "anchor": {
+        "node": "_marker-coronary-sinus",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "highlightGroups": {
+    "right-coronary-artery": {
+      "label": "Right Coronary Artery",
+      "meshes": [
+        "right-coronary-artery"
+      ],
+      "structures": [
+        "right-coronary-proximal",
+        "right-coronary-middle",
+        "right-coronary-distal"
+      ]
+    },
+    "left-main-and-lad": {
+      "label": "Left Main and Left Anterior Descending Artery",
+      "meshes": [
+        "left-anterior-descending"
+      ],
+      "structures": [
+        "left-coronary-artery",
+        "left-anterior-descending-proximal",
+        "left-anterior-descending-mid",
+        "left-anterior-descending-apical"
+      ]
+    }
+  }
+}

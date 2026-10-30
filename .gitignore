@@ -32,6 +32,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
 
 # vercel
 .vercel
@@ -39,3 +40,24 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local scans, screenshots, recordings, exports and verification output.
+/artifacts/
+*.log
+
+# Publish the active labelled model, not earlier exports of the scan.
+/public/models/*.glb
+!/public/models/heart-024522f87aa6dbb0.glb
+/public/models/*.inventory.json
+
+# Report documents and generated audit output are not application source.
+/docs/**/*.docx
+/docs/**/*.pdf
+/docs/**/*.html
+/docs/**/*.png
+/docs/**/*.jpg
+/docs/**/*.json
+!/docs/rag/anatomy_RAG_minimal_reference_register.json
+
+# Credentials stay local; the empty setup template is intentionally public.
+!.env.example

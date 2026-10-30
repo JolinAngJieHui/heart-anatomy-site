@@ -1,111 +1,31 @@
-export type HeartPartId =
-  | "right-atrium"
-  | "right-ventricle"
-  | "left-atrium"
-  | "left-ventricle"
-  | "aorta"
-  | "pulmonary-trunk";
-
-export type HeartPart = {
-  id: HeartPartId;
-  name: string;
-  shortName: string;
-  color: string;
-  summary: string;
-  bloodFlow: string;
-  shape: "chamber" | "vessel";
-  position: [number, number, number];
-  rotation: [number, number, number];
-  scale: [number, number, number];
-};
-
-/**
- * A schematic (not photorealistic) heart.
- * Coordinates are in "anatomical anterior" layout: viewer's left is the
- * heart's right, matching textbook diagrams.
- */
-export const HEART_PARTS: HeartPart[] = [
-  {
-    id: "right-atrium",
-    name: "Right atrium",
-    shortName: "RA",
-    color: "#f3a49c",
-    summary:
-      "Receives deoxygenated blood from the body through the superior and inferior vena cava.",
-    bloodFlow: "Body → vena cava → right atrium → tricuspid valve → right ventricle",
-    shape: "chamber",
-    position: [0.72, 0.62, 0.08],
-    rotation: [0, 0, 0],
-    scale: [0.82, 0.68, 0.74],
-  },
-  {
-    id: "right-ventricle",
-    name: "Right ventricle",
-    shortName: "RV",
-    color: "#e45b4c",
-    summary:
-      "Pumps deoxygenated blood into the pulmonary trunk toward the lungs. Its wall is thinner than the left ventricle.",
-    bloodFlow: "Right atrium → right ventricle → pulmonary valve → lungs",
-    shape: "chamber",
-    position: [0.62, -0.42, 0.22],
-    rotation: [0, 0, 0],
-    scale: [0.98, 1.08, 0.92],
-  },
-  {
-    id: "left-atrium",
-    name: "Left atrium",
-    shortName: "LA",
-    color: "#d46b62",
-    summary:
-      "Receives oxygenated blood from the pulmonary veins after it has been oxygenated in the lungs.",
-    bloodFlow: "Lungs → pulmonary veins → left atrium → mitral valve → left ventricle",
-    shape: "chamber",
-    position: [-0.58, 0.68, -0.18],
-    rotation: [0, 0, 0],
-    scale: [0.86, 0.7, 0.8],
-  },
-  {
-    id: "left-ventricle",
-    name: "Left ventricle",
-    shortName: "LV",
-    color: "#b42318",
-    summary:
-      "The strongest chamber. It pumps oxygenated blood into the aorta for the whole body, so its wall is the thickest.",
-    bloodFlow: "Left atrium → left ventricle → aortic valve → aorta → body",
-    shape: "chamber",
-    position: [-0.58, -0.38, 0],
-    rotation: [0, 0, 0],
-    scale: [1.18, 1.32, 1.12],
-  },
-  {
-    id: "aorta",
-    name: "Aorta",
-    shortName: "Ao",
-    color: "#7a1410",
-    summary:
-      "The largest artery. It carries oxygenated blood from the left ventricle to the systemic circulation.",
-    bloodFlow: "Left ventricle → aortic valve → aorta → arteries",
-    shape: "vessel",
-    position: [-0.22, 1.42, -0.12],
-    rotation: [0.15, 0, -0.2],
-    scale: [0.28, 0.72, 0.28],
-  },
-  {
-    id: "pulmonary-trunk",
-    name: "Pulmonary trunk",
-    shortName: "PT",
-    color: "#9b2c24",
-    summary:
-      "Carries deoxygenated blood from the right ventricle toward the lungs, then splits into left and right pulmonary arteries.",
-    bloodFlow: "Right ventricle → pulmonary valve → pulmonary trunk → lungs",
-    shape: "vessel",
-    position: [0.28, 1.22, 0.18],
-    rotation: [0.4, 0, 0.45],
-    scale: [0.24, 0.55, 0.24],
-  },
-];
-
+﻿/** Inventory from Coronary arteries.docx. Numbers are teaching labels, not angiographic segment codes. */
+export const HEART_PARTS = [
+  { id: "right-coronary-proximal", number: 1, name: "Right Coronary Artery (Proximal)", shortName: "RCA-P", group: "right", category: "coronary-artery" },
+  { id: "right-coronary-middle", number: 2, name: "Right Coronary Artery (Middle)", shortName: "RCA-M", group: "right", category: "coronary-artery" },
+  { id: "right-coronary-distal", number: 3, name: "Right Coronary Artery (Distal)", shortName: "RCA-D", group: "right", category: "coronary-artery" },
+  { id: "posterior-descending-artery", number: 4, name: "Posterior Descending Artery", shortName: "PDA", group: "right", category: "coronary-artery" },
+  { id: "left-coronary-artery", number: 5, name: "Left Coronary Artery", shortName: "LM", group: "left", category: "coronary-artery" },
+  { id: "left-anterior-descending-proximal", number: 6, name: "Left Anterior Descending (Proximal)", shortName: "LAD-P", group: "left", category: "coronary-artery" },
+  { id: "left-anterior-descending-mid", number: 7, name: "Left Anterior Descending (Mid)", shortName: "LAD-M", group: "left", category: "coronary-artery" },
+  { id: "left-anterior-descending-apical", number: 8, name: "Left Anterior Descending (Apical)", shortName: "LAD-A", group: "left", category: "coronary-artery" },
+  { id: "left-diagonal-d1", number: 9, name: "Left Diagonal D1", shortName: "D1", group: "left", category: "coronary-artery" },
+  { id: "left-diagonal-d2", number: 10, name: "Left Diagonal D2", shortName: "D2", group: "left", category: "coronary-artery" },
+  { id: "left-circumflex-artery", number: 11, name: "Left Circumflex Artery", shortName: "LCx", group: "left", category: "coronary-artery" },
+  { id: "right-marginal-artery", number: 12, name: "Right Marginal Artery", shortName: "RMA", group: "right", category: "coronary-artery" },
+  { id: "right-conus-artery", number: 13, name: "Right Conus Artery", shortName: "Conus", group: "right", category: "coronary-artery" },
+  { id: "left-marginal-artery", number: 14, name: "Left Marginal Artery", shortName: "OM", group: "left", category: "coronary-artery" },
+  { id: "ascending-aorta", number: 15, name: "Ascending Aorta", shortName: "Ao", group: "great", category: "great-artery" },
+  { id: "superior-vena-cava", number: 16, name: "Superior Vena Cava", shortName: "SVC", group: "great", category: "systemic-vein" },
+  { id: "coronary-sinus", number: 17, name: "Coronary Sinus", shortName: "CS", group: "great", category: "coronary-vein" },
+] as const;
+export type HeartPart = (typeof HEART_PARTS)[number];
+export type HeartPartId = HeartPart["id"];
+export const STRUCTURE_GROUPS = [
+  { id: "right", name: "Right coronary artery and branches", note: "PDA grouped here for an illustrative right-dominant pattern; its origin varies." },
+  { id: "left", name: "Left coronary artery and branches", note: "Left Coronary Artery denotes the left main trunk." },
+  { id: "great", name: "Great vessels and venous drainage", note: "Includes a great artery, a systemic vein and a coronary vein." },
+] as const;
+export const CATEGORY_NAMES = { "coronary-artery": "Coronary artery", "great-artery": "Great artery", "systemic-vein": "Systemic vein", "coronary-vein": "Coronary vein" };
 export function getHeartPart(id: HeartPartId | null): HeartPart | undefined {
-  if (!id) return undefined;
   return HEART_PARTS.find((part) => part.id === id);
 }

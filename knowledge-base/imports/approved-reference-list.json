@@ -1,0 +1,1179 @@
+{
+  "references": [
+    {
+      "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-and-function-of-the-coronary-arteries",
+      "categories": [
+        "Basic / general cardiovascular education"
+      ],
+      "structureIds": [],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/symptoms-causes/syc-20350613",
+      "categories": [
+        "Basic / general cardiovascular education"
+      ],
+      "structureIds": [],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://my.clevelandclinic.org/health/body/22973-coronary-arteries",
+      "categories": [
+        "Basic / general cardiovascular education"
+      ],
+      "structureIds": [],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://www.nuhs.edu.sg/patient-care/find-a-condition/coronary-artery-disease-heart-disease",
+      "categories": [
+        "Basic / general cardiovascular education"
+      ],
+      "structureIds": [],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://www.healthhub.sg/health-conditions/coronary-artery-disease",
+      "categories": [
+        "Basic / general cardiovascular education"
+      ],
+      "structureIds": [],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://www.cdc.gov/heart-disease/about/coronary-artery-disease.html",
+      "categories": [
+        "Basic / general cardiovascular education"
+      ],
+      "structureIds": [],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://www.vhlab.umn.edu/atlas/coronary-arteries/right-coronary-artery/index.shtml",
+      "categories": [
+        "Right Coronary Artery"
+      ],
+      "structureIds": [
+        "right-coronary-proximal",
+        "right-coronary-middle",
+        "right-coronary-distal"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3716484/",
+      "categories": [
+        "Right Coronary Artery"
+      ],
+      "structureIds": [
+        "right-coronary-proximal",
+        "right-coronary-middle",
+        "right-coronary-distal"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6024025/",
+      "categories": [
+        "Right Coronary Artery"
+      ],
+      "structureIds": [
+        "right-coronary-proximal",
+        "right-coronary-middle",
+        "right-coronary-distal"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11179863/",
+      "categories": [
+        "Right Coronary Artery"
+      ],
+      "structureIds": [
+        "right-coronary-proximal",
+        "right-coronary-middle",
+        "right-coronary-distal"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11179863/",
+      "categories": [
+        "Posterior Descending Artery"
+      ],
+      "structureIds": [
+        "posterior-descending-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+      "categories": [
+        "Posterior Descending Artery"
+      ],
+      "structureIds": [
+        "posterior-descending-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11319729/",
+      "categories": [
+        "Posterior Descending Artery"
+      ],
+      "structureIds": [
+        "posterior-descending-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11444804/",
+      "categories": [
+        "Posterior Descending Artery"
+      ],
+      "structureIds": [
+        "posterior-descending-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://www.vhlab.umn.edu/atlas/coronary-arteries/left-coronary-artery/index.shtml",
+      "categories": [
+        "Left Coronary Artery"
+      ],
+      "structureIds": [
+        "left-coronary-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3972602/",
+      "categories": [
+        "Left Coronary Artery"
+      ],
+      "structureIds": [
+        "left-coronary-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11263144/",
+      "categories": [
+        "Left Coronary Artery"
+      ],
+      "structureIds": [
+        "left-coronary-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6173093/",
+      "categories": [
+        "Left Coronary Artery"
+      ],
+      "structureIds": [
+        "left-coronary-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12290918/",
+      "categories": [
+        "Left Coronary Artery"
+      ],
+      "structureIds": [
+        "left-coronary-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10011221/",
+      "categories": [
+        "Left Coronary Artery"
+      ],
+      "structureIds": [
+        "left-coronary-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060931/",
+      "categories": [
+        "Proximal LAD"
+      ],
+      "structureIds": [
+        "left-anterior-descending-proximal"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7434265/",
+      "categories": [
+        "Proximal LAD"
+      ],
+      "structureIds": [
+        "left-anterior-descending-proximal"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10208002/",
+      "categories": [
+        "Proximal LAD"
+      ],
+      "structureIds": [
+        "left-anterior-descending-proximal"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5391576/",
+      "categories": [
+        "Proximal LAD"
+      ],
+      "structureIds": [
+        "left-anterior-descending-proximal"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060931/",
+      "categories": [
+        "Middle LAD"
+      ],
+      "structureIds": [
+        "left-anterior-descending-mid"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5391576/",
+      "categories": [
+        "Middle LAD"
+      ],
+      "structureIds": [
+        "left-anterior-descending-mid"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11165169/",
+      "categories": [
+        "Middle LAD"
+      ],
+      "structureIds": [
+        "left-anterior-descending-mid"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060931/",
+      "categories": [
+        "Apical LAD"
+      ],
+      "structureIds": [
+        "left-anterior-descending-apical"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11165169/",
+      "categories": [
+        "Apical LAD"
+      ],
+      "structureIds": [
+        "left-anterior-descending-apical"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060931/",
+      "categories": [
+        "General LAD (All Segments)"
+      ],
+      "structureIds": [
+        "left-anterior-descending-proximal",
+        "left-anterior-descending-mid",
+        "left-anterior-descending-apical"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13279662/",
+      "categories": [
+        "General LAD (All Segments)"
+      ],
+      "structureIds": [
+        "left-anterior-descending-proximal",
+        "left-anterior-descending-mid",
+        "left-anterior-descending-apical"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://www.vhlab.umn.edu/atlas/coronary-arteries/lad-left-anterior-descending-artery/index.shtml",
+      "categories": [
+        "General LAD (All Segments)"
+      ],
+      "structureIds": [
+        "left-anterior-descending-proximal",
+        "left-anterior-descending-mid",
+        "left-anterior-descending-apical"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060931/",
+      "categories": [
+        "Left Diagonal D1"
+      ],
+      "structureIds": [
+        "left-diagonal-d1"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13310369/",
+      "categories": [
+        "Left Diagonal D1"
+      ],
+      "structureIds": [
+        "left-diagonal-d1"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11774428/",
+      "categories": [
+        "Left Diagonal D1"
+      ],
+      "structureIds": [
+        "left-diagonal-d1"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10174408/",
+      "categories": [
+        "Left Diagonal D1"
+      ],
+      "structureIds": [
+        "left-diagonal-d1"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2803901/",
+      "categories": [
+        "Left Diagonal D1"
+      ],
+      "structureIds": [
+        "left-diagonal-d1"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12988317/",
+      "categories": [
+        "Left Diagonal D2"
+      ],
+      "structureIds": [
+        "left-diagonal-d2"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11430272/",
+      "categories": [
+        "Left Diagonal D2"
+      ],
+      "structureIds": [
+        "left-diagonal-d2"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7243609/",
+      "categories": [
+        "Left Diagonal D2"
+      ],
+      "structureIds": [
+        "left-diagonal-d2"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8905978/",
+      "categories": [
+        "Left Diagonal D2"
+      ],
+      "structureIds": [
+        "left-diagonal-d2"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10292609/",
+      "categories": [
+        "D1 & D2"
+      ],
+      "structureIds": [
+        "left-diagonal-d1",
+        "left-diagonal-d2"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8054348/",
+      "categories": [
+        "D1 & D2"
+      ],
+      "structureIds": [
+        "left-diagonal-d1",
+        "left-diagonal-d2"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11973961/",
+      "categories": [
+        "D1 & D2"
+      ],
+      "structureIds": [
+        "left-diagonal-d1",
+        "left-diagonal-d2"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://www.vhlab.umn.edu/atlas/coronary-arteries/circumflex-artery/index.shtml",
+      "categories": [
+        "Left Circumflex Artery"
+      ],
+      "structureIds": [
+        "left-circumflex-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12959989/",
+      "categories": [
+        "Left Circumflex Artery"
+      ],
+      "structureIds": [
+        "left-circumflex-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060931/",
+      "categories": [
+        "Left Circumflex Artery"
+      ],
+      "structureIds": [
+        "left-circumflex-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11179863/",
+      "categories": [
+        "Left Circumflex Artery"
+      ],
+      "structureIds": [
+        "left-circumflex-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9535132/",
+      "categories": [
+        "Left Circumflex Artery"
+      ],
+      "structureIds": [
+        "left-circumflex-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10423548/",
+      "categories": [
+        "Left Circumflex Artery"
+      ],
+      "structureIds": [
+        "left-circumflex-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060931/",
+      "categories": [
+        "Right Marginal Artery"
+      ],
+      "structureIds": [
+        "right-marginal-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+      "categories": [
+        "Right Marginal Artery"
+      ],
+      "structureIds": [
+        "right-marginal-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6555289/",
+      "categories": [
+        "Right Marginal Artery"
+      ],
+      "structureIds": [
+        "right-marginal-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6932548/",
+      "categories": [
+        "Right Marginal Artery"
+      ],
+      "structureIds": [
+        "right-marginal-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3521781/",
+      "categories": [
+        "Right Marginal Artery"
+      ],
+      "structureIds": [
+        "right-marginal-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2270369/",
+      "categories": [
+        "Right Conus Artery"
+      ],
+      "structureIds": [
+        "right-conus-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4625224/",
+      "categories": [
+        "Right Conus Artery"
+      ],
+      "structureIds": [
+        "right-conus-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3334481/",
+      "categories": [
+        "Right Conus Artery"
+      ],
+      "structureIds": [
+        "right-conus-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4880749/",
+      "categories": [
+        "Right Conus Artery"
+      ],
+      "structureIds": [
+        "right-conus-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12371357/",
+      "categories": [
+        "Right Conus Artery"
+      ],
+      "structureIds": [
+        "right-conus-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12080716/",
+      "categories": [
+        "Right Conus Artery"
+      ],
+      "structureIds": [
+        "right-conus-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9068759/",
+      "categories": [
+        "Right Conus Artery"
+      ],
+      "structureIds": [
+        "right-conus-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060931/",
+      "categories": [
+        "Left Marginal Artery"
+      ],
+      "structureIds": [
+        "left-marginal-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12236989/",
+      "categories": [
+        "Left Marginal Artery"
+      ],
+      "structureIds": [
+        "left-marginal-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6277602/",
+      "categories": [
+        "Left Marginal Artery"
+      ],
+      "structureIds": [
+        "left-marginal-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4244243/",
+      "categories": [
+        "Left Marginal Artery"
+      ],
+      "structureIds": [
+        "left-marginal-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6652929/",
+      "categories": [
+        "Left Marginal Artery"
+      ],
+      "structureIds": [
+        "left-marginal-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8054348/",
+      "categories": [
+        "Left Marginal Artery"
+      ],
+      "structureIds": [
+        "left-marginal-artery"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7083991/",
+      "categories": [
+        "Ascending Aorta"
+      ],
+      "structureIds": [
+        "ascending-aorta"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10784847/",
+      "categories": [
+        "Ascending Aorta"
+      ],
+      "structureIds": [
+        "ascending-aorta"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5497177/",
+      "categories": [
+        "Ascending Aorta"
+      ],
+      "structureIds": [
+        "ascending-aorta"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11264121/",
+      "categories": [
+        "Ascending Aorta"
+      ],
+      "structureIds": [
+        "ascending-aorta"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11189161/",
+      "categories": [
+        "Ascending Aorta"
+      ],
+      "structureIds": [
+        "ascending-aorta"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6785492/",
+      "categories": [
+        "Ascending Aorta"
+      ],
+      "structureIds": [
+        "ascending-aorta"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11134645/",
+      "categories": [
+        "Ascending Aorta"
+      ],
+      "structureIds": [
+        "ascending-aorta"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9705143/",
+      "categories": [
+        "Superior Vena Cava"
+      ],
+      "structureIds": [
+        "superior-vena-cava"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7934304/",
+      "categories": [
+        "Superior Vena Cava"
+      ],
+      "structureIds": [
+        "superior-vena-cava"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10439982/",
+      "categories": [
+        "Superior Vena Cava"
+      ],
+      "structureIds": [
+        "superior-vena-cava"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8727327/",
+      "categories": [
+        "Superior Vena Cava"
+      ],
+      "structureIds": [
+        "superior-vena-cava"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5334491/",
+      "categories": [
+        "Superior Vena Cava"
+      ],
+      "structureIds": [
+        "superior-vena-cava"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9458578/",
+      "categories": [
+        "Superior Vena Cava"
+      ],
+      "structureIds": [
+        "superior-vena-cava"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13098589/",
+      "categories": [
+        "Superior Vena Cava"
+      ],
+      "structureIds": [
+        "superior-vena-cava"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12861964/",
+      "categories": [
+        "Coronary Sinus"
+      ],
+      "structureIds": [
+        "coronary-sinus"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4121327/",
+      "categories": [
+        "Coronary Sinus"
+      ],
+      "structureIds": [
+        "coronary-sinus"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4195839/",
+      "categories": [
+        "Coronary Sinus"
+      ],
+      "structureIds": [
+        "coronary-sinus"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11907922/",
+      "categories": [
+        "Coronary Sinus"
+      ],
+      "structureIds": [
+        "coronary-sinus"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11317785/",
+      "categories": [
+        "Coronary Sinus"
+      ],
+      "structureIds": [
+        "coronary-sinus"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10954671/",
+      "categories": [
+        "Coronary Sinus"
+      ],
+      "structureIds": [
+        "coronary-sinus"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5894577/",
+      "categories": [
+        "Coronary Sinus"
+      ],
+      "structureIds": [
+        "coronary-sinus"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13329930/",
+      "categories": [
+        "Coronary Sinus"
+      ],
+      "structureIds": [
+        "coronary-sinus"
+      ],
+      "topics": [
+        "cardiovascular-anatomy",
+        "coronary-anatomy"
+      ]
+    }
+  ]
+}

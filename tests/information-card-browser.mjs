@@ -1,0 +1,65 @@
+import assert from 'node:assert/strict';
+const { chromium } = await import('playwright').catch(() => import(new URL('../.next/cache/browser-tools/node_modules/playwright/index.mjs', import.meta.url).href));
+const browser = await chromium.launch({ executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe', headless: true, args: ['--use-angle=swiftshader', '--enable-unsafe-swiftshader'] });
+try {
+  const page = await browser.newPage({ viewport: { width: 1440, height: 900 } });
+  await page.goto(process.env.EXPLORER_TEST_URL ?? 'http://127.0.0.1:3100', { waitUntil: 'networkidle' });
+  await page.waitForSelector('.anatomy-marker:not([hidden])');
+  await page.locator('[data-structure-id="right-coronary-middle"]').click();
+  await page.waitForFunction(() => { const d = document.querySelector('.scene-surface')?.dataset.framing; return d && JSON.parse(d).selectedId === 'right-coronary-middle' && !JSON.parse(d).moving; });
+  const card = await page.locator('.detail-card').elementHandle();
+  const position = () => page.locator('.information-card-position').boundingBox();
+  const line = page.locator('.information-leader');
+  const assertAttached = async () => {
+    await page.waitForFunction(() => {
+      const marker = document.querySelector('.anatomy-marker.selected');
+      const line = document.querySelector('.information-leader');
+      if (!marker || marker.hidden || line.style.display === 'none') return false;
+      const m = marker.getBoundingClientRect(), root = document.querySelector('.information-overlay').getBoundingClientRect();
+      return Math.abs(Number(line.getAttribute('x1')) - (m.x + m.width / 2 - root.x)) < 2 && Math.abs(Number(line.getAttribute('y1')) - (m.y + m.height / 2 - root.y)) < 2;
+    });
+  };
+  await assertAttached();
+  const initial = await position();
+  const view = await page.locator('canvas').boundingBox();
+  const x = view.x + view.width / 2 - 100, y = view.y + view.height / 2;
+  await page.mouse.move(x, y);
+  await page.mouse.down();
+  await page.mouse.move(x + 40, y + 20, { steps: 10 });
+  await page.mouse.up();
+  await page.waitForTimeout(2000);
+  await assertAttached();
+  assert.equal((await position()).x, initial.x, 'card stays docked during small rotations');
+  await page.mouse.move(view.x + 20, view.y + 20);
+  await page.mouse.wheel(0, -200);
+  await page.waitForTimeout(1500);
+  await assertAttached();
+  await page.getByRole('button', { name: 'Hide Markers', exact: true }).click();
+  await page.waitForFunction(() => document.querySelector('.information-leader').style.display === 'none');
+  assert.ok(await page.locator('.information-overlay').isVisible());
+  await page.getByRole('button', { name: 'Show Markers', exact: true }).click();
+  await page.getByRole('button', { name: 'Reset view', exact: true }).click();
+  await page.waitForTimeout(1500);
+  await page.locator('[data-structure-id="coronary-sinus"]').click();
+  await page.waitForTimeout(1500);
+  await assertAttached();
+  assert.equal(await line.getAttribute('data-behind'), 'true');
+  await page.getByRole('button', { name: 'advanced', exact: true }).click();
+  assert.equal(await page.locator('.detail-card').evaluate((el, previous) => el === previous, card), true);
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.waitForTimeout(500);
+  await assertAttached();
+  assert.equal(await page.locator('.information-card-position').getAttribute('data-placement'), 'sheet');
+  await page.locator('.detail-body').evaluate(el => el.scrollTop = el.scrollHeight);
+  assert.ok(await page.locator('.detail-body').evaluate(el => el.scrollTop > 0));
+  assert.deepEqual(await page.evaluate(() => [window.scrollX, window.scrollY]), [0, 0]);
+  await page.getByRole('button', { name: 'Close anatomical information', exact: true }).focus();
+  await page.keyboard.press('Enter');
+  assert.ok(await page.locator('.information-overlay').isHidden());
+  assert.ok(await page.locator('.workspace-heading .learning-levels').isVisible());
+  // Sidebar selection opens the same card after dismissal.
+  await page.locator('[data-structure-id="ascending-aorta"]').click();
+  assert.equal(await page.locator('#detail-title').innerText(), 'Ascending Aorta');
+  assert.equal(await page.locator('.detail-card').evaluate((el, previous) => el === previous, card), true);
+  console.log('Card reuse, leader tracking, side stability, hidden-marker fallback, scrolling, responsive sheet and keyboard close passed.');
+} finally { await browser.close(); }

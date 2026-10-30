@@ -1,0 +1,9 @@
+{
+  "activatedAt": "2026-10-14T13:04:47.768Z",
+  "localOnly": true,
+  "mode": "development-review",
+  "rollback": "archive/minimal-2026-10-14-1daa76f7ea62",
+  "collectionVersion": "2c5e7010588da07139e4182423a4fbddef0d42c95d3336ebf633694485cc7a2e",
+  "sources": 11,
+  "passages": 137
+}

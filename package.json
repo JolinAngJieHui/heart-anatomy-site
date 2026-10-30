@@ -3,18 +3,46 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "model:inspect": "node scripts/heart-model.mjs inspect",
+    "model:install": "node scripts/heart-model.mjs install",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "next typegen && tsc --noEmit",
+    "test": "node --import ./tests/helpers/no-live-api.mjs --test tests/*.test.mjs",
+    "kb:validate": "node scripts/knowledge-base.mjs validate",
+    "kb:plan": "node scripts/knowledge-base.mjs plan",
+    "kb:mock": "node scripts/knowledge-base.mjs mock",
+    "rag:inspect": "node scripts/retrieval-inspect.mjs",
+    "rag:audit": "node scripts/audit-rag.mjs",
+    "rag:minimal": "node scripts/minimal-rag.mjs",
+    "rag:minimal-test": "node scripts/verify-minimal-chat.mjs",
+    "rag:fixtures": "node scripts/retrieval-fixtures.mjs",
+    "kb:coverage": "node scripts/reference-coverage.mjs",
+    "kb:review-plan": "node scripts/reference-review-plan.mjs",
+    "rag:evaluate": "node scripts/retrieval-evaluate.mjs",
+    "kb:teaching-prepare": "node scripts/prepare-teaching-notes.mjs",
+    "kb:teaching-review": "node scripts/teaching-review.mjs",
+    "kb:teaching-report": "node scripts/teaching-report.mjs",
+    "rag:terms": "node scripts/anatomical-terms.mjs",
+    "kb:collection": "node scripts/reference-collection.mjs",
+    "kb:collection-report": "node scripts/collection-report.mjs",
+    "rag:relevance": "node scripts/retrieval-relevance-evaluate.mjs",
+    "rag:relevance-report": "node scripts/retrieval-relevance-report.mjs"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.8",
     "@react-three/fiber": "^9.7.0",
-    "next": "16.3.1",
+    "docx": "^9.10.0",
+    "next": "16.4.3",
+    "openai": "^7.32.0",
     "react": "19.2.8",
     "react-dom": "19.2.8",
-    "three": "^0.185.1"
+    "server-only": "^0.0.1",
+    "three": "^0.185.1",
+    "three-mesh-bvh": "0.8.3",
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -22,7 +50,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.3.1",
+    "eslint-config-next": "16.4.3",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

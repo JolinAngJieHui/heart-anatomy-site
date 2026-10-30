@@ -1,0 +1,158 @@
+{
+  "kind": "synthetic-test-only",
+  "documents": [
+    {
+      "id": "synthetic-routing-right-coronary-proximal",
+      "structureIds": [
+        "right-coronary-proximal"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Right Coronary Artery (Proximal) supply. Fictional token violet1. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-right-coronary-middle",
+      "structureIds": [
+        "right-coronary-middle"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Right Coronary Artery (Middle) supply. Fictional token violet2. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-right-coronary-distal",
+      "structureIds": [
+        "right-coronary-distal"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Right Coronary Artery (Distal) supply. Fictional token violet3. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-posterior-descending-artery",
+      "structureIds": [
+        "posterior-descending-artery"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Posterior Descending Artery supply coronary dominance. Fictional token violet4. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-left-coronary-artery",
+      "structureIds": [
+        "left-coronary-artery"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Left Coronary Artery supply. Fictional token violet5. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-left-anterior-descending-proximal",
+      "structureIds": [
+        "left-anterior-descending-proximal"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Left Anterior Descending (Proximal) supply. Fictional token violet6. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-left-anterior-descending-mid",
+      "structureIds": [
+        "left-anterior-descending-mid"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Left Anterior Descending (Mid) supply. Fictional token violet7. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-left-anterior-descending-apical",
+      "structureIds": [
+        "left-anterior-descending-apical"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Left Anterior Descending (Apical) supply. Fictional token violet8. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-left-diagonal-d1",
+      "structureIds": [
+        "left-diagonal-d1"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Left Diagonal D1. Fictional token violet9. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-left-diagonal-d2",
+      "structureIds": [
+        "left-diagonal-d2"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Left Diagonal D2. Fictional token violet10. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-left-circumflex-artery",
+      "structureIds": [
+        "left-circumflex-artery"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Left Circumflex Artery. Fictional token violet11. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-right-marginal-artery",
+      "structureIds": [
+        "right-marginal-artery"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Right Marginal Artery. Fictional token violet12. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-right-conus-artery",
+      "structureIds": [
+        "right-conus-artery"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Right Conus Artery. Fictional token violet13. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-left-marginal-artery",
+      "structureIds": [
+        "left-marginal-artery"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Left Marginal Artery. Fictional token violet14. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-ascending-aorta",
+      "structureIds": [
+        "ascending-aorta"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Ascending Aorta. Fictional token violet15. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-superior-vena-cava",
+      "structureIds": [
+        "superior-vena-cava"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Superior Vena Cava. Fictional token violet16. No anatomical facts or medical answers are present."
+    },
+    {
+      "id": "synthetic-routing-coronary-sinus",
+      "structureIds": [
+        "coronary-sinus"
+      ],
+      "version": "1",
+      "materialKind": "synthetic",
+      "text": "SYNTHETIC TEST ONLY. Routing labels: Coronary Sinus supply drain. Fictional token violet17. No anatomical facts or medical answers are present."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "kind": "synthetic-test-only",
+  "documents": [
+    {
+      "id": "synthetic-blue-conduit",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "right-coronary-proximal"
+      ],
+      "text": "SYNTHETIC TEST ONLY. A fictional blue pump sends fictional blue fluid through a blue conduit. These invented objects are not anatomy."
+    },
+    {
+      "id": "synthetic-green-return",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "coronary-sinus"
+      ],
+      "text": "SYNTHETIC TEST ONLY. A fictional green return collects fictional green fluid from an imaginary reservoir. These invented objects are not anatomy."
+    },
+    {
+      "id": "synthetic-context-right-coronary-middle",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "right-coronary-middle"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with right-coronary-middle solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-right-coronary-distal",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "right-coronary-distal"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with right-coronary-distal solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-posterior-descending-artery",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "posterior-descending-artery"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with posterior-descending-artery solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-left-coronary-artery",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "left-coronary-artery"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with left-coronary-artery solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-left-anterior-descending-proximal",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "left-anterior-descending-proximal"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with left-anterior-descending-proximal solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-left-anterior-descending-mid",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "left-anterior-descending-mid"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with left-anterior-descending-mid solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-left-anterior-descending-apical",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "left-anterior-descending-apical"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with left-anterior-descending-apical solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-left-diagonal-d1",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "left-diagonal-d1"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with left-diagonal-d1 solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-left-diagonal-d2",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "left-diagonal-d2"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with left-diagonal-d2 solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-left-circumflex-artery",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "left-circumflex-artery"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with left-circumflex-artery solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-right-marginal-artery",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "right-marginal-artery"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with right-marginal-artery solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-right-conus-artery",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "right-conus-artery"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with right-conus-artery solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-left-marginal-artery",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "left-marginal-artery"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with left-marginal-artery solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-ascending-aorta",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "ascending-aorta"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with ascending-aorta solely to test study context. It contains no anatomical knowledge or clinical advice."
+    },
+    {
+      "id": "synthetic-context-superior-vena-cava",
+      "materialKind": "synthetic",
+      "version": "1",
+      "structureIds": [
+        "superior-vena-cava"
+      ],
+      "text": "SYNTHETIC TEST ONLY. An invented amber pump moves fictional amber fluid through an imaginary conduit. This fixture is tagged with superior-vena-cava solely to test study context. It contains no anatomical knowledge or clinical advice."
+    }
+  ]
+}

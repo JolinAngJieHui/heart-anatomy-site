@@ -1,0 +1,4059 @@
+[
+  {
+    "id": "pmc12060931",
+    "title": "Comprehensive Review of Coronary Artery Anatomy Relevant to Cardiac Surgery",
+    "institution": "Current Cardiology Reviews 21(2): E1573403X321942",
+    "publicationYear": 2025,
+    "edition": null,
+    "yearOrEdition": "Current Cardiology Reviews 21(2): E1573403X321942; online 2024-10-31; issue 2025.",
+    "section": "3.1 Applied Anatomy of the Right Coronary Artery; 1 Introduction: coronary dominance; 4 Applied Anatomy of the Left Main Coronary Artery; 4.3 Applied Anatomy of the Left Anterior Descending Artery; 4.3: diagonal branches; 5 Applied Anatomy of the Circumflex Artery; 5.1 Obtuse Marginal Branches; 3.1: RCA branches (locator to confirm); 1 Introduction: sinuses of Valsalva",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-circumflex-artery",
+      "right-marginal-artery",
+      "right-conus-artery",
+      "left-marginal-artery",
+      "ascending-aorta"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "anatomical-variants"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060931/",
+    "documentPath": "pending_review/pmc12060931.md",
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Emeka B Kesieme",
+        "Benjamin Omoregbee",
+        "Dumbor L Ngaage",
+        "Mark HD Danton"
+      ],
+      "publicationDetails": "Current Cardiology Reviews 21(2): E1573403X321942; online 2024-10-31; issue 2025.",
+      "doi": "10.2174/011573403X321942241023112517",
+      "updatedOn": null,
+      "scope": "broad-anatomy",
+      "access": "search-index-only",
+      "metadataEvidenceUrls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060931/"
+      ],
+      "verificationNotes": "Metadata/content verified using original page or indexed primary record; direct PMC requests often returned browser challenges. No claim of complete full-text review.",
+      "reuse": {
+        "license": "CC BY 4.0",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060931/",
+        "disposition": "attributed-summary-ready",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "Explicit article licence verified in indexed PMC record. Short original attributed summary staged; no full text, figures or third-party images copied. External indexing awaits review."
+      },
+      "sectionMappings": [
+        {
+          "section": "3.1 Applied Anatomy of the Right Coronary Artery",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal"
+          ],
+          "relationship": "parent-vessel",
+          "anatomy": "normal",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Parent-vessel coverage only; does not establish this website's segment boundaries."
+        },
+        {
+          "section": "1 Introduction: coronary dominance",
+          "structureIds": [
+            "posterior-descending-artery"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal-variant",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Candidate section mapping; academic review still required."
+        },
+        {
+          "section": "4 Applied Anatomy of the Left Main Coronary Artery",
+          "structureIds": [
+            "left-coronary-artery"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Candidate section mapping; academic review still required."
+        },
+        {
+          "section": "4.3 Applied Anatomy of the Left Anterior Descending Artery",
+          "structureIds": [
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical"
+          ],
+          "relationship": "parent-vessel",
+          "anatomy": "normal",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Parent-vessel coverage only; does not establish this website's segment boundaries."
+        },
+        {
+          "section": "4.3: diagonal branches",
+          "structureIds": [
+            "left-diagonal-d1",
+            "left-diagonal-d2"
+          ],
+          "relationship": "parent-vessel",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Diagonal family coverage; D1/D2 ordering needs section-level review."
+        },
+        {
+          "section": "5 Applied Anatomy of the Circumflex Artery; 5.1 Obtuse Marginal Branches",
+          "structureIds": [
+            "left-circumflex-artery",
+            "left-marginal-artery"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Candidate section mapping; academic review still required."
+        },
+        {
+          "section": "3.1: RCA branches (locator to confirm)",
+          "structureIds": [
+            "right-marginal-artery",
+            "right-conus-artery"
+          ],
+          "relationship": "parent-vessel",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": false,
+          "notes": "Confirm branch-specific passages before considering direct coverage."
+        },
+        {
+          "section": "1 Introduction: sinuses of Valsalva",
+          "structureIds": [
+            "ascending-aorta"
+          ],
+          "relationship": "context",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "Aortic-root context only; not comprehensive ascending-aorta coverage."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pmc4919754",
+    "title": "Coronary artery anomalies overview: The normal and the abnormal",
+    "institution": "World Journal of Radiology 8(6):537–555",
+    "publicationYear": 2016,
+    "edition": null,
+    "yearOrEdition": "World Journal of Radiology 8(6):537–555; 2016-06-28.",
+    "section": "Normal coronary anatomy; Figure 3A: SCCT coronary segments; Coronary artery anomalies; Normal coronary anatomy: origin and sinus-node artery relationships",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-circumflex-artery",
+      "right-marginal-artery",
+      "right-conus-artery",
+      "left-marginal-artery",
+      "ascending-aorta",
+      "superior-vena-cava"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "anatomical-variants"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+    "documentPath": null,
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Adriana DM Villa",
+        "Eva Sammut",
+        "Arjun Nair",
+        "Ronak Rajani",
+        "Rodolfo Bonamini",
+        "Amedeo Chiribiri"
+      ],
+      "publicationDetails": "World Journal of Radiology 8(6):537–555; 2016-06-28.",
+      "doi": "10.4329/wjr.v8.i6.537",
+      "updatedOn": null,
+      "scope": "broad-anatomy",
+      "access": "search-index-only",
+      "metadataEvidenceUrls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/"
+      ],
+      "verificationNotes": "Metadata/content verified using original page or indexed primary record; direct PMC requests often returned browser challenges. No claim of complete full-text review.",
+      "reuse": {
+        "license": "CC BY-NC 4.0",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+        "disposition": "conditional-noncommercial",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "Noncommercial condition requires project/use assessment before copying or external indexing; no text staged."
+      },
+      "sectionMappings": [
+        {
+          "section": "Normal coronary anatomy; Figure 3A: SCCT coronary segments",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "posterior-descending-artery",
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-diagonal-d1",
+            "left-diagonal-d2",
+            "left-circumflex-artery",
+            "right-marginal-artery",
+            "right-conus-artery",
+            "left-marginal-artery"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Direct named branch/segment coverage in normal anatomy; source labels are not website annotation numbers. Apical LAD needs distal/apical terminology review."
+        },
+        {
+          "section": "Coronary artery anomalies",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "posterior-descending-artery",
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-diagonal-d1",
+            "left-diagonal-d2",
+            "left-circumflex-artery",
+            "right-marginal-artery",
+            "right-conus-artery",
+            "left-marginal-artery"
+          ],
+          "relationship": "variant",
+          "anatomy": "rare-anomaly",
+          "levels": [
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Anomaly sections are not normal anatomy; map specific anomalies narrowly during extraction."
+        },
+        {
+          "section": "Normal coronary anatomy: origin and sinus-node artery relationships",
+          "structureIds": [
+            "ascending-aorta",
+            "superior-vena-cava"
+          ],
+          "relationship": "context",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "Incidental aortic-root/SVC relationships only, not dedicated great-vessel teaching."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pmc4111838",
+    "title": "Computerized analysis of coronary artery disease: Performance evaluation of segmentation and tracking of coronary arteries in CT angiograms",
+    "institution": "Medical Physics 41(8):081912",
+    "publicationYear": 2014,
+    "edition": null,
+    "yearOrEdition": "Medical Physics 41(8):081912; 2014-07-23; August issue.",
+    "section": "Methods/results: coronary CT segmentation and tracking",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-circumflex-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "diagnostics"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4111838/",
+    "documentPath": null,
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Chuan Zhou",
+        "Heang-Ping Chan",
+        "Aamer Chughtai",
+        "Jean Kuriakose",
+        "Prachi Agarwal",
+        "Ella A Kazerooni",
+        "Lubomir M Hadjiiski",
+        "Smita Patel",
+        "Jun Wei"
+      ],
+      "publicationDetails": "Medical Physics 41(8):081912; 2014-07-23; August issue.",
+      "doi": "10.1118/1.4890294",
+      "updatedOn": null,
+      "scope": "imaging-methods",
+      "access": "search-index-only",
+      "metadataEvidenceUrls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4111838/"
+      ],
+      "verificationNotes": "Metadata/content verified using original page or indexed primary record; direct PMC requests often returned browser challenges. No claim of complete full-text review.",
+      "reuse": {
+        "license": "Copyright American Association of Physicists in Medicine; no reuse grant verified",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4111838/",
+        "disposition": "permission-required",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "No text staged. Verify exact licence, third-party exclusions and external processing permissions before approval/indexing."
+      },
+      "sectionMappings": [
+        {
+          "section": "Methods/results: coronary CT segmentation and tracking",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-circumflex-artery"
+          ],
+          "relationship": "context",
+          "anatomy": "methods",
+          "levels": [
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Algorithm evaluation, not a normal-anatomy atlas or a validation of the website's 17 labels."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc-coronary-arteries",
+    "title": "Coronary Arteries",
+    "institution": "Cleveland Clinic",
+    "publicationYear": 2025,
+    "edition": null,
+    "yearOrEdition": "Updated 2025-06-02; Cleveland Clinic Health Library.",
+    "section": "Overview; Function; Anatomy; Anatomy: aortic root",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-circumflex-artery",
+      "ascending-aorta"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ],
+    "location": "https://my.clevelandclinic.org/health/body/22973-coronary-arteries",
+    "documentPath": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Cleveland Clinic (organisation; individual author not listed)"
+      ],
+      "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2025-06-02.",
+      "doi": null,
+      "updatedOn": "2025-06-02",
+      "scope": "broad-anatomy",
+      "access": "readable",
+      "metadataEvidenceUrls": [
+        "https://my.clevelandclinic.org/health/body/22973-coronary-arteries"
+      ],
+      "verificationNotes": "Title, review date and section headings verified on original page.",
+      "reuse": {
+        "license": "Cleveland Clinic copyright; written permission required",
+        "evidenceUrl": "https://my.clevelandclinic.org/about/website/reprints-licensing",
+        "disposition": "permission-required",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "Reprint policy restricts storage, alteration and republication; retain bibliographic URL only, no source text copied. Public citation flag records intended citation availability, not a reuse grant."
+      },
+      "sectionMappings": [
+        {
+          "section": "Overview; Function; Anatomy",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-circumflex-artery"
+          ],
+          "relationship": "parent-vessel",
+          "anatomy": "normal",
+          "levels": [
+            "basic",
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "Parent-vessel coverage only; does not establish this website's segment boundaries."
+        },
+        {
+          "section": "Anatomy: aortic root",
+          "structureIds": [
+            "ascending-aorta"
+          ],
+          "relationship": "context",
+          "anatomy": "normal",
+          "levels": [
+            "basic"
+          ],
+          "verified": true,
+          "notes": "Root relationship only."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc-lad",
+    "title": "Left Anterior Descending Artery",
+    "institution": "Cleveland Clinic",
+    "publicationYear": 2022,
+    "edition": null,
+    "yearOrEdition": "Updated 2022-08-04; Cleveland Clinic Health Library.",
+    "section": "Overview; Function; Anatomy: location; Anatomy: branches; Anatomy: left-dominant circulation",
+    "structureIds": [
+      "posterior-descending-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "anatomical-variants"
+    ],
+    "location": "https://my.clevelandclinic.org/health/body/23985-left-anterior-descending-artery",
+    "documentPath": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Cleveland Clinic (organisation; individual author not listed)"
+      ],
+      "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-08-04.",
+      "doi": null,
+      "updatedOn": "2022-08-04",
+      "scope": "structure-specific",
+      "access": "readable",
+      "metadataEvidenceUrls": [
+        "https://my.clevelandclinic.org/health/body/23985-left-anterior-descending-artery"
+      ],
+      "verificationNotes": "Title, review date and section headings verified on original page.",
+      "reuse": {
+        "license": "Cleveland Clinic copyright; written permission required",
+        "evidenceUrl": "https://my.clevelandclinic.org/about/website/reprints-licensing",
+        "disposition": "permission-required",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "Reprint policy restricts storage, alteration and republication; retain bibliographic URL only, no source text copied. Public citation flag records intended citation availability, not a reuse grant."
+      },
+      "sectionMappings": [
+        {
+          "section": "Overview; Function; Anatomy: location",
+          "structureIds": [
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical"
+          ],
+          "relationship": "parent-vessel",
+          "anatomy": "normal",
+          "levels": [
+            "basic",
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "Parent-vessel coverage only; does not establish this website's segment boundaries."
+        },
+        {
+          "section": "Anatomy: branches",
+          "structureIds": [
+            "left-diagonal-d1",
+            "left-diagonal-d2"
+          ],
+          "relationship": "parent-vessel",
+          "anatomy": "normal",
+          "levels": [
+            "basic",
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "Diagonal family, not separate D1/D2 boundaries."
+        },
+        {
+          "section": "Anatomy: left-dominant circulation",
+          "structureIds": [
+            "posterior-descending-artery"
+          ],
+          "relationship": "context",
+          "anatomy": "normal-variant",
+          "levels": [
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "REVIEW CONFLICT: page includes LAD in descriptions of left dominance; cross-check with accepted PDA-origin definitions in specialist sources. Do not extract this claim as standard teaching."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc-circumflex",
+    "title": "Circumflex Artery",
+    "institution": "Cleveland Clinic",
+    "publicationYear": 2022,
+    "edition": null,
+    "yearOrEdition": "Updated 2022-07-28; Cleveland Clinic Health Library.",
+    "section": "Overview; Function; Anatomy: location and branches; Anatomy: coronary dominance",
+    "structureIds": [
+      "posterior-descending-artery",
+      "left-circumflex-artery",
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "anatomical-variants"
+    ],
+    "location": "https://my.clevelandclinic.org/health/body/23926-circumflex-artery",
+    "documentPath": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Cleveland Clinic (organisation; individual author not listed)"
+      ],
+      "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-07-28.",
+      "doi": null,
+      "updatedOn": "2022-07-28",
+      "scope": "structure-specific",
+      "access": "readable",
+      "metadataEvidenceUrls": [
+        "https://my.clevelandclinic.org/health/body/23926-circumflex-artery"
+      ],
+      "verificationNotes": "Title, review date and section headings verified on original page.",
+      "reuse": {
+        "license": "Cleveland Clinic copyright; written permission required",
+        "evidenceUrl": "https://my.clevelandclinic.org/about/website/reprints-licensing",
+        "disposition": "permission-required",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "Reprint policy restricts storage, alteration and republication; retain bibliographic URL only, no source text copied. Public citation flag records intended citation availability, not a reuse grant."
+      },
+      "sectionMappings": [
+        {
+          "section": "Overview; Function; Anatomy: location and branches",
+          "structureIds": [
+            "left-circumflex-artery",
+            "left-marginal-artery"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "basic",
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "Candidate section mapping; academic review still required."
+        },
+        {
+          "section": "Anatomy: coronary dominance",
+          "structureIds": [
+            "posterior-descending-artery"
+          ],
+          "relationship": "context",
+          "anatomy": "normal-variant",
+          "levels": [
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "Reviewer must reconcile dominance wording against specialist anatomy references."
+        }
+      ]
+    }
+  },
+  {
+    "id": "nbk482413",
+    "title": "Physiology, Coronary Circulation",
+    "institution": "StatPearls Publishing",
+    "publicationYear": 2023,
+    "edition": null,
+    "yearOrEdition": "StatPearls [Internet], StatPearls Publishing; chapter updated 2023-05-01; current container 2026 Jan.",
+    "section": "Introduction/excerpt: myocardial oxygen demand and coronary circulation",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-circumflex-artery",
+      "right-marginal-artery",
+      "right-conus-artery",
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://www.ncbi.nlm.nih.gov/books/NBK482413/",
+    "documentPath": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Saad Rehman",
+        "Amir Khan",
+        "Afzal Rehman"
+      ],
+      "publicationDetails": "StatPearls [Internet], StatPearls Publishing; chapter updated 2023-05-01; current container 2026 Jan.",
+      "doi": null,
+      "updatedOn": "2023-05-01",
+      "scope": "clinical-context",
+      "access": "abstract-only",
+      "metadataEvidenceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/29494020/"
+      ],
+      "verificationNotes": "Metadata/excerpt verified through PubMed; supplied full-text endpoint blocked.",
+      "reuse": {
+        "license": "StatPearls chapter licence not directly verified",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/about/copyright/",
+        "disposition": "unverified",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "No text staged. Verify exact licence, third-party exclusions and external processing permissions before approval/indexing."
+      },
+      "sectionMappings": [
+        {
+          "section": "Introduction/excerpt: myocardial oxygen demand and coronary circulation",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "posterior-descending-artery",
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-diagonal-d1",
+            "left-diagonal-d2",
+            "left-circumflex-artery",
+            "right-marginal-artery",
+            "right-conus-artery",
+            "left-marginal-artery"
+          ],
+          "relationship": "context",
+          "anatomy": "clinical",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Broad physiological context; full chapter sections/rights need verification."
+        }
+      ]
+    }
+  },
+  {
+    "id": "nbk470522",
+    "title": "Anatomy, Thorax, Heart Arteries",
+    "institution": "StatPearls Publishing",
+    "publicationYear": 2023,
+    "edition": null,
+    "yearOrEdition": "StatPearls [Internet], StatPearls Publishing; updated 2023-07-24; current container 2026 Jan.",
+    "section": "Structure and Function (full section locator to verify)",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-circumflex-artery",
+      "right-marginal-artery",
+      "right-conus-artery",
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ],
+    "location": "https://www.ncbi.nlm.nih.gov/books/NBK470522/",
+    "documentPath": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Raheel Chaudhry",
+        "Sajedur Rahman",
+        "Mark A Law"
+      ],
+      "publicationDetails": "StatPearls [Internet], StatPearls Publishing; updated 2023-07-24; current container 2026 Jan.",
+      "doi": null,
+      "updatedOn": "2023-07-24",
+      "scope": "broad-anatomy",
+      "access": "search-index-only",
+      "metadataEvidenceUrls": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK470522/"
+      ],
+      "verificationNotes": "Metadata/content verified using original page or indexed primary record; direct PMC requests often returned browser challenges. No claim of complete full-text review.",
+      "reuse": {
+        "license": "CC BY-NC-ND 4.0",
+        "evidenceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470522/?report=printable",
+        "disposition": "conditional-noncommercial",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "Noncommercial condition requires project/use assessment before copying or external indexing; no text staged. No-derivatives restriction additionally requires assessment of adaptation/chunking."
+      },
+      "sectionMappings": [
+        {
+          "section": "Structure and Function (full section locator to verify)",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "posterior-descending-artery",
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-diagonal-d1",
+            "left-diagonal-d2",
+            "left-circumflex-artery",
+            "right-marginal-artery",
+            "right-conus-artery",
+            "left-marginal-artery"
+          ],
+          "relationship": "parent-vessel",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": false,
+          "notes": "Bibliography and licence verified in indexed record; detailed per-branch passages need full section verification. No adaptation/indexing cleared under ND restriction."
+        }
+      ]
+    }
+  },
+  {
+    "id": "sciencedirect-rca-topic",
+    "title": "Right Coronary Artery — ScienceDirect Topics (title inferred from URL)",
+    "institution": "Elsevier / individual excerpt authors unverified",
+    "publicationYear": null,
+    "edition": null,
+    "yearOrEdition": "Dynamic topic aggregation; dates, editions and excerpt-level authors unverified.",
+    "section": "Topic overview (not accessed)",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy"
+    ],
+    "location": "https://www.sciencedirect.com/topics/medicine-and-dentistry/right-coronary-artery",
+    "documentPath": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Elsevier / individual excerpt authors unverified"
+      ],
+      "publicationDetails": "Dynamic topic aggregation; dates, editions and excerpt-level authors unverified.",
+      "doi": null,
+      "updatedOn": null,
+      "scope": "structure-specific",
+      "access": "blocked",
+      "metadataEvidenceUrls": [
+        "https://www.sciencedirect.com/topics/medicine-and-dentistry/right-coronary-artery"
+      ],
+      "verificationNotes": "URL registered; page inaccessible. Title and mappings provisional.",
+      "reuse": {
+        "license": "No excerpt-level reuse permissions verified",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/about/copyright/",
+        "disposition": "unverified",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "No text staged. Verify exact licence, third-party exclusions and external processing permissions before approval/indexing."
+      },
+      "sectionMappings": [
+        {
+          "section": "Topic overview (not accessed)",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal"
+          ],
+          "relationship": "parent-vessel",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": false,
+          "notes": "Proposed URL-based mapping only. Must register underlying books/articles individually before using excerpts."
+        }
+      ]
+    }
+  },
+  {
+    "id": "radiologyassistant-coronary",
+    "title": "Coronary anatomy and anomalies",
+    "institution": "Robin Smithuis; Tineke Willems",
+    "publicationYear": 2008,
+    "edition": null,
+    "yearOrEdition": "The Radiology Assistant; Rijnland Hospital Leiderdorp and University Medical Centre Groningen; published 2008-10-14.",
+    "section": "Right Coronary Artery (RCA); Left Coronary Artery (LCA); Left Anterior Descending (LAD); Circumflex (Cx); Coronary Anomalies",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-circumflex-artery",
+      "right-marginal-artery",
+      "right-conus-artery",
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "anatomical-variants"
+    ],
+    "location": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+    "documentPath": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Robin Smithuis",
+        "Tineke Willems"
+      ],
+      "publicationDetails": "The Radiology Assistant; Rijnland Hospital Leiderdorp and University Medical Centre Groningen; published 2008-10-14.",
+      "doi": null,
+      "updatedOn": "2008-10-14",
+      "scope": "broad-anatomy",
+      "access": "readable",
+      "metadataEvidenceUrls": [
+        "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies"
+      ],
+      "verificationNotes": "Metadata/content verified using original page or indexed primary record; direct PMC requests often returned browser challenges. No claim of complete full-text review.",
+      "reuse": {
+        "license": "No explicit reuse licence found on article/disclaimer",
+        "evidenceUrl": "https://radiologyassistant.nl/disclaimer",
+        "disposition": "unverified",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "No text staged. Verify exact licence, third-party exclusions and external processing permissions before approval/indexing."
+      },
+      "sectionMappings": [
+        {
+          "section": "Right Coronary Artery (RCA)",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "posterior-descending-artery",
+            "right-marginal-artery",
+            "right-conus-artery"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "RCA segment subdivision remains parent-level; branch names and courses are directly discussed."
+        },
+        {
+          "section": "Left Coronary Artery (LCA)",
+          "structureIds": [
+            "left-coronary-artery"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Candidate section mapping; academic review still required."
+        },
+        {
+          "section": "Left Anterior Descending (LAD)",
+          "structureIds": [
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-diagonal-d1",
+            "left-diagonal-d2"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "D1/D2 and proximal-mid landmark discussed; apical versus distal mapping needs review."
+        },
+        {
+          "section": "Circumflex (Cx)",
+          "structureIds": [
+            "left-circumflex-artery",
+            "left-marginal-artery"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Candidate section mapping; academic review still required."
+        },
+        {
+          "section": "Coronary Anomalies",
+          "structureIds": [
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical"
+          ],
+          "relationship": "variant",
+          "anatomy": "rare-anomaly",
+          "levels": [
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Not normal anatomy: separate anomalous origins, bridging and fistulas from routine teaching."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pubmed2022049",
+    "title": "Right coronary artery disease. Pathophysiology, clinical relevance, and methods for recognition.",
+    "institution": "O Parodi; D Neglia; C Marcassa; P Marzullo; G Sambuceti",
+    "publicationYear": 1991,
+    "edition": null,
+    "yearOrEdition": "Circulation 83(5 Suppl):III54–61; May 1991.",
+    "section": "Abstract: RCA ischemia and ventricular function",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://pubmed.ncbi.nlm.nih.gov/2022049/",
+    "documentPath": null,
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "O Parodi",
+        "D Neglia",
+        "C Marcassa",
+        "P Marzullo",
+        "G Sambuceti"
+      ],
+      "publicationDetails": "Circulation 83(5 Suppl):III54–61; May 1991.",
+      "doi": null,
+      "updatedOn": null,
+      "scope": "clinical-context",
+      "access": "abstract-only",
+      "metadataEvidenceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/2022049/"
+      ],
+      "verificationNotes": "Metadata/excerpt verified through PubMed; supplied full-text endpoint blocked.",
+      "reuse": {
+        "license": "Abstract/full-text reuse not verified",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/about/copyright/",
+        "disposition": "permission-required",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "No text staged. Verify exact licence, third-party exclusions and external processing permissions before approval/indexing."
+      },
+      "sectionMappings": [
+        {
+          "section": "Abstract: RCA ischemia and ventricular function",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal"
+          ],
+          "relationship": "context",
+          "anatomy": "clinical",
+          "levels": [
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Historical clinical study; not current diagnostic guidance or segment anatomy."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc-cad",
+    "title": "Coronary Artery Disease",
+    "institution": "Cleveland Clinic",
+    "publicationYear": 2023,
+    "edition": null,
+    "yearOrEdition": "Updated 2023-10-13; Cleveland Clinic Health Library.",
+    "section": "Overview; Symptoms and Causes; Diagnosis and Tests; Management and Treatment",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-circumflex-artery",
+      "right-marginal-artery",
+      "right-conus-artery",
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://my.clevelandclinic.org/health/diseases/16898-coronary-artery-disease",
+    "documentPath": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Cleveland Clinic (organisation; individual author not listed)"
+      ],
+      "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2023-10-13.",
+      "doi": null,
+      "updatedOn": "2023-10-13",
+      "scope": "clinical-context",
+      "access": "readable",
+      "metadataEvidenceUrls": [
+        "https://my.clevelandclinic.org/health/diseases/16898-coronary-artery-disease"
+      ],
+      "verificationNotes": "Title, review date and section headings verified on original page.",
+      "reuse": {
+        "license": "Cleveland Clinic copyright; written permission required",
+        "evidenceUrl": "https://my.clevelandclinic.org/about/website/reprints-licensing",
+        "disposition": "permission-required",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "Reprint policy restricts storage, alteration and republication; retain bibliographic URL only, no source text copied. Public citation flag records intended citation availability, not a reuse grant."
+      },
+      "sectionMappings": [
+        {
+          "section": "Overview; Symptoms and Causes; Diagnosis and Tests; Management and Treatment",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "posterior-descending-artery",
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-diagonal-d1",
+            "left-diagonal-d2",
+            "left-circumflex-artery",
+            "right-marginal-artery",
+            "right-conus-artery",
+            "left-marginal-artery"
+          ],
+          "relationship": "context",
+          "anatomy": "clinical",
+          "levels": [
+            "basic",
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "Disease context only; not proof of individual branch/segment anatomy."
+        }
+      ]
+    }
+  },
+  {
+    "id": "aha-coronary-anomalies-2021",
+    "title": "Coronary Artery Anomalies",
+    "institution": "Francesco Gentile; Vincenzo Castiglione; Raffaele De Caterina",
+    "publicationYear": 2021,
+    "edition": null,
+    "yearOrEdition": "Circulation 144(12):983–996; 2021-09-21; online 2021-09-20.",
+    "section": "Abstract: abnormal epicardial origin/course",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-circumflex-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "clinical-correlations",
+      "anatomical-variants",
+      "diagnostics"
+    ],
+    "location": "https://www.ahajournals.org/doi/10.1161/circulationaha.121.055347",
+    "documentPath": null,
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Francesco Gentile",
+        "Vincenzo Castiglione",
+        "Raffaele De Caterina"
+      ],
+      "publicationDetails": "Circulation 144(12):983–996; 2021-09-21; online 2021-09-20.",
+      "doi": "10.1161/CIRCULATIONAHA.121.055347",
+      "updatedOn": null,
+      "scope": "clinical-context",
+      "access": "abstract-only",
+      "metadataEvidenceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/34543069/"
+      ],
+      "verificationNotes": "Metadata/excerpt verified through PubMed; supplied full-text endpoint blocked.",
+      "reuse": {
+        "license": "Copyright American Heart Association; no external indexing grant verified",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/about/copyright/",
+        "disposition": "permission-required",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "No text staged. Verify exact licence, third-party exclusions and external processing permissions before approval/indexing."
+      },
+      "sectionMappings": [
+        {
+          "section": "Abstract: abnormal epicardial origin/course",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-circumflex-artery"
+          ],
+          "relationship": "variant",
+          "anatomy": "rare-anomaly",
+          "levels": [
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Not normal anatomy. Full text blocked; extract specific anomaly sections only after access/rights review."
+        }
+      ]
+    }
+  },
+  {
+    "id": "mayo-cad",
+    "title": "Coronary artery disease — Symptoms and causes",
+    "institution": "Mayo Clinic Staff",
+    "publicationYear": 2024,
+    "edition": null,
+    "yearOrEdition": "Mayo Clinic; updated 2024-06-14.",
+    "section": "Overview; Symptoms; Causes; Risk factors; Complications",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-circumflex-artery",
+      "right-marginal-artery",
+      "right-conus-artery",
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/symptoms-causes/syc-20350613",
+    "documentPath": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Mayo Clinic Staff"
+      ],
+      "publicationDetails": "Mayo Clinic; updated 2024-06-14.",
+      "doi": null,
+      "updatedOn": "2024-06-14",
+      "scope": "clinical-context",
+      "access": "readable",
+      "metadataEvidenceUrls": [
+        "https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/symptoms-causes/syc-20350613"
+      ],
+      "verificationNotes": "Metadata/content verified using original page or indexed primary record; direct PMC requests often returned browser challenges. No claim of complete full-text review.",
+      "reuse": {
+        "license": "Copyright Mayo Foundation; permission required beyond personal noncommercial single-copy use",
+        "evidenceUrl": "https://www.mayoclinic.org/about-this-site/terms-conditions-use-policy",
+        "disposition": "permission-required",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "No text staged. Verify exact licence, third-party exclusions and external processing permissions before approval/indexing."
+      },
+      "sectionMappings": [
+        {
+          "section": "Overview; Symptoms; Causes; Risk factors; Complications",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "posterior-descending-artery",
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-diagonal-d1",
+            "left-diagonal-d2",
+            "left-circumflex-artery",
+            "right-marginal-artery",
+            "right-conus-artery",
+            "left-marginal-artery"
+          ],
+          "relationship": "context",
+          "anatomy": "clinical",
+          "levels": [
+            "basic",
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "General CAD context, not individual anatomy coverage."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pmc10973734",
+    "title": "2024 Consensus Statement on Coronary Stenosis and Plaque Evaluation in CT Angiography From the Asian Society of Cardiovascular Imaging-Practical Tutorial (ASCI-PT)",
+    "institution": "Korean Journal of Radiology 25(4):331–342",
+    "publicationYear": 2024,
+    "edition": null,
+    "yearOrEdition": "Korean Journal of Radiology 25(4):331–342; 2024-03-20; April issue.",
+    "section": "Issue 1: Distal margin of LM; Issue 2: Proximal vs mid-LAD; Issue 3: Ramus intermedius vs OM1; Issues 4–8: plaque and stenosis measurement",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-circumflex-artery",
+      "right-marginal-artery",
+      "right-conus-artery",
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "clinical-correlations",
+      "anatomical-variants",
+      "diagnostics"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10973734/",
+    "documentPath": null,
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Cherry Kim",
+        "Chul Hwan Park",
+        "Bae Young Lee",
+        "Chan Ho Park",
+        "Eun-Ju Kang",
+        "Hyun Jung Koo",
+        "Kakuya Kitagawa",
+        "Min Jae Cha",
+        "Rungroj Krittayaphong",
+        "Sang Il Choi",
+        "Hwan Seok Yong",
+        "Sung Min Ko",
+        "Sung Mok Kim",
+        "Sung Ho Hwang",
+        "Nguyen Ngoc Trang",
+        "Whal Lee",
+        "Young Jin Kim",
+        "Jongmin Lee",
+        "Dong Hyun Yang"
+      ],
+      "publicationDetails": "Korean Journal of Radiology 25(4):331–342; 2024-03-20; April issue.",
+      "doi": "10.3348/kjr.2024.0112",
+      "updatedOn": null,
+      "scope": "clinical-context",
+      "access": "readable",
+      "metadataEvidenceUrls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10973734/"
+      ],
+      "verificationNotes": "Metadata/content verified using original page or indexed primary record; direct PMC requests often returned browser challenges. No claim of complete full-text review.",
+      "reuse": {
+        "license": "CC BY-NC 4.0",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10973734/",
+        "disposition": "conditional-noncommercial",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "Noncommercial condition requires project/use assessment before copying or external indexing; no text staged."
+      },
+      "sectionMappings": [
+        {
+          "section": "Issue 1: Distal margin of LM",
+          "structureIds": [
+            "left-coronary-artery"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Candidate section mapping; academic review still required."
+        },
+        {
+          "section": "Issue 2: Proximal vs mid-LAD",
+          "structureIds": [
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-diagonal-d1"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "SCCT definition includes first large septal or D1; reported agreement on scenario was moderate, not universal."
+        },
+        {
+          "section": "Issue 3: Ramus intermedius vs OM1",
+          "structureIds": [
+            "left-circumflex-artery",
+            "left-marginal-artery"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal-variant",
+          "levels": [
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Ramus intermedius is not one of this website's 17 structures."
+        },
+        {
+          "section": "Issues 4–8: plaque and stenosis measurement",
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "posterior-descending-artery",
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-diagonal-d1",
+            "left-diagonal-d2",
+            "left-circumflex-artery",
+            "right-marginal-artery",
+            "right-conus-artery",
+            "left-marginal-artery"
+          ],
+          "relationship": "context",
+          "anatomy": "clinical",
+          "levels": [
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "18-segment SCCT framework; does not define the website's 17 teaching labels."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pmc10292609",
+    "title": "New ECG Algorithm for the Prediction of Culprit Vessel in Acute Myocardial Infarction Involving Lateral Part of the Ventricle: Ilkay Classification",
+    "institution": "International Journal of General Medicine 16:2643–2651",
+    "publicationYear": 2023,
+    "edition": null,
+    "yearOrEdition": "International Journal of General Medicine 16:2643–2651; 2023-06-22.",
+    "section": "Methods; Results; Discussion: diagonal versus circumflex/OM culprit vessels",
+    "structureIds": [
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-circumflex-artery",
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "clinical-correlations",
+      "diagnostics"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10292609/",
+    "documentPath": null,
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Ersin Sarıçam",
+        "Mehmet Akif Erdol",
+        "Engin Bozkurt",
+        "Erdogan Ilkay",
+        "Ömer Faruk Cantekin"
+      ],
+      "publicationDetails": "International Journal of General Medicine 16:2643–2651; 2023-06-22.",
+      "doi": "10.2147/IJGM.S416376",
+      "updatedOn": null,
+      "scope": "clinical-context",
+      "access": "search-index-only",
+      "metadataEvidenceUrls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10292609/"
+      ],
+      "verificationNotes": "Metadata/content verified using original page or indexed primary record; direct PMC requests often returned browser challenges. No claim of complete full-text review.",
+      "reuse": {
+        "license": "CC BY-NC 3.0; Dove Medical Press additional terms",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10292609/",
+        "disposition": "conditional-noncommercial",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "Noncommercial condition requires project/use assessment before copying or external indexing; no text staged."
+      },
+      "sectionMappings": [
+        {
+          "section": "Methods; Results; Discussion: diagonal versus circumflex/OM culprit vessels",
+          "structureIds": [
+            "left-diagonal-d1",
+            "left-diagonal-d2",
+            "left-circumflex-artery",
+            "left-marginal-artery"
+          ],
+          "relationship": "context",
+          "anatomy": "clinical",
+          "levels": [
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Retrospective selected cohort; investigational ECG scheme, not a universal diagnostic rule or normal branch anatomy reference."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pmc10749686",
+    "title": "Anomalous Left Circumflex Artery Arising From the Right Coronary Artery: A Cadaveric Case Report and Review of the Literature",
+    "institution": "Cureus 15(11):e49380",
+    "publicationYear": 2023,
+    "edition": null,
+    "yearOrEdition": "Cureus 15(11):e49380; 2023-11-25.",
+    "section": "Case presentation; Discussion: anomalous LCx origin",
+    "structureIds": [
+      "right-coronary-proximal",
+      "left-coronary-artery",
+      "left-circumflex-artery",
+      "right-conus-artery",
+      "ascending-aorta"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10749686/",
+    "documentPath": null,
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Benjamin R Mann",
+        "Aaron W Beger"
+      ],
+      "publicationDetails": "Cureus 15(11):e49380; 2023-11-25.",
+      "doi": "10.7759/cureus.49380",
+      "updatedOn": null,
+      "scope": "variant-case",
+      "access": "search-index-only",
+      "metadataEvidenceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/38146550/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10749686/"
+      ],
+      "verificationNotes": "Metadata/content verified using original page or indexed primary record; direct PMC requests often returned browser challenges. No claim of complete full-text review.",
+      "reuse": {
+        "license": "CC BY 4.0 reported in article PDF; publisher/PMC licence verification pending",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10749686/",
+        "disposition": "unverified",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "No text staged. Verify exact licence, third-party exclusions and external processing permissions before approval/indexing."
+      },
+      "sectionMappings": [
+        {
+          "section": "Case presentation; Discussion: anomalous LCx origin",
+          "structureIds": [
+            "right-coronary-proximal",
+            "left-coronary-artery",
+            "left-circumflex-artery",
+            "right-conus-artery",
+            "ascending-aorta"
+          ],
+          "relationship": "variant",
+          "anatomy": "rare-anomaly",
+          "levels": [
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Rare anomaly, not normal anatomy. Case findings must not define routine origins or population prevalence."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pmc11123433",
+    "title": "Right and Left Coronary and Conus Arteries Originating from Three Separate Ostia in the Right Valsalva Sinus in a Japanese Cadaver: A Case Study with Literature Review",
+    "institution": "Medicina 60(5):730",
+    "publicationYear": 2024,
+    "edition": null,
+    "yearOrEdition": "Medicina 60(5):730; 2024-04-28.",
+    "section": "Case report; 4 Discussion: three right-sinus ostia and interarterial LCA",
+    "structureIds": [
+      "right-coronary-proximal",
+      "left-coronary-artery",
+      "right-conus-artery",
+      "ascending-aorta"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "coronary-anatomy",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11123433/",
+    "documentPath": null,
+    "sourceType": "journal",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Daisuke Kiyoshima",
+        "Osamu Tanaka",
+        "Hayato Terayama",
+        "Ning Qu",
+        "Kenta Nagahori",
+        "Yoko Ueda",
+        "Masahito Yamamoto",
+        "Kaori Suyama",
+        "Shogo Hayashi",
+        "Kou Sakabe"
+      ],
+      "publicationDetails": "Medicina 60(5):730; 2024-04-28.",
+      "doi": "10.3390/medicina60050730",
+      "updatedOn": null,
+      "scope": "variant-case",
+      "access": "search-index-only",
+      "metadataEvidenceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/38792913/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11123433/"
+      ],
+      "verificationNotes": "Metadata/content verified using original page or indexed primary record; direct PMC requests often returned browser challenges. No claim of complete full-text review.",
+      "reuse": {
+        "license": "CC BY reported in author-hosted PDF; publisher/PMC licence verification pending",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11123433/",
+        "disposition": "unverified",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "No text staged. Verify exact licence, third-party exclusions and external processing permissions before approval/indexing."
+      },
+      "sectionMappings": [
+        {
+          "section": "Case report; 4 Discussion: three right-sinus ostia and interarterial LCA",
+          "structureIds": [
+            "right-coronary-proximal",
+            "left-coronary-artery",
+            "right-conus-artery",
+            "ascending-aorta"
+          ],
+          "relationship": "variant",
+          "anatomy": "rare-anomaly",
+          "levels": [
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Rare anomaly, not normal anatomy. Case findings must not define routine origins or population prevalence. Separate conus origin alone is a normal variant; this combined interarterial LCA case is rare."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc-aorta",
+    "title": "Aorta",
+    "institution": "Cleveland Clinic",
+    "publicationYear": 2022,
+    "edition": null,
+    "yearOrEdition": "Updated 2022-02-24; Cleveland Clinic Health Library.",
+    "section": "Anatomy: parts of aorta; ascending aortic branches",
+    "structureIds": [
+      "ascending-aorta"
+    ],
+    "topics": [
+      "cardiovascular-anatomy"
+    ],
+    "location": "https://my.clevelandclinic.org/health/body/17058-aorta-anatomy",
+    "documentPath": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Cleveland Clinic (organisation; individual author not listed)"
+      ],
+      "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-02-24.",
+      "doi": null,
+      "updatedOn": "2022-02-24",
+      "scope": "structure-specific",
+      "access": "readable",
+      "metadataEvidenceUrls": [
+        "https://my.clevelandclinic.org/health/body/17058-aorta-anatomy"
+      ],
+      "verificationNotes": "Title, review date and section headings verified on original page.",
+      "reuse": {
+        "license": "Cleveland Clinic copyright; written permission required",
+        "evidenceUrl": "https://my.clevelandclinic.org/about/website/reprints-licensing",
+        "disposition": "permission-required",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "Reprint policy restricts storage, alteration and republication; retain bibliographic URL only, no source text copied. Public citation flag records intended citation availability, not a reuse grant."
+      },
+      "sectionMappings": [
+        {
+          "section": "Anatomy: parts of aorta; ascending aortic branches",
+          "structureIds": [
+            "ascending-aorta"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "basic",
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "Candidate section mapping; academic review still required."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc-great-vessels",
+    "title": "Great Vessels of the Heart",
+    "institution": "Cleveland Clinic",
+    "publicationYear": 2022,
+    "edition": null,
+    "yearOrEdition": "Updated 2022-10-11; Cleveland Clinic Health Library.",
+    "section": "Function; Anatomy: connections and flow direction",
+    "structureIds": [
+      "ascending-aorta",
+      "superior-vena-cava"
+    ],
+    "topics": [
+      "cardiovascular-anatomy"
+    ],
+    "location": "https://my.clevelandclinic.org/health/body/17057-your-heart--blood-vessels",
+    "documentPath": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Cleveland Clinic (organisation; individual author not listed)"
+      ],
+      "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-10-11.",
+      "doi": null,
+      "updatedOn": "2022-10-11",
+      "scope": "broad-anatomy",
+      "access": "readable",
+      "metadataEvidenceUrls": [
+        "https://my.clevelandclinic.org/health/body/17057-your-heart--blood-vessels"
+      ],
+      "verificationNotes": "Title, review date and section headings verified on original page.",
+      "reuse": {
+        "license": "Cleveland Clinic copyright; written permission required",
+        "evidenceUrl": "https://my.clevelandclinic.org/about/website/reprints-licensing",
+        "disposition": "permission-required",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "Reprint policy restricts storage, alteration and republication; retain bibliographic URL only, no source text copied. Public citation flag records intended citation availability, not a reuse grant."
+      },
+      "sectionMappings": [
+        {
+          "section": "Function; Anatomy: connections and flow direction",
+          "structureIds": [
+            "ascending-aorta",
+            "superior-vena-cava"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "basic",
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "Approximate diameter examples are not universal normal cutoffs. Coronary sinus is not covered as a great vessel."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc-vena-cava",
+    "title": "Vena Cava",
+    "institution": "Cleveland Clinic",
+    "publicationYear": 2022,
+    "edition": null,
+    "yearOrEdition": "Updated 2022-03-24; Cleveland Clinic Health Library.",
+    "section": "Overview; Function; Anatomy: superior vena cava",
+    "structureIds": [
+      "superior-vena-cava"
+    ],
+    "topics": [
+      "cardiovascular-anatomy"
+    ],
+    "location": "https://my.clevelandclinic.org/health/body/22619-vena-cava",
+    "documentPath": null,
+    "sourceType": "website",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Cleveland Clinic (organisation; individual author not listed)"
+      ],
+      "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-03-24.",
+      "doi": null,
+      "updatedOn": "2022-03-24",
+      "scope": "structure-specific",
+      "access": "readable",
+      "metadataEvidenceUrls": [
+        "https://my.clevelandclinic.org/health/body/22619-vena-cava"
+      ],
+      "verificationNotes": "Title, review date and section headings verified on original page.",
+      "reuse": {
+        "license": "Cleveland Clinic copyright; written permission required",
+        "evidenceUrl": "https://my.clevelandclinic.org/about/website/reprints-licensing",
+        "disposition": "permission-required",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "Reprint policy restricts storage, alteration and republication; retain bibliographic URL only, no source text copied. Public citation flag records intended citation availability, not a reuse grant."
+      },
+      "sectionMappings": [
+        {
+          "section": "Overview; Function; Anatomy: superior vena cava",
+          "structureIds": [
+            "superior-vena-cava"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "basic",
+            "intermediate"
+          ],
+          "verified": true,
+          "notes": "Candidate section mapping; academic review still required."
+        }
+      ]
+    }
+  },
+  {
+    "id": "nbk557566",
+    "title": "Anatomy, Thorax, Coronary Sinus",
+    "institution": "StatPearls Publishing",
+    "publicationYear": 2023,
+    "edition": null,
+    "yearOrEdition": "StatPearls [Internet], StatPearls Publishing; updated 2023-07-24; current container 2026 Jan.",
+    "section": "Introduction/excerpt: coronary venous drainage; CRT and retrograde cardioplegia",
+    "structureIds": [
+      "coronary-sinus"
+    ],
+    "topics": [
+      "cardiovascular-anatomy"
+    ],
+    "location": "https://www.ncbi.nlm.nih.gov/books/NBK557566/",
+    "documentPath": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Alexander Wilson",
+        "Beenish S Bhutta"
+      ],
+      "publicationDetails": "StatPearls [Internet], StatPearls Publishing; updated 2023-07-24; current container 2026 Jan.",
+      "doi": null,
+      "updatedOn": "2023-07-24",
+      "scope": "structure-specific",
+      "access": "abstract-only",
+      "metadataEvidenceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/32491498/"
+      ],
+      "verificationNotes": "Metadata/excerpt verified through PubMed; supplied full-text endpoint blocked.",
+      "reuse": {
+        "license": "Chapter-specific terms unverified; do not infer from other StatPearls chapters",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/about/copyright/",
+        "disposition": "unverified",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "No text staged. Verify exact licence, third-party exclusions and external processing permissions before approval/indexing."
+      },
+      "sectionMappings": [
+        {
+          "section": "Introduction/excerpt: coronary venous drainage; CRT and retrograde cardioplegia",
+          "structureIds": [
+            "coronary-sinus"
+          ],
+          "relationship": "direct",
+          "anatomy": "normal",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "verified": true,
+          "notes": "Verified excerpt supports overview; tributaries, ostium, valves and procedural sections require full-chapter verification."
+        }
+      ]
+    }
+  },
+  {
+    "id": "nbk549786",
+    "title": "Anatomy, Thorax, Heart Veins",
+    "institution": "StatPearls Publishing",
+    "publicationYear": 2023,
+    "edition": null,
+    "yearOrEdition": "StatPearls [Internet], StatPearls Publishing; updated 2023-07-24; current container 2026 Jan.",
+    "section": "Structure and Function (full chapter locator to verify)",
+    "structureIds": [
+      "coronary-sinus"
+    ],
+    "topics": [
+      "cardiovascular-anatomy"
+    ],
+    "location": "https://www.ncbi.nlm.nih.gov/books/NBK549786/",
+    "documentPath": null,
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "curation": {
+      "checkedOn": "2026-10-11",
+      "authors": [
+        "Julia H Miao",
+        "Amgad N Makaryus"
+      ],
+      "publicationDetails": "StatPearls [Internet], StatPearls Publishing; updated 2023-07-24; current container 2026 Jan.",
+      "doi": null,
+      "updatedOn": "2023-07-24",
+      "scope": "broad-anatomy",
+      "access": "abstract-only",
+      "metadataEvidenceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/31747193/"
+      ],
+      "verificationNotes": "Metadata/excerpt verified through PubMed; supplied full-text endpoint blocked.",
+      "reuse": {
+        "license": "Chapter-specific terms unverified; do not infer from other StatPearls chapters",
+        "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/about/copyright/",
+        "disposition": "unverified",
+        "fullTextCopied": false,
+        "externalIndexingCleared": false,
+        "notes": "No text staged. Verify exact licence, third-party exclusions and external processing permissions before approval/indexing."
+      },
+      "sectionMappings": [
+        {
+          "section": "Structure and Function (full chapter locator to verify)",
+          "structureIds": [
+            "coronary-sinus"
+          ],
+          "relationship": "parent-vessel",
+          "anatomy": "normal",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "verified": false,
+          "notes": "Heart-vein overview verified; coronary-sinus section details pending access."
+        }
+      ]
+    }
+  },
+  {
+    "id": "teaching-right-coronary-proximal",
+    "title": "Right Coronary Artery (Proximal) — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "left-coronary-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-circumflex-artery",
+      "right-marginal-artery",
+      "right-conus-artery",
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+    "documentPath": "pending_review/teaching-right-coronary-proximal.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "right-coronary-proximal",
+      "synonyms": [
+        "Right Coronary Artery (Proximal)",
+        "RCA-P"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "The proximal RCA starts at the right aortic sinus and follows the right atrioventricular groove. In Villa's scheme it ends halfway between the origin and acute margin.",
+          "domain": "anatomy",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "pmc4919754",
+              "title": "Coronary artery anomalies overview: The normal and the abnormal",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+              "section": "NORMAL ANATOMY — RCA",
+              "page": null,
+              "publicationDetails": "World Journal of Radiology 8(6):537–555; 2016-06-28.",
+              "sourceVersion": "1",
+              "evidenceAccess": "primary-search-excerpt"
+            }
+          ],
+          "id": "right-coronary-proximal-1",
+          "structureIds": [
+            "right-coronary-proximal"
+          ]
+        },
+        {
+          "text": "The RCA supplies the right atrium and right ventricle. Nodal supply through its branches varies; a fixed territory must not be assigned to every RCA segment.",
+          "domain": "physiology",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-coronary-arteries",
+              "title": "Coronary Arteries",
+              "url": "https://my.clevelandclinic.org/health/body/22973-coronary-arteries",
+              "section": "Function — What is the purpose of the coronary arteries?",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2025-06-02.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "right-coronary-proximal-2",
+          "structureIds": [
+            "right-coronary-proximal"
+          ]
+        },
+        {
+          "text": "Coronary atherosclerosis can narrow arteries and reduce myocardial oxygen delivery, causing ischemia or infarction. Angiography, PCI and bypass surgery are general diagnostic/procedural contexts; they do not establish a branch-specific indication.",
+          "domain": "clinical",
+          "pattern": "clinical-context",
+          "relationship": "general-coronary-context",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-cad",
+              "title": "Coronary Artery Disease",
+              "url": "https://my.clevelandclinic.org/health/diseases/16898-coronary-artery-disease",
+              "section": "Overview; Diagnosis and Tests; Management and Treatment",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2023-10-13.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "posterior-descending-artery",
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-diagonal-d1",
+            "left-diagonal-d2",
+            "left-circumflex-artery",
+            "right-marginal-artery",
+            "right-conus-artery",
+            "left-marginal-artery"
+          ],
+          "id": "right-coronary-proximal-3"
+        }
+      ],
+      "gaps": [
+        "Review exact proximal RCA landmarks against the chosen named segmentation scheme; broad RCA accounts alone do not define boundaries.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation."
+      ],
+      "uncertainties": []
+    }
+  },
+  {
+    "id": "teaching-right-coronary-middle",
+    "title": "Right Coronary Artery (Middle) — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "right-coronary-middle"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+    "documentPath": "pending_review/teaching-right-coronary-middle.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "right-coronary-middle",
+      "synonyms": [
+        "Right Coronary Artery (Middle)",
+        "RCA-M"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "In Villa's RCA segmentation scheme, the middle RCA extends from the halfway point between origin and acute margin to the acute margin. It remains part of the parent RCA.",
+          "domain": "anatomy",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "pmc4919754",
+              "title": "Coronary artery anomalies overview: The normal and the abnormal",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+              "section": "NORMAL ANATOMY — RCA",
+              "page": null,
+              "publicationDetails": "World Journal of Radiology 8(6):537–555; 2016-06-28.",
+              "sourceVersion": "1",
+              "evidenceAccess": "primary-search-excerpt"
+            }
+          ],
+          "id": "right-coronary-middle-1",
+          "structureIds": [
+            "right-coronary-middle"
+          ]
+        }
+      ],
+      "gaps": [
+        "Review mid-RCA start/end landmarks; confirm consistency of website teaching terminology and specialist scheme.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation."
+      ],
+      "uncertainties": []
+    }
+  },
+  {
+    "id": "teaching-right-coronary-distal",
+    "title": "Right Coronary Artery (Distal) — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "right-coronary-distal"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+    "documentPath": "pending_review/teaching-right-coronary-distal.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "right-coronary-distal",
+      "synonyms": [
+        "Right Coronary Artery (Distal)",
+        "RCA-D"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "In Villa's scheme the distal RCA continues from the acute margin toward the base, at the atrial/ventricular septal junction. This distinguishes it from the origin-to-halfway proximal segment.",
+          "domain": "anatomy",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "pmc4919754",
+              "title": "Coronary artery anomalies overview: The normal and the abnormal",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+              "section": "NORMAL ANATOMY — RCA",
+              "page": null,
+              "publicationDetails": "World Journal of Radiology 8(6):537–555; 2016-06-28.",
+              "sourceVersion": "1",
+              "evidenceAccess": "primary-search-excerpt"
+            }
+          ],
+          "id": "right-coronary-distal-1",
+          "structureIds": [
+            "right-coronary-distal"
+          ]
+        }
+      ],
+      "gaps": [
+        "Review distal RCA/crux landmarks and dominance-dependent continuation; no universal vessel extent assumed.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation."
+      ],
+      "uncertainties": []
+    }
+  },
+  {
+    "id": "teaching-posterior-descending-artery",
+    "title": "Posterior Descending Artery — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "posterior-descending-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+    "documentPath": "pending_review/teaching-posterior-descending-artery.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "posterior-descending-artery",
+      "synonyms": [
+        "Posterior Descending Artery",
+        "PDA",
+        "posterior interventricular artery"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "The PDA, or posterior interventricular artery, follows the posterior interventricular groove and supplies inferior myocardium and the inferior septum.",
+          "domain": "physiology",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "radiologyassistant-coronary",
+              "title": "Coronary anatomy and anomalies",
+              "url": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+              "section": "Right Coronary Artery (RCA)",
+              "page": null,
+              "publicationDetails": "The Radiology Assistant; Rijnland Hospital Leiderdorp and University Medical Centre Groningen; published 2008-10-14.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "posterior-descending-artery-1",
+          "structureIds": [
+            "posterior-descending-artery"
+          ]
+        },
+        {
+          "text": "Coronary dominance concerns PDA and posterolateral origins: RCA in right dominance, LCx in left dominance, and contributions from both systems in codominance. These are normal variations.",
+          "domain": "anatomy",
+          "pattern": "normal-variant",
+          "relationship": "direct",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "pmc4919754",
+              "title": "Coronary artery anomalies overview: The normal and the abnormal",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+              "section": "NORMAL VARIANTS — Coronary dominance",
+              "page": null,
+              "publicationDetails": "World Journal of Radiology 8(6):537–555; 2016-06-28.",
+              "sourceVersion": "1",
+              "evidenceAccess": "primary-search-excerpt"
+            }
+          ],
+          "id": "posterior-descending-artery-2",
+          "structureIds": [
+            "posterior-descending-artery"
+          ]
+        }
+      ],
+      "gaps": [
+        "Reconcile dominance descriptions across consumer and specialist sources; avoid treating right-origin PDA as universal.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation."
+      ],
+      "uncertainties": [
+        "Cleveland Clinic LAD/LCx dominance wording includes LAD contribution; do not import that as typical left dominance. Reconcile PDA/posterolateral definitions and prevalence across specialist references."
+      ]
+    }
+  },
+  {
+    "id": "teaching-left-coronary-artery",
+    "title": "Left Coronary Artery — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "left-coronary-artery",
+      "right-coronary-proximal",
+      "right-coronary-middle",
+      "right-coronary-distal",
+      "posterior-descending-artery",
+      "left-anterior-descending-proximal",
+      "left-anterior-descending-mid",
+      "left-anterior-descending-apical",
+      "left-diagonal-d1",
+      "left-diagonal-d2",
+      "left-circumflex-artery",
+      "right-marginal-artery",
+      "right-conus-artery",
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+    "documentPath": "pending_review/teaching-left-coronary-artery.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "left-coronary-artery",
+      "synonyms": [
+        "Left Coronary Artery",
+        "LM"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "The left main coronary artery arises at the left aortic sinus, passes between the right ventricular outflow tract and left atrium, and divides into LAD and LCx.",
+          "domain": "anatomy",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "radiologyassistant-coronary",
+              "title": "Coronary anatomy and anomalies",
+              "url": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+              "section": "Left Coronary Artery (LCA)",
+              "page": null,
+              "publicationDetails": "The Radiology Assistant; Rijnland Hospital Leiderdorp and University Medical Centre Groningen; published 2008-10-14.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-coronary-artery-1",
+          "structureIds": [
+            "left-coronary-artery"
+          ]
+        },
+        {
+          "text": "For the SCCT classification discussed by ASCI, the left main extends from its ostium to the LAD/LCx bifurcation. This is a reporting definition.",
+          "domain": "anatomy",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "pmc10973734",
+              "title": "2024 Consensus Statement on Coronary Stenosis and Plaque Evaluation in CT Angiography From the Asian Society of Cardiovascular Imaging-Practical Tutorial (ASCI-PT)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10973734/",
+              "section": "Issue 1 — Distal margin of the left main artery",
+              "page": null,
+              "publicationDetails": "Korean Journal of Radiology 25(4):331–342; 2024-03-20; April issue.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-coronary-artery-2",
+          "structureIds": [
+            "left-coronary-artery"
+          ]
+        },
+        {
+          "text": "Coronary perfusion delivers oxygen to active myocardium. Ventricular contraction compresses intramyocardial vessels; relaxation permits increased flow. Reduced diastolic time can impair perfusion, particularly in the left ventricle.",
+          "domain": "physiology",
+          "pattern": "normal",
+          "relationship": "general-coronary-context",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "nbk482413",
+              "title": "Physiology, Coronary Circulation",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK482413/",
+              "section": "Mechanism — Blood flow; Regulation",
+              "page": null,
+              "publicationDetails": "StatPearls [Internet], StatPearls Publishing; chapter updated 2023-05-01; current container 2026 Jan.",
+              "sourceVersion": "1",
+              "evidenceAccess": "primary-search-excerpt"
+            }
+          ],
+          "structureIds": [
+            "right-coronary-proximal",
+            "right-coronary-middle",
+            "right-coronary-distal",
+            "posterior-descending-artery",
+            "left-coronary-artery",
+            "left-anterior-descending-proximal",
+            "left-anterior-descending-mid",
+            "left-anterior-descending-apical",
+            "left-diagonal-d1",
+            "left-diagonal-d2",
+            "left-circumflex-artery",
+            "right-marginal-artery",
+            "right-conus-artery",
+            "left-marginal-artery"
+          ],
+          "id": "left-coronary-artery-3"
+        }
+      ],
+      "gaps": [
+        "Confirm left main trunk terminology and ostium-to-bifurcation boundary; rare-origin cases cannot define normal origin.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation."
+      ],
+      "uncertainties": []
+    }
+  },
+  {
+    "id": "teaching-left-anterior-descending-proximal",
+    "title": "Left Anterior Descending (Proximal) — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "left-anterior-descending-proximal"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10973734/",
+    "documentPath": "pending_review/teaching-left-anterior-descending-proximal.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "left-anterior-descending-proximal",
+      "synonyms": [
+        "Left Anterior Descending (Proximal)",
+        "LAD-P"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "ASCI describes SCCT proximal LAD from the end of left main to the first large septal branch or significant D1, whichever is closer to the origin; the cited D1 criterion exceeds 1.5 mm.",
+          "domain": "anatomy",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "pmc10973734",
+              "title": "2024 Consensus Statement on Coronary Stenosis and Plaque Evaluation in CT Angiography From the Asian Society of Cardiovascular Imaging-Practical Tutorial (ASCI-PT)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10973734/",
+              "section": "Issue 2 — Proximal vs. mid-LAD",
+              "page": null,
+              "publicationDetails": "Korean Journal of Radiology 25(4):331–342; 2024-03-20; April issue.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-anterior-descending-proximal-1",
+          "structureIds": [
+            "left-anterior-descending-proximal"
+          ]
+        },
+        {
+          "text": "Through septal and diagonal branches, the parent LAD supplies anterior septal and left ventricular myocardium. This is parent-vessel context, not a fixed proximal-segment territory.",
+          "domain": "physiology",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-lad",
+              "title": "Left Anterior Descending Artery",
+              "url": "https://my.clevelandclinic.org/health/body/23985-left-anterior-descending-artery",
+              "section": "Anatomy — What are the branches of the left anterior descending artery?",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-08-04.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-anterior-descending-proximal-2",
+          "structureIds": [
+            "left-anterior-descending-proximal"
+          ]
+        }
+      ],
+      "gaps": [
+        "Reconcile D1-only simplified landmark with SCCT first-large-septal-or-D1 definition; consensus scenario had moderate agreement.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation."
+      ],
+      "uncertainties": [
+        "Radiology Assistant uses a simplified D1 boundary; ASCI uses first large septal or significant D1. Specify the scheme; consensus in the early-D1 scenario was moderate."
+      ]
+    }
+  },
+  {
+    "id": "teaching-left-anterior-descending-mid",
+    "title": "Left Anterior Descending (Mid) — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "left-anterior-descending-mid"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10973734/",
+    "documentPath": "pending_review/teaching-left-anterior-descending-mid.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "left-anterior-descending-mid",
+      "synonyms": [
+        "Left Anterior Descending (Mid)",
+        "LAD-M"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "The mid-LAD lies beyond the proximal LAD boundary under the chosen segmentation scheme. ASCI's early-large-D1 scenario was classified as mid-LAD with moderate agreement, not unanimous consensus.",
+          "domain": "anatomy",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "pmc10973734",
+              "title": "2024 Consensus Statement on Coronary Stenosis and Plaque Evaluation in CT Angiography From the Asian Society of Cardiovascular Imaging-Practical Tutorial (ASCI-PT)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10973734/",
+              "section": "Issue 2 — Proximal vs. mid-LAD",
+              "page": null,
+              "publicationDetails": "Korean Journal of Radiology 25(4):331–342; 2024-03-20; April issue.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-anterior-descending-mid-1",
+          "structureIds": [
+            "left-anterior-descending-mid"
+          ]
+        }
+      ],
+      "gaps": [
+        "Review proximal/mid/distal boundaries under a specified scheme rather than assuming source agreement.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation."
+      ],
+      "uncertainties": [
+        "Radiology Assistant uses a simplified D1 boundary; ASCI uses first large septal or significant D1. Specify the scheme; consensus in the early-D1 scenario was moderate."
+      ]
+    }
+  },
+  {
+    "id": "teaching-left-anterior-descending-apical",
+    "title": "Left Anterior Descending (Apical) — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "left-anterior-descending-apical"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://my.clevelandclinic.org/health/body/23985-left-anterior-descending-artery",
+    "documentPath": "pending_review/teaching-left-anterior-descending-apical.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "left-anterior-descending-apical",
+      "synonyms": [
+        "Left Anterior Descending (Apical)",
+        "LAD-A"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "The LAD runs toward the apex along the anterior interventricular region. The website's apical LAD label denotes the apex region and requires a reviewed crosswalk to formal distal-segment definitions.",
+          "domain": "anatomy",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-lad",
+              "title": "Left Anterior Descending Artery",
+              "url": "https://my.clevelandclinic.org/health/body/23985-left-anterior-descending-artery",
+              "section": "Anatomy — Where is the left anterior descending artery located?",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-08-04.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-anterior-descending-apical-1",
+          "structureIds": [
+            "left-anterior-descending-apical"
+          ]
+        },
+        {
+          "text": "A wraparound LAD may supply apical inferior myocardium. This is a normal variant and must not be assumed in every heart.",
+          "domain": "physiology",
+          "pattern": "normal-variant",
+          "relationship": "direct",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "pmc4919754",
+              "title": "Coronary artery anomalies overview: The normal and the abnormal",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+              "section": "NORMAL VARIANTS — Inferior wall supply",
+              "page": null,
+              "publicationDetails": "World Journal of Radiology 8(6):537–555; 2016-06-28.",
+              "sourceVersion": "1",
+              "evidenceAccess": "primary-search-excerpt"
+            }
+          ],
+          "id": "left-anterior-descending-apical-2",
+          "structureIds": [
+            "left-anterior-descending-apical"
+          ]
+        }
+      ],
+      "gaps": [
+        "Apical teaching label is not automatically equivalent to distal LAD segment 8. Obtain a dedicated apex/wraparound LAD reference and reviewer mapping.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation."
+      ],
+      "uncertainties": []
+    }
+  },
+  {
+    "id": "teaching-left-diagonal-d1",
+    "title": "Left Diagonal D1 — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "left-diagonal-d1"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+    "documentPath": "pending_review/teaching-left-diagonal-d1.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "left-diagonal-d1",
+      "synonyms": [
+        "Left Diagonal D1",
+        "D1"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "D1 is a named LAD diagonal branch. Diagonal branches travel laterally and supply the anterolateral left ventricular wall; their number varies.",
+          "domain": "physiology",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "radiologyassistant-coronary",
+              "title": "Coronary anatomy and anomalies",
+              "url": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+              "section": "Left Anterior Descending (LAD)",
+              "page": null,
+              "publicationDetails": "The Radiology Assistant; Rijnland Hospital Leiderdorp and University Medical Centre Groningen; published 2008-10-14.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-diagonal-d1-1",
+          "structureIds": [
+            "left-diagonal-d1"
+          ]
+        }
+      ],
+      "gaps": [
+        "Named branch is covered; review branch ordering, variable size/territory and whether a D1 exists in a particular heart. ECG study is selected-cohort clinical context.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation.",
+        "Confirm first/second branch ordering and individual size/territory from an annotated atlas; D2 cannot be assumed present in every heart."
+      ],
+      "uncertainties": [
+        "Radiology Assistant uses a simplified D1 boundary; ASCI uses first large septal or significant D1. Specify the scheme; consensus in the early-D1 scenario was moderate."
+      ]
+    }
+  },
+  {
+    "id": "teaching-left-diagonal-d2",
+    "title": "Left Diagonal D2 — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "left-diagonal-d2"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+    "documentPath": "pending_review/teaching-left-diagonal-d2.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "left-diagonal-d2",
+      "synonyms": [
+        "Left Diagonal D2",
+        "D2"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "D2 is another LAD diagonal label, distinct from D1. Diagonals supply anterolateral left ventricular myocardium, but individual number and territories vary.",
+          "domain": "physiology",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "radiologyassistant-coronary",
+              "title": "Coronary anatomy and anomalies",
+              "url": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+              "section": "Left Anterior Descending (LAD)",
+              "page": null,
+              "publicationDetails": "The Radiology Assistant; Rijnland Hospital Leiderdorp and University Medical Centre Groningen; published 2008-10-14.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-diagonal-d2-1",
+          "structureIds": [
+            "left-diagonal-d2"
+          ]
+        }
+      ],
+      "gaps": [
+        "Named branch is covered but dedicated D2 normal-anatomy detail is limited. Add a branch-specific atlas or peer-reviewed account of variable number, ordering and territory.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation.",
+        "Confirm first/second branch ordering and individual size/territory from an annotated atlas; D2 cannot be assumed present in every heart."
+      ],
+      "uncertainties": []
+    }
+  },
+  {
+    "id": "teaching-left-circumflex-artery",
+    "title": "Left Circumflex Artery — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "left-circumflex-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://my.clevelandclinic.org/health/body/23926-circumflex-artery",
+    "documentPath": "pending_review/teaching-left-circumflex-artery.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "left-circumflex-artery",
+      "synonyms": [
+        "Left Circumflex Artery",
+        "LCx"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "The LCx normally branches from left main and travels in the groove between left atrium and ventricle. It gives off variably numbered obtuse marginal branches.",
+          "domain": "anatomy",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-circumflex",
+              "title": "Circumflex Artery",
+              "url": "https://my.clevelandclinic.org/health/body/23926-circumflex-artery",
+              "section": "Anatomy — Where is the circumflex artery located?; What are the circumflex artery branches?",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-07-28.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-circumflex-artery-1",
+          "structureIds": [
+            "left-circumflex-artery"
+          ]
+        },
+        {
+          "text": "The LCx supplies left-sided myocardial regions through its branches. Its distribution, including nodal contribution, varies between individuals.",
+          "domain": "physiology",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-circumflex",
+              "title": "Circumflex Artery",
+              "url": "https://my.clevelandclinic.org/health/body/23926-circumflex-artery",
+              "section": "Function — What does the circumflex artery do?",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-07-28.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-circumflex-artery-2",
+          "structureIds": [
+            "left-circumflex-artery"
+          ]
+        },
+        {
+          "text": "LCx atherosclerotic narrowing may involve a branch-point lesion; angioplasty and stenting are procedural context, not treatment advice or a universal indication.",
+          "domain": "clinical",
+          "pattern": "clinical-context",
+          "relationship": "direct",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-circumflex",
+              "title": "Circumflex Artery",
+              "url": "https://my.clevelandclinic.org/health/body/23926-circumflex-artery",
+              "section": "Overview; Conditions and Disorders",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-07-28.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-circumflex-artery-3",
+          "structureIds": [
+            "left-circumflex-artery"
+          ]
+        },
+        {
+          "id": "left-circumflex-artery-4",
+          "domain": "anatomy",
+          "pattern": "rare-anomaly",
+          "relationship": "direct",
+          "structureIds": [
+            "left-circumflex-artery"
+          ],
+          "levels": [
+            "advanced"
+          ],
+          "text": "A cadaveric report described a retroaortic LCx arising with RCA/conus ostia at the right aortic sinus. This is not typical anatomy and does not redefine the usual left-main origin.",
+          "evidence": [
+            {
+              "sourceId": "pmc10749686",
+              "title": "Anomalous Left Circumflex Artery Arising From the Right Coronary Artery: A Cadaveric Case Report and Review of the Literature",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10749686/",
+              "section": "Abstract (also verified through PubMed 38146550)",
+              "page": null,
+              "publicationDetails": "Cureus 15(11):e49380; 2023-11-25.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "Separate normal left-main origin from anomalous right-sinus/RCA case reports; reconcile dominance wording.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation."
+      ],
+      "uncertainties": [
+        "Cleveland Clinic LAD/LCx dominance wording includes LAD contribution; do not import that as typical left dominance. Reconcile PDA/posterolateral definitions and prevalence across specialist references."
+      ]
+    }
+  },
+  {
+    "id": "teaching-right-marginal-artery",
+    "title": "Right Marginal Artery — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "right-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+    "documentPath": "pending_review/teaching-right-marginal-artery.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "right-marginal-artery",
+      "synonyms": [
+        "Right Marginal Artery",
+        "RMA",
+        "acute marginal artery"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "The right marginal, or acute marginal, branch leaves the RCA near the acute margin, follows the border toward the apex and supplies the right ventricular free wall.",
+          "domain": "physiology",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "pmc4919754",
+              "title": "Coronary artery anomalies overview: The normal and the abnormal",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919754/",
+              "section": "NORMAL ANATOMY — RCA",
+              "page": null,
+              "publicationDetails": "World Journal of Radiology 8(6):537–555; 2016-06-28.",
+              "sourceVersion": "1",
+              "evidenceAccess": "primary-search-excerpt"
+            }
+          ],
+          "id": "right-marginal-artery-1",
+          "structureIds": [
+            "right-marginal-artery"
+          ]
+        }
+      ],
+      "gaps": [
+        "Normal acute/right marginal branch is covered in broad references; dedicated origin/course/territory and procedural coverage remain thin.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation."
+      ],
+      "uncertainties": [
+        "Some evidence was accessible through primary indexed excerpts rather than full-page rendering; supervisor must verify the cited section."
+      ]
+    }
+  },
+  {
+    "id": "teaching-right-conus-artery",
+    "title": "Right Conus Artery — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "right-conus-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+    "documentPath": "pending_review/teaching-right-conus-artery.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "right-conus-artery",
+      "synonyms": [
+        "Right Conus Artery",
+        "Conus",
+        "conal artery"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "The conus branch supplies the right ventricular outflow tract. It often branches from RCA; a separate aortic origin is an anatomical variant rather than the typical RCA-branch pattern.",
+          "domain": "physiology",
+          "pattern": "normal-variant",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "radiologyassistant-coronary",
+              "title": "Coronary anatomy and anomalies",
+              "url": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+              "section": "Right Coronary Artery (RCA)",
+              "page": null,
+              "publicationDetails": "The Radiology Assistant; Rijnland Hospital Leiderdorp and University Medical Centre Groningen; published 2008-10-14.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "right-conus-artery-1",
+          "structureIds": [
+            "right-conus-artery"
+          ]
+        }
+      ],
+      "gaps": [
+        "Normal RCA branch and separate aortic ostium must be distinguished from combined rare LCA anomaly cases. Add a dedicated normal conus/collateral anatomy reference.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation."
+      ],
+      "uncertainties": [
+        "Some evidence was accessible through primary indexed excerpts rather than full-page rendering; supervisor must verify the cited section."
+      ]
+    }
+  },
+  {
+    "id": "teaching-left-marginal-artery",
+    "title": "Left Marginal Artery — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "left-marginal-artery"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+    "documentPath": "pending_review/teaching-left-marginal-artery.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "left-marginal-artery",
+      "synonyms": [
+        "Left Marginal Artery",
+        "OM",
+        "obtuse marginal artery"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "The left marginal label here denotes the obtuse marginal family of LCx branches supplying lateral left ventricular myocardium. It is not automatically a specific OM1 or OM2.",
+          "domain": "physiology",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "radiologyassistant-coronary",
+              "title": "Coronary anatomy and anomalies",
+              "url": "https://radiologyassistant.nl/cardiovascular/anatomy/coronary-anatomy-and-anomalies",
+              "section": "Circumflex (Cx)",
+              "page": null,
+              "publicationDetails": "The Radiology Assistant; Rijnland Hospital Leiderdorp and University Medical Centre Groningen; published 2008-10-14.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-marginal-artery-1",
+          "structureIds": [
+            "left-marginal-artery"
+          ]
+        },
+        {
+          "text": "ASCI distinguishes a ramus intermedius arising at a left-main trifurcation from an early LCx-derived OM1. Parent-vessel origin matters more than proximity alone.",
+          "domain": "anatomy",
+          "pattern": "normal-variant",
+          "relationship": "direct",
+          "levels": [
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "pmc10973734",
+              "title": "2024 Consensus Statement on Coronary Stenosis and Plaque Evaluation in CT Angiography From the Asian Society of Cardiovascular Imaging-Practical Tutorial (ASCI-PT)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10973734/",
+              "section": "Issue 3 — Ramus intermedius vs. first obtuse marginal artery",
+              "page": null,
+              "publicationDetails": "Korean Journal of Radiology 25(4):331–342; 2024-03-20; April issue.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "left-marginal-artery-2",
+          "structureIds": [
+            "left-marginal-artery"
+          ]
+        }
+      ],
+      "gaps": [
+        "Review obtuse marginal family versus particular OM1/OM2; website label is generic OM, not SCCT numeric segment 14 or ramus intermedius.",
+        "General coronary clinical/physiology context does not establish a segment-specific territory, infarct prediction or procedural recommendation."
+      ],
+      "uncertainties": []
+    }
+  },
+  {
+    "id": "teaching-ascending-aorta",
+    "title": "Ascending Aorta — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "ascending-aorta"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://my.clevelandclinic.org/health/body/17058-aorta-anatomy",
+    "documentPath": "pending_review/teaching-ascending-aorta.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "ascending-aorta",
+      "synonyms": [
+        "Ascending Aorta",
+        "Ao"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "The ascending aorta is the upward thoracic portion leading from the heart toward the arch. Coronary origins are associated with the root region; root and ascending-aorta labels need explicit boundaries.",
+          "domain": "anatomy",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-aorta",
+              "title": "Aorta",
+              "url": "https://my.clevelandclinic.org/health/body/17058-aorta-anatomy",
+              "section": "Anatomy — What are the parts of the aorta?; Ascending aortic branches",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-02-24.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "ascending-aorta-1",
+          "structureIds": [
+            "ascending-aorta"
+          ]
+        },
+        {
+          "text": "The ascending aorta conducts oxygenated blood leaving the left ventricle onward into the systemic arterial circulation.",
+          "domain": "physiology",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-aorta",
+              "title": "Aorta",
+              "url": "https://my.clevelandclinic.org/health/body/17058-aorta-anatomy",
+              "section": "Function — What is the function of the aorta?",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-02-24.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "ascending-aorta-2",
+          "structureIds": [
+            "ascending-aorta"
+          ]
+        },
+        {
+          "text": "Root dilatation, thoracic aneurysm and dissection are relevant aortic disease contexts. A dissection involves separation within the wall after an inner-lining tear; precise procedural thresholds require specialist evidence.",
+          "domain": "clinical",
+          "pattern": "clinical-context",
+          "relationship": "direct",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-aorta",
+              "title": "Aorta",
+              "url": "https://my.clevelandclinic.org/health/body/17058-aorta-anatomy",
+              "section": "Conditions and Disorders — Aneurysms, dissections and ruptures",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-02-24.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "ascending-aorta-3",
+          "structureIds": [
+            "ascending-aorta"
+          ]
+        }
+      ],
+      "gaps": [
+        "Basic/intermediate descriptions available; advanced root/sinotubular junction, dimensions, imaging and procedural coverage need dedicated specialist sources."
+      ],
+      "uncertainties": []
+    }
+  },
+  {
+    "id": "teaching-superior-vena-cava",
+    "title": "Superior Vena Cava — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "superior-vena-cava"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://my.clevelandclinic.org/health/body/22619-vena-cava",
+    "documentPath": "pending_review/teaching-superior-vena-cava.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "superior-vena-cava",
+      "synonyms": [
+        "Superior Vena Cava",
+        "SVC"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "The right and left brachiocephalic veins unite to form the SVC, which enters the right atrium on the right side of the heart.",
+          "domain": "anatomy",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-vena-cava",
+              "title": "Vena Cava",
+              "url": "https://my.clevelandclinic.org/health/body/22619-vena-cava",
+              "section": "Anatomy — Where is the vena cava located?",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-03-24.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "superior-vena-cava-1",
+          "structureIds": [
+            "superior-vena-cava"
+          ]
+        },
+        {
+          "text": "The SVC returns oxygen-poor blood from the upper body to the right atrium, supporting venous return rather than myocardial arterial supply.",
+          "domain": "physiology",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-vena-cava",
+              "title": "Vena Cava",
+              "url": "https://my.clevelandclinic.org/health/body/22619-vena-cava",
+              "section": "Function — What does the vena cava do?",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-03-24.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "superior-vena-cava-2",
+          "structureIds": [
+            "superior-vena-cava"
+          ]
+        },
+        {
+          "text": "SVC obstruction from compression or thrombosis can impair upper-body venous return. Catheters and pacemakers are relevant clot-associated contexts; swelling and breathlessness are possible consequences.",
+          "domain": "clinical",
+          "pattern": "clinical-context",
+          "relationship": "direct",
+          "levels": [
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "cc-vena-cava",
+              "title": "Vena Cava",
+              "url": "https://my.clevelandclinic.org/health/body/22619-vena-cava",
+              "section": "Conditions and Disorders — Common conditions; obstruction causes and symptoms",
+              "page": null,
+              "publicationDetails": "Cleveland Clinic Health Library; medically reviewed; updated 2022-03-24.",
+              "sourceVersion": "1",
+              "evidenceAccess": "readable-page"
+            }
+          ],
+          "id": "superior-vena-cava-3",
+          "structureIds": [
+            "superior-vena-cava"
+          ]
+        }
+      ],
+      "gaps": [
+        "Basic/intermediate sources available; advanced tributaries, mediastinal relationships, persistent left SVC and procedural anatomy require additional specialist sources."
+      ],
+      "uncertainties": []
+    }
+  },
+  {
+    "id": "teaching-coronary-sinus",
+    "title": "Coronary Sinus — attributed teaching notes",
+    "institution": "Heart anatomy educational website",
+    "publicationYear": 2026,
+    "edition": null,
+    "yearOrEdition": "Teaching-note version 1, prepared 2026-10-11; original publication details retained per passage",
+    "section": "Reviewed teaching passages; original locators retained individually",
+    "structureIds": [
+      "coronary-sinus"
+    ],
+    "topics": [
+      "cardiovascular-anatomy",
+      "cardiovascular-physiology",
+      "clinical-correlations",
+      "anatomical-variants"
+    ],
+    "location": "https://www.ncbi.nlm.nih.gov/books/NBK549786/",
+    "documentPath": "pending_review/teaching-coronary-sinus.md",
+    "sourceType": "educational-summary",
+    "materialKind": "reference",
+    "status": "pending_review",
+    "approvedBy": null,
+    "approvalDate": null,
+    "documentVersion": "1",
+    "approvedVersion": null,
+    "approvedSha256": null,
+    "licenseConfirmed": false,
+    "publicCitation": true,
+    "externalIndexingPermission": {
+      "cleared": false,
+      "reviewedBy": null,
+      "reviewedOn": null,
+      "evidence": null
+    },
+    "teachingNote": {
+      "structureId": "coronary-sinus",
+      "synonyms": [
+        "Coronary Sinus",
+        "CS"
+      ],
+      "preparedOn": "2026-10-11",
+      "preparation": "independently-written-attributed-notes",
+      "passages": [
+        {
+          "text": "The coronary sinus lies in the left posterior atrioventricular groove and opens into the right atrium. Tributaries include great, middle and small cardiac veins, posterior left ventricular and oblique atrial veins.",
+          "domain": "anatomy",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "nbk549786",
+              "title": "Anatomy, Thorax, Heart Veins",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK549786/",
+              "section": "Structure and Function — Coronary Sinus",
+              "page": null,
+              "publicationDetails": "StatPearls [Internet], StatPearls Publishing; updated 2023-07-24; current container 2026 Jan.",
+              "sourceVersion": "1",
+              "evidenceAccess": "primary-search-excerpt"
+            }
+          ],
+          "id": "coronary-sinus-1",
+          "structureIds": [
+            "coronary-sinus"
+          ]
+        },
+        {
+          "text": "The coronary sinus returns myocardial venous blood to the right atrium. It is part of cardiac venous drainage, distinct from the systemic return through SVC.",
+          "domain": "physiology",
+          "pattern": "normal",
+          "relationship": "direct",
+          "levels": [
+            "basic",
+            "intermediate",
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "nbk557566",
+              "title": "Anatomy, Thorax, Coronary Sinus",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK557566/",
+              "section": "Introduction; Structure and Function",
+              "page": null,
+              "publicationDetails": "StatPearls [Internet], StatPearls Publishing; updated 2023-07-24; current container 2026 Jan.",
+              "sourceVersion": "1",
+              "evidenceAccess": "primary-search-excerpt"
+            }
+          ],
+          "id": "coronary-sinus-2",
+          "structureIds": [
+            "coronary-sinus"
+          ]
+        },
+        {
+          "text": "Coronary venous anatomy is relevant to resynchronization lead access, retrograde cardioplegia and electrophysiologic mapping. Valves and tributary variation can complicate access; detailed technique is beyond these notes.",
+          "domain": "clinical",
+          "pattern": "clinical-context",
+          "relationship": "direct",
+          "levels": [
+            "advanced"
+          ],
+          "evidence": [
+            {
+              "sourceId": "nbk557566",
+              "title": "Anatomy, Thorax, Coronary Sinus",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK557566/",
+              "section": "Introduction; Physiologic Variants; Clinical Significance",
+              "page": null,
+              "publicationDetails": "StatPearls [Internet], StatPearls Publishing; updated 2023-07-24; current container 2026 Jan.",
+              "sourceVersion": "1",
+              "evidenceAccess": "primary-search-excerpt"
+            }
+          ],
+          "id": "coronary-sinus-3",
+          "structureIds": [
+            "coronary-sinus"
+          ]
+        }
+      ],
+      "gaps": [
+        "StatPearls metadata/excerpt available; full chapter and permissions unverified. Add accessible reusable specialist coverage of ostium, valves, tributaries and procedural anatomy.",
+        "Verify full chapter locators, ostial valves and pathology before detailed procedural teaching."
+      ],
+      "uncertainties": [
+        "Some evidence was accessible through primary indexed excerpts rather than full-page rendering; supervisor must verify the cited section."
+      ]
+    }
+  }
+]

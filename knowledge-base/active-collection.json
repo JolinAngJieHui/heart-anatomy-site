@@ -1,0 +1,8 @@
+{
+  "id": "minimal-2026-10-14",
+  "mode": "review",
+  "registryPath": "collections/minimal-2026-10-14/registry.json",
+  "registrySha256": "c958ba9797005bd7b6771c92cda62d3ff98775903d3ee702cae76cdb24026c31",
+  "collectionVersion": "3b4750c2fb52dd61449b810b2cdaf50bb7e1b94ce85b4eda284f6b8815884edc",
+  "rollback": "archive/minimal-2026-10-14-1daa76f7ea62"
+}

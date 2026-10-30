@@ -1,0 +1,546 @@
+{
+  "schema_version": "1.0",
+  "prepared_on": "2026-10-14",
+  "purpose": "Proposed minimal, text-only anatomy RAG reference shortlist; not an executable deployment manifest.",
+  "structure_count": 17,
+  "unique_source_count": 11,
+  "source_assignments": 29,
+  "article_text_included": false,
+  "external_upload_performed": false,
+  "selection_scope": "17 existing website vascular labels, including artery segments and non-coronary great vessels; not 17 distinct coronary arteries.",
+  "licence_conditions": [
+    "Use only the article authors’ text covered by the stated licence; exclude separately credited third-party material unless separately cleared.",
+    "Retain author(s), title, publication details, DOI/source link, copyright notice when supplied, CC BY 4.0 label and licence link.",
+    "Mark extraction/formatting changes and identify AI-generated explanations as generated paraphrases rather than author quotations or endorsement.",
+    "Exclude images, figures, figure captions and supplementary files from the starter upload. Keep tables out until separately reviewed.",
+    "Upload each unique selected source/extract once; map its source ID to multiple vessel labels instead of duplicating the text.",
+    "Retain section locators and original reference markers in extracted prose. Do not promote articles merely cited by a review into independently reviewed sources.",
+    "Allow cross-vessel retrieval when relevant; selected structure should guide ranking, not force irrelevant or unsupported answers.",
+    "For unsupported branch-specific diagnosis, exact segment boundaries, treatment or prognosis, state that the curated material does not establish the answer.",
+    "This register does not alter the existing knowledge base, grant scientific approval or perform any upload or paid API call."
+  ],
+  "sources": [
+    {
+      "id": "R1",
+      "authors": "Baz RO, Refi D, Scheau C, Savulescu-Fiedler I, Baz RA, Niscoveanu C",
+      "year": 2024,
+      "title": "Coronary Artery Anomalies: A Computed Tomography Angiography Pictorial Review",
+      "journal": "Journal of Clinical Medicine",
+      "volume_issue_pages": "13(13):3920",
+      "doi": "10.3390/jcm13133920",
+      "publisher_url": "https://www.mdpi.com/2077-0383/13/13/3920",
+      "licence_evidence_url": "https://www.researchgate.net/publication/382016251_Coronary_Artery_Anomalies_A_Computed_Tomography_Angiography_Pictorial_Review",
+      "licence_evidence_location": "CC BY 4.0 notice in the publisher-supplied original full text; the publisher article endpoint was access-restricted during checking.",
+      "source_type": "Pictorial review (use text only)",
+      "starter_sections": [
+        "Section 3: Anatomy of the Coronary Arteries — selected normal-anatomy paragraphs"
+      ],
+      "scope": "Shared normal coronary origins, courses, branches, segments, territories and dominance.",
+      "cautions": [
+        "Do not ingest figure images, captions, or anomaly sections by default.",
+        "Exclude the left-main-length statement of 2–4 mm pending scientific review; R3 is the dedicated left-main source.",
+        "Do not treat apical LAD as an automatic synonym for a standardized distal segment.",
+        "D1/D2-specific clinical diagnosis is not established by this anatomy review."
+      ],
+      "url": "https://doi.org/10.3390/jcm13133920",
+      "licence": "CC-BY-4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "licence_checked_on": "2026-10-14",
+      "licence_assessment": "Compatible with text copying, retrieval and adaptation, subject to attribution, licence notice, change notice and third-party exclusions.",
+      "scientific_approval_status": "Not granted by this reference-selection exercise; selected excerpts need review.",
+      "article_text_included": false
+    },
+    {
+      "id": "R2",
+      "authors": "Femia G, French JK, Juergens C, Leung D, Lo S",
+      "year": 2021,
+      "title": "Right ventricular myocardial infarction: pathophysiology, clinical implications and management",
+      "journal": "Reviews in Cardiovascular Medicine",
+      "volume_issue_pages": "22(4):1229–1240",
+      "doi": "10.31083/j.rcm2204131",
+      "publisher_url": "https://www.imrpress.com/journal/RCM/22/4/10.31083/j.rcm2204131",
+      "licence_evidence_url": "https://www.imrpress.com/journal/RCM/22/4/10.31083/j.rcm2204131",
+      "licence_evidence_location": "Article-specific CC BY 4.0 notice below publication details.",
+      "source_type": "Review",
+      "starter_sections": [
+        "1. Introduction",
+        "2. Right ventricular anatomy, function and arterial blood supply",
+        "3. Pathophysiology of right ventricular myocardial infarction",
+        "4. Diagnosis — clinical presentation and non-invasive diagnostic explanations"
+      ],
+      "scope": "RCA and right-ventricular branch anatomy, occlusion consequences, ECG, echocardiography and other diagnostic modalities.",
+      "cautions": [
+        "Right-ventricular infarction is not the inevitable consequence of every RCA/PDA lesion.",
+        "PDA diagnostic coverage is shared inferior-infarction/RCA context, not an isolated-PDA algorithm.",
+        "Do not use treatment regimens, invasive-procedure instructions or unreviewed numerical diagnostic cutoffs in the starter tutor."
+      ],
+      "url": "https://doi.org/10.31083/j.rcm2204131",
+      "licence": "CC-BY-4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "licence_checked_on": "2026-10-14",
+      "licence_assessment": "Compatible with text copying, retrieval and adaptation, subject to attribution, licence notice, change notice and third-party exclusions.",
+      "scientific_approval_status": "Not granted by this reference-selection exercise; selected excerpts need review.",
+      "article_text_included": false
+    },
+    {
+      "id": "R3",
+      "authors": "Khawaja M, Britt M, Khan MA, et al.",
+      "year": 2024,
+      "title": "Left Main Coronary Artery Disease: A Contemporary Review of Diagnosis and Management",
+      "journal": "Reviews in Cardiovascular Medicine",
+      "volume_issue_pages": "25(2):66",
+      "doi": "10.31083/j.rcm2502066",
+      "publisher_url": "https://www.imrpress.com/journal/RCM/25/2/10.31083/j.rcm2502066",
+      "licence_evidence_url": "https://www.imrpress.com/journal/RCM/25/2/10.31083/j.rcm2502066",
+      "licence_evidence_location": "Article-specific CC BY 4.0 notice below publication details.",
+      "source_type": "Review",
+      "starter_sections": [
+        "Introduction and clinical presentation",
+        "3. Diagnosis of Left Main Disease",
+        "Anatomy-related passages in 4. LMCAD Pathophysiology and Genetic/Phenotypic Considerations"
+      ],
+      "scope": "Left-main origin and branching, significance of obstruction, clinical presentation, ECG, echo, coronary CT and invasive assessment.",
+      "cautions": [
+        "Map the website label Left Coronary Artery to the left-main trunk, not the entire left coronary arterial tree.",
+        "Exclude intervention-selection rules and drug regimens from the basic anatomy tutor."
+      ],
+      "url": "https://doi.org/10.31083/j.rcm2502066",
+      "licence": "CC-BY-4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "licence_checked_on": "2026-10-14",
+      "licence_assessment": "Compatible with text copying, retrieval and adaptation, subject to attribution, licence notice, change notice and third-party exclusions.",
+      "scientific_approval_status": "Not granted by this reference-selection exercise; selected excerpts need review.",
+      "article_text_included": false
+    },
+    {
+      "id": "R4",
+      "authors": "Bottardi A, Prado GFA, Lunardi M, Fezzi S, Pesarini G, Tavella D, Scarsini R, Ribichini F",
+      "year": 2024,
+      "title": "Clinical Updates in Coronary Artery Disease: A Comprehensive Review",
+      "journal": "Journal of Clinical Medicine",
+      "volume_issue_pages": "13(16):4600",
+      "doi": "10.3390/jcm13164600",
+      "publisher_url": "https://www.mdpi.com/2077-0383/13/16/4600",
+      "licence_evidence_url": "https://www.researchgate.net/publication/382925090_Clinical_Updates_in_Coronary_Artery_Disease_A_Comprehensive_Review",
+      "licence_evidence_location": "CC BY 4.0 notice in the publisher-supplied original full text; the publisher article endpoint was access-restricted during checking.",
+      "source_type": "Review",
+      "starter_sections": [
+        "1. Introduction",
+        "2. Updates in CAD Diagnosis: The Role of CCTA, especially 2.1. Traditional CAD Diagnostic Tests"
+      ],
+      "scope": "General coronary artery disease, acute/chronic presentations and diagnostic test categories; shared clinical context for the LAD.",
+      "cautions": [
+        "This is not an LAD-segment-specific diagnostic reference.",
+        "Do not infer a unique ECG pattern or prognosis for proximal, mid or apical LAD from general CAD content.",
+        "Exclude treatment and device sections from the starter extraction."
+      ],
+      "url": "https://doi.org/10.3390/jcm13164600",
+      "licence": "CC-BY-4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "licence_checked_on": "2026-10-14",
+      "licence_assessment": "Compatible with text copying, retrieval and adaptation, subject to attribution, licence notice, change notice and third-party exclusions.",
+      "scientific_approval_status": "Not granted by this reference-selection exercise; selected excerpts need review.",
+      "article_text_included": false
+    },
+    {
+      "id": "R5",
+      "authors": "Zhang S, Deng X, Yang W, et al.",
+      "year": 2020,
+      "title": "The diagonal branches and outcomes in patients with anterior ST-elevation myocardial infarction",
+      "journal": "BMC Cardiovascular Disorders",
+      "volume_issue_pages": "20:108",
+      "doi": "10.1186/s12872-020-01386-4",
+      "publisher_url": "https://link.springer.com/article/10.1186/s12872-020-01386-4",
+      "licence_evidence_url": "https://link.springer.com/article/10.1186/s12872-020-01386-4",
+      "licence_evidence_location": "Rights and permissions: Creative Commons Attribution 4.0 International.",
+      "source_type": "Retrospective observational study",
+      "starter_sections": [
+        "Background",
+        "Discussion — anatomical variability, diagonal-flow loss and clinical interpretation",
+        "Limitations"
+      ],
+      "scope": "Diagonal branch anatomy and variable territory; relationship between diagonal flow, anterior infarction and angiographic assessment.",
+      "cautions": [
+        "The cohort concerns anterior STEMI and main-diagonal flow, commonly the first diagonal; it is not a dedicated isolated-D2 study.",
+        "Do not transfer cohort outcome rates to every D1 or D2 occlusion, or make causal claims from these associations.",
+        "Do not import study eligibility criteria as universal diagnostic criteria."
+      ],
+      "url": "https://doi.org/10.1186/s12872-020-01386-4",
+      "licence": "CC-BY-4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "licence_checked_on": "2026-10-14",
+      "licence_assessment": "Compatible with text copying, retrieval and adaptation, subject to attribution, licence notice, change notice and third-party exclusions.",
+      "scientific_approval_status": "Not granted by this reference-selection exercise; selected excerpts need review.",
+      "article_text_included": false
+    },
+    {
+      "id": "R6",
+      "authors": "Elhakim A, Hassaan A, Yassen I, Mosaad M, Elhakim M, Bisht O, Baraka M, Saad M",
+      "year": 2026,
+      "title": "Navigation of the Clinical Implications, Interventional Challenges, and Complexities of the Circumflex Coronary Artery: A Comprehensive Review",
+      "journal": "Reviews in Cardiovascular Medicine",
+      "volume_issue_pages": "27(2):47426",
+      "doi": "10.31083/RCM47426",
+      "publisher_url": "https://www.imrpress.com/journal/RCM/27/2/10.31083/RCM47426",
+      "licence_evidence_url": "https://www.imrpress.com/journal/RCM/27/2/10.31083/RCM47426",
+      "licence_evidence_location": "Article-specific CC BY 4.0 notice below publication details.",
+      "source_type": "Review",
+      "starter_sections": [
+        "1. Introduction",
+        "2.1.1. Anatomical Considerations: Cx Determines the Dominance of the Coronary Arteries",
+        "2.1.7. Acute Coronary Syndrome (ACS) and Cx Occlusion",
+        "2.1.8. Culprit Lesions in Acute and Chronic Coronary Syndrome: Cx or RCA?",
+        "2.4. Imaging and Cx"
+      ],
+      "scope": "LCx course, obtuse marginal branches, territory, dominance, occlusion, ECG limitations and imaging.",
+      "cautions": [
+        "For the generic left marginal marker, this provides obtuse-marginal-family and LCx clinical context, not OM1/OM2-specific diagnostic rules.",
+        "Exclude detailed interventional techniques and device sections."
+      ],
+      "url": "https://doi.org/10.31083/RCM47426",
+      "licence": "CC-BY-4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "licence_checked_on": "2026-10-14",
+      "licence_assessment": "Compatible with text copying, retrieval and adaptation, subject to attribution, licence notice, change notice and third-party exclusions.",
+      "scientific_approval_status": "Not granted by this reference-selection exercise; selected excerpts need review.",
+      "article_text_included": false
+    },
+    {
+      "id": "R7",
+      "authors": "Hatoum I",
+      "year": 2024,
+      "title": "Successful coronary angioplasty of a spontaneous occlusion of the conus artery causing a ST-segment elevation myocardial infarction and electrical storm",
+      "journal": "Bulletin of the National Research Centre",
+      "volume_issue_pages": "48:91",
+      "doi": "10.1186/s42269-024-01247-6",
+      "publisher_url": "https://link.springer.com/article/10.1186/s42269-024-01247-6",
+      "licence_evidence_url": "https://link.springer.com/article/10.1186/s42269-024-01247-6",
+      "licence_evidence_location": "Rights and permissions: Creative Commons Attribution 4.0 International.",
+      "source_type": "Case report",
+      "starter_sections": [
+        "Background",
+        "Selected non-identifying diagnostic narrative and discussion"
+      ],
+      "scope": "A documented example of conus occlusion, myocardial injury/arrhythmia, ECG findings and angiographic confirmation.",
+      "cautions": [
+        "Label all case-derived claims as case-based, not universal.",
+        "Exclude absolute prognosis claims (including the conclusion implying inevitable death without an intervention), procedural instructions and treatment recommendations.",
+        "Do not upload patient images, ECG images, identifiers, or separately credited material."
+      ],
+      "url": "https://doi.org/10.1186/s42269-024-01247-6",
+      "licence": "CC-BY-4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "licence_checked_on": "2026-10-14",
+      "licence_assessment": "Compatible with text copying, retrieval and adaptation, subject to attribution, licence notice, change notice and third-party exclusions.",
+      "scientific_approval_status": "Not granted by this reference-selection exercise; selected excerpts need review.",
+      "article_text_included": false
+    },
+    {
+      "id": "R8",
+      "authors": "Nagpal P, Agrawal MD, Saboo SS, Hedgire S, Priya S, Steigner ML",
+      "year": 2020,
+      "title": "Imaging of the aortic root on high-pitch non-gated and ECG-gated CT: awareness is the key!",
+      "journal": "Insights into Imaging",
+      "volume_issue_pages": "11:51",
+      "doi": "10.1186/s13244-020-00855-w",
+      "publisher_url": "https://link.springer.com/article/10.1186/s13244-020-00855-w",
+      "licence_evidence_url": "https://link.springer.com/article/10.1186/s13244-020-00855-w",
+      "licence_evidence_location": "Rights and permissions: Creative Commons Attribution 4.0 International.",
+      "source_type": "Imaging review",
+      "starter_sections": [
+        "Aortic anatomy—aortic root and ascending aorta",
+        "Lesions of the proximal aorta — selected aneurysm and dissection explanations"
+      ],
+      "scope": "Aortic-root/ascending-aorta anatomy, aneurysm, dissection and diagnostic imaging.",
+      "cautions": [
+        "Aneurysm and dissection are not synonymous with luminal blockage.",
+        "Aortic valve stenosis is not the same as obstruction of the ascending aorta.",
+        "Exclude CT acquisition protocols, images and post-operative procedural detail."
+      ],
+      "url": "https://doi.org/10.1186/s13244-020-00855-w",
+      "licence": "CC-BY-4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "licence_checked_on": "2026-10-14",
+      "licence_assessment": "Compatible with text copying, retrieval and adaptation, subject to attribution, licence notice, change notice and third-party exclusions.",
+      "scientific_approval_status": "Not granted by this reference-selection exercise; selected excerpts need review.",
+      "article_text_included": false
+    },
+    {
+      "id": "R9",
+      "authors": "Gardellini J, Linardi D, Di Nicola V, Puntel G, Puppini G, Barozzi L, Luciani GB",
+      "year": 2025,
+      "title": "Optimal Management of Spontaneous Aortic Thrombus Floating in the Ascending Aorta, from a Single Case Experience to a Literature Review",
+      "journal": "Journal of Cardiovascular Development and Disease",
+      "volume_issue_pages": "12(4):146",
+      "doi": "10.3390/jcdd12040146",
+      "publisher_url": "https://www.mdpi.com/2308-3425/12/4/146",
+      "licence_evidence_url": "https://www.researchgate.net/publication/390648109_Optimal_Management_of_Spontaneous_Aortic_Thrombus_Floating_in_the_Ascending_Aorta_from_a_Single_Case_Experience_to_a_Literature_Review",
+      "licence_evidence_location": "CC BY 4.0 notice in the publisher-supplied original full text; the publisher article endpoint was access-restricted during checking.",
+      "source_type": "Case report with literature review",
+      "starter_sections": [
+        "Introduction",
+        "Discussion — embolic consequences and diagnostic imaging"
+      ],
+      "scope": "Ascending-aortic thrombus, downstream embolic complications, CT angiography and echocardiography.",
+      "cautions": [
+        "A floating thrombus can cause downstream embolism without completely blocking the ascending aorta.",
+        "Evidence is substantially case-based; do not turn management discussion into universal treatment rules.",
+        "Exclude patient images, procedural details and drug regimens."
+      ],
+      "url": "https://doi.org/10.3390/jcdd12040146",
+      "licence": "CC-BY-4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "licence_checked_on": "2026-10-14",
+      "licence_assessment": "Compatible with text copying, retrieval and adaptation, subject to attribution, licence notice, change notice and third-party exclusions.",
+      "scientific_approval_status": "Not granted by this reference-selection exercise; selected excerpts need review.",
+      "article_text_included": false
+    },
+    {
+      "id": "R10",
+      "authors": "Straka C, Ying J, Kong FM, Willey CD, Kaminski J, Kim DWN",
+      "year": 2016,
+      "title": "Review of evolving etiologies, implications and treatment strategies for the superior vena cava syndrome",
+      "journal": "SpringerPlus",
+      "volume_issue_pages": "5:229",
+      "doi": "10.1186/s40064-016-1900-7",
+      "publisher_url": "https://link.springer.com/article/10.1186/s40064-016-1900-7",
+      "licence_evidence_url": "https://link.springer.com/article/10.1186/s40064-016-1900-7",
+      "licence_evidence_location": "Rights and permissions: Creative Commons Attribution 4.0 International.",
+      "source_type": "Review",
+      "starter_sections": [
+        "Anatomy and physiology",
+        "Etiologies",
+        "Clinical presentation",
+        "Imaging",
+        "Histology"
+      ],
+      "scope": "SVC venous return, causes of obstruction, venous congestion/SVC syndrome and investigations of the cause.",
+      "cautions": [
+        "This older review is selected for basic anatomy and obstruction/imaging concepts, not current treatment recommendations.",
+        "Keep malignant compression and intravascular thrombosis distinct."
+      ],
+      "url": "https://doi.org/10.1186/s40064-016-1900-7",
+      "licence": "CC-BY-4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "licence_checked_on": "2026-10-14",
+      "licence_assessment": "Compatible with text copying, retrieval and adaptation, subject to attribution, licence notice, change notice and third-party exclusions.",
+      "scientific_approval_status": "Not granted by this reference-selection exercise; selected excerpts need review.",
+      "article_text_included": false
+    },
+    {
+      "id": "R11",
+      "authors": "Yi C",
+      "year": 2025,
+      "title": "Coronary sinus thrombosis: insights from a comprehensive literature review",
+      "journal": "Thrombosis Journal",
+      "volume_issue_pages": "23:24",
+      "doi": "10.1186/s12959-025-00707-x",
+      "publisher_url": "https://link.springer.com/article/10.1186/s12959-025-00707-x",
+      "licence_evidence_url": "https://link.springer.com/article/10.1186/s12959-025-00707-x",
+      "licence_evidence_location": "Rights and permissions: Creative Commons Attribution 4.0 International.",
+      "source_type": "Review",
+      "starter_sections": [
+        "Anatomy/function discussion",
+        "Pathophysiology of coronary sinus thrombosis",
+        "Clinical presentation and diagnosis discussion"
+      ],
+      "scope": "Coronary venous drainage, sinus thrombosis, consequences and diagnosis by echocardiography and cross-sectional imaging.",
+      "cautions": [
+        "Distinguish venous outflow obstruction from coronary arterial inflow obstruction.",
+        "Do not present a definitive diagnosis from a nonspecific ECG finding.",
+        "Exclude treatment regimens and unreviewed numerical claims."
+      ],
+      "url": "https://doi.org/10.1186/s12959-025-00707-x",
+      "licence": "CC-BY-4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "licence_checked_on": "2026-10-14",
+      "licence_assessment": "Compatible with text copying, retrieval and adaptation, subject to attribution, licence notice, change notice and third-party exclusions.",
+      "scientific_approval_status": "Not granted by this reference-selection exercise; selected excerpts need review.",
+      "article_text_included": false
+    }
+  ],
+  "vessels": [
+    {
+      "number": 1,
+      "structure_id": "right-coronary-proximal",
+      "label": "Right Coronary Artery (Proximal)",
+      "source_ids": [
+        "R1",
+        "R2"
+      ],
+      "starter_coverage": "RCA origin/course; proximal occlusion and right-ventricular infarction; ECG and imaging.",
+      "limitation": "Whole-vessel and territory-level diagnostic coverage; segment boundaries require a consistent local definition."
+    },
+    {
+      "number": 2,
+      "structure_id": "right-coronary-middle",
+      "label": "Right Coronary Artery (Middle)",
+      "source_ids": [
+        "R1",
+        "R2"
+      ],
+      "starter_coverage": "RCA course and branches, affected downstream myocardium, shared infarction investigations.",
+      "limitation": "No separate universal mid-RCA syndrome or ECG pattern is established."
+    },
+    {
+      "number": 3,
+      "structure_id": "right-coronary-distal",
+      "label": "Right Coronary Artery (Distal)",
+      "source_ids": [
+        "R1",
+        "R2"
+      ],
+      "starter_coverage": "Distal branching/dominance and shared coronary infarction context.",
+      "limitation": "Do not assume every distal RCA obstruction produces right-ventricular infarction."
+    },
+    {
+      "number": 4,
+      "structure_id": "posterior-descending-artery",
+      "label": "Posterior Descending Artery",
+      "source_ids": [
+        "R1",
+        "R2"
+      ],
+      "starter_coverage": "PDA course/origin and dominance; shared RCA/inferior-infarction clinical context.",
+      "limitation": "The selected pair is not a dedicated isolated-PDA diagnostic algorithm."
+    },
+    {
+      "number": 5,
+      "structure_id": "left-coronary-artery",
+      "label": "Left Coronary Artery",
+      "source_ids": [
+        "R3"
+      ],
+      "starter_coverage": "Left-main anatomy, obstruction, clinical significance and diagnostic modalities.",
+      "limitation": "Interpret this marker as the left-main trunk, not the entire left coronary arterial tree."
+    },
+    {
+      "number": 6,
+      "structure_id": "left-anterior-descending-proximal",
+      "label": "Left Anterior Descending (Proximal)",
+      "source_ids": [
+        "R1",
+        "R4"
+      ],
+      "starter_coverage": "LAD origin/course and supply, with general coronary artery disease and diagnosis.",
+      "limitation": "Anatomy plus general clinical context; not a proximal-LAD-specific diagnostic algorithm."
+    },
+    {
+      "number": 7,
+      "structure_id": "left-anterior-descending-mid",
+      "label": "Left Anterior Descending (Mid)",
+      "source_ids": [
+        "R1",
+        "R4"
+      ],
+      "starter_coverage": "LAD course/branches and shared coronary artery disease and diagnostic explanations.",
+      "limitation": "Exact segment boundaries and lesion-level ECG predictions are outside this starter coverage."
+    },
+    {
+      "number": 8,
+      "structure_id": "left-anterior-descending-apical",
+      "label": "Left Anterior Descending (Apical)",
+      "source_ids": [
+        "R1",
+        "R4"
+      ],
+      "starter_coverage": "LAD course toward the apex and shared coronary ischaemia/infarction diagnosis.",
+      "limitation": "Apical is the website marker: do not automatically equate it to every standardized distal LAD definition."
+    },
+    {
+      "number": 9,
+      "structure_id": "left-diagonal-d1",
+      "label": "Left Diagonal D1",
+      "source_ids": [
+        "R1",
+        "R5"
+      ],
+      "starter_coverage": "Diagonal branch anatomy/territory and clinical context of impaired diagonal flow.",
+      "limitation": "R5 is observational anterior-STEMI/main-diagonal evidence, not universal isolated-D1 prognosis."
+    },
+    {
+      "number": 10,
+      "structure_id": "left-diagonal-d2",
+      "label": "Left Diagonal D2",
+      "source_ids": [
+        "R1",
+        "R5"
+      ],
+      "starter_coverage": "Diagonal-family anatomy and consequences/assessment of impaired diagonal flow.",
+      "limitation": "Shared branch-family evidence only; no dedicated isolated-D2 diagnostic/prognostic coverage was established."
+    },
+    {
+      "number": 11,
+      "structure_id": "left-circumflex-artery",
+      "label": "Left Circumflex Artery",
+      "source_ids": [
+        "R6"
+      ],
+      "starter_coverage": "LCx course, branches, dominance, occlusion, clinical presentation and imaging.",
+      "limitation": "Retain the limitations of standard ECG detection discussed by the review."
+    },
+    {
+      "number": 12,
+      "structure_id": "right-marginal-artery",
+      "label": "Right Marginal Artery",
+      "source_ids": [
+        "R2"
+      ],
+      "starter_coverage": "Right-ventricular marginal supply, infarction after occlusion, and RV infarction investigations.",
+      "limitation": "Acute marginal branch; shared RV-infarction assessment rather than a unique branch-only algorithm."
+    },
+    {
+      "number": 13,
+      "structure_id": "right-conus-artery",
+      "label": "Right Conus Artery",
+      "source_ids": [
+        "R2",
+        "R7"
+      ],
+      "starter_coverage": "Conus/RV-outflow-tract supply plus a documented occlusion and diagnostic case.",
+      "limitation": "R7 is a case report; do not generalize its presentation, absolute prognosis or treatment."
+    },
+    {
+      "number": 14,
+      "structure_id": "left-marginal-artery",
+      "label": "Left Marginal Artery",
+      "source_ids": [
+        "R1",
+        "R6"
+      ],
+      "starter_coverage": "Obtuse-marginal-family anatomy and LCx/lateral-territory clinical and diagnostic context.",
+      "limitation": "Do not silently rename the generic marker OM1/OM2; no branch-order-specific diagnostic rule is claimed."
+    },
+    {
+      "number": 15,
+      "structure_id": "ascending-aorta",
+      "label": "Ascending Aorta",
+      "source_ids": [
+        "R8",
+        "R9"
+      ],
+      "starter_coverage": "Ascending-aortic anatomy, aneurysm/dissection, thrombus/embolism and CT/echo assessment.",
+      "limitation": "Aortic thrombus may embolize without fully occluding the aorta; aortic valve stenosis is different."
+    },
+    {
+      "number": 16,
+      "structure_id": "superior-vena-cava",
+      "label": "Superior Vena Cava",
+      "source_ids": [
+        "R10"
+      ],
+      "starter_coverage": "SVC anatomy, compression/thrombosis, SVC syndrome and diagnostic investigations.",
+      "limitation": "Use anatomy/obstruction/diagnostic concepts, not the older treatment recommendations."
+    },
+    {
+      "number": 17,
+      "structure_id": "coronary-sinus",
+      "label": "Coronary Sinus",
+      "source_ids": [
+        "R11"
+      ],
+      "starter_coverage": "Coronary venous drainage, sinus thrombosis, consequences and diagnostic imaging.",
+      "limitation": "Venous outflow obstruction is different from coronary arterial inflow obstruction."
+    }
+  ]
+}
